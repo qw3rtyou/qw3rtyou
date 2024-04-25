@@ -11,6 +11,7 @@
 
 2023.03 ~         | Club - K.knock 14th
 2023.10 ~ 2023.10 | 2023 Hspace CTF - Final (team K.knock)
+2023.11 ~         | KGU 2024 SW Bootcamp
 2023.12 ~ 2023.12 | 2023 KCTF - 4th (solo)
 2023.12 ~         | KnockOn Bootcamp STAFF
 
