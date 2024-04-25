@@ -1,5 +1,5 @@
 <div align=left>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=00e0e0&text=Welcome%20:)" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=00f0e0&text=Welcome%20:)" />
 
 ## 🌱 Career
 ```diff
@@ -47,10 +47,9 @@
 <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
 <br><br>
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff&style=for-the-badge">
-<img src="https://img.shields.io/badge/Bitcoin-F7931A?logo=bitcoin&logoColor=fff&style=for-the-badge">
-<img src="https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=fff&style=for-the-badge">
 <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white">
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff&style=for-the-badge">
+<img src="https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=fff&style=for-the-badge">
 <br><br>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
@@ -72,17 +71,15 @@
 <br>
 
 
+
+##
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qwertyou)](https://solved.ac/qwertyou)
 
-##
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qw3rtyou&layout=compact)](https://github.com/qw3rtyou/github-readme-stats)
 
-[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqwertyou&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/qw2rtyou)
-
-[![Fluorite's GitHub stats](https://github-readme-stats.vercel.app/api?username=qw2rtyou)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qw2rtyou)](https://github.com/anuraghazra/github-readme-stats)
+[![Fluorite's GitHub stats](https://github-readme-stats.vercel.app/api?username=qw3rtyou)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00e0e0&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00f0e0&height=150&section=footer" />
 </div>
