@@ -21,6 +21,7 @@
 2024.03 ~ 2024.03 | LineCTF - 37th (team K.knock)
 2024.03 ~ 2024.03 | Certification - CSTS
 2024.04 ~         | IoT Bug Bounty
+2024.04 ~         | Hacktheon CTF Quals 45th (팀장이 바보)
 ```
 
 
