@@ -28,7 +28,6 @@
 
 2024.06 ~ 2024.06 | .HACK Conference 2024
 2024.06 ~ 2024.06 | Codegate CTF 2024 Quals - 49th (team K.knock)
-2024.06 ~ 2024.08 | 금융보안원 웹 버그바운티
 2024.06 ~         | BoB 13th
 ```
 
