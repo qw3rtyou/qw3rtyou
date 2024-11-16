@@ -27,7 +27,8 @@
 
 2024.06 ~ 2024.06 | .HACK Conference 2024
 2024.06 ~ 2024.06 | Codegate CTF 2024 Quals - 49th (team K.knock)
-2024.06 ~         | BoB 13th
+2024.06 ~ 2025.02 | BoB 13th
+2024.11 ~ 2024.11 | U+ Security Hackathon - 25 (team 0w0)
 ```
 
 
