@@ -38,12 +38,12 @@
   2024.05 ~ 2024.05 | Certification - TOPCIT LEVEL 3 (520)
   2024.05 ~ 2024.05 | KnockOn 1st Seminar
   2024.06 ~ 2024.06 | Codegate CTF 2024 Quals - 49th (team K.knock)
-+ 2024.06 ~ 2025.02 | BoB 13th
   2024.11 ~ 2024.11 | U+ Security Hackathon - 25 (team 0w0)
 
 
 # 2025
 
++ 2024.06 ~ 2025.02 | BoB 13th
 + 2024.11 ~ 2025.01 | KakaoTalk 1 Click Account Takeover
 + 2025.02 ~         | CTF Team - DeadSec
 ```
