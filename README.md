@@ -1,33 +1,51 @@
 <div align=left>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=00f0e0&text=Welcome%20:)" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=00f0e0&text=" />
 
 ## 🌱 Career
 ```diff
+# 2020
+
 + 2020.03 ~         | KGU Computer Engineering
 
-2022.06 ~ 2022.06 | Certification - Network Manager 2
-2022.10 ~ 2022.10 | Certification - PC Master 2
+
+# 2021
+
+- Army..
+
+
+# 2022
+
+  2022.06 ~ 2022.06 | Certification - Network Manager 2
+  2022.10 ~ 2022.10 | Certification - PC Master 2
+
+
+# 2023
 
 + 2023.03 ~         | Club - K.knock 14th
-- 2023.10 ~ 2023.10 | 2023 Hspace CTF - Final (team K.knock)
-2023.11 ~         | KGU 2024 SW Bootcamp
-- 2023.12 ~ 2023.12 | 2023 KCTF - 4th (solo)
+  2023.10 ~ 2023.10 | 2023 Hspace CTF - Final (team K.knock)
+  2023.11 ~         | KGU 2024 SW Bootcamp
+  2023.12 ~ 2023.12 | 2023 KCTF - 4th (solo)
 + 2023.12 ~         | KnockOn Bootcamp STAFF
 
+
+# 2024
+
 + 2024.03 ~ 2024.12 | K.knock 15th Web Mentor & Server Manager
-- 2024.03 ~ 2024.03 | HTB Cyber apocalypse CTF 2024 Quals (team K.knock)
-- 2024.03 ~ 2024.03 | LineCTF - 37th (team K.knock)
-2024.03 ~ 2024.03 | Certification - CSTS
-- 2024.04 ~ 2024.04 | Hacktheon CTF Quals 45th (team 팀장이 바보)
-
-2024.05 ~ 2024.05 | Certification - TOPCIT LEVEL 3 (520)
-2024.05 ~ 2024.05 | KnockOn 1st Seminar
-
-- 2024.06 ~ 2024.06 | Codegate CTF 2024 Quals - 49th (team K.knock)
+  2024.03 ~ 2024.03 | HTB Cyber apocalypse CTF 2024 Quals (team K.knock)
+  2024.03 ~ 2024.03 | LineCTF - 37th (team K.knock)
+  2024.03 ~ 2024.03 | Certification - CSTS
+  2024.04 ~ 2024.04 | Hacktheon CTF Quals 45th (team 팀장이 바보)
+  2024.05 ~ 2024.05 | Certification - TOPCIT LEVEL 3 (520)
+  2024.05 ~ 2024.05 | KnockOn 1st Seminar
+  2024.06 ~ 2024.06 | Codegate CTF 2024 Quals - 49th (team K.knock)
 + 2024.06 ~ 2025.02 | BoB 13th
-- 2024.11 ~ 2024.11 | U+ Security Hackathon - 25 (team 0w0)
-+ 2024.12 ~ 2024.12 | KakaoTalk 1 Click Account Takeover
-+ 2025.02 ~         | DeadSec
+  2024.11 ~ 2024.11 | U+ Security Hackathon - 25 (team 0w0)
+
+
+# 2025
+
++ 2024.11 ~ 2025.01 | KakaoTalk 1 Click Account Takeover
++ 2025.02 ~         | CTF Team - DeadSec
 ```
 
 
