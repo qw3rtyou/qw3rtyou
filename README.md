@@ -58,6 +58,7 @@ and other related fields...
 =========================================================
 + 2024.06 ~ 2025.02 | BoB 13th
 + 2024.11 ~ 2025.01 | KakaoTalk 1 Click Account Takeover
++ 2025.01 ~         | K.knock Vice president
 + 2025.02 ~         | CTF Team - DeadSec
 ```
 <br>
