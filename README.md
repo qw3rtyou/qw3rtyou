@@ -87,13 +87,14 @@ I'm currently studying web hacking and other related fields...
 
 [![Fluorite's GitHub stats](https://github-readme-stats.vercel.app/api?username=qw3rtyou)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00f0e0&height=150&section=footer" />
-</div>
-
 ## 🏁 Chess
 Play with me...!
 <!--START_SECTION:chessStats-->
 
 <!--END_SECTION:chessStats-->
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00f0e0&height=150&section=footer" />
+</div>
+
 
