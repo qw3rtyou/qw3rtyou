@@ -90,6 +90,25 @@ I'm currently studying web hacking and other related fields...
 ## 🏁 Chess
 Play with me...!
 <!--START_SECTION:chessStats-->
+<!-- Automatically generated with https://github.com/Balastrong/chess-stats-action -->
+
+| Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
+|:---:|:---:|:---:|:---:|
+| Current | 1106 | No Rating | 759 |
+| Best | 1108 | No Rating | 1015 |
+
+| White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| hafiyganteng1 | **qwertyou1346** | resigned ❌ | 8/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3kr1/p1p2R1p/1p3Q2/3Bp3/1P3q2/P6P/5PP1/5RK1 b - -">Link</a> | Rapid |
+| **qwertyou1346** | sachingyawali35 | win 🥇 | 8/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6K1/8/p2k4/8/8/P1Q2P2/8 w - -">Link</a> | Rapid |
+| magnusopffgm | **qwertyou1346** | resigned ❌ | 8/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/p5pp/3pQ3/5P2/1PP5/5bP1/P1PK3P/R7 b - -">Link</a> | Rapid |
+| **qwertyou1346** | darkstarrrr | win 🥇 | 8/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/k2Q1K2/rpp5/2P4P/2R5 b - -">Link</a> | Rapid |
+| Sharvesh_R2017 | **qwertyou1346** | win 🥇 | 8/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q7/p1p2Rpk/1p6/4p3/6qK/3P2P1/PPP2n1P/8 w - -">Link</a> | Rapid |
+| 0xMarcus | **qwertyou1346** | win 🥇 | 8/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/1bp4p/1p5p/pP5r/P1P2p2/3P1P2/5QPN/q6K w - -">Link</a> | Rapid |
+| 69Sugar-Daddy69 | **qwertyou1346** | checkmated ❌ | 7/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/6QR/4p1p1/8/8/1p1P3P/5rPK/r2q4 b - -">Link</a> | Rapid |
+| **qwertyou1346** | hoogeveen38 | win 🥇 | 7/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkb1r/pppb1ppp/2nppn2/1B1P4/4P3/2N2N2/PPP2PPP/R1BQK2R b KQkq -">Link</a> | Rapid |
+| **qwertyou1346** | ORANSalruailee | win 🥇 | 7/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=N7/1k5Q/3p4/3Pp3/2p1P1p1/1P4P1/1BP2P1P/R5K1 b - -">Link</a> | Rapid |
+| **qwertyou1346** | Platinum_Bell | abandoned  | 7/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1k2/ppp3p1/1b2p1Bn/1b1pP3/1P4Pp/2P2P2/7P/4QR1K w - - 1 19">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
