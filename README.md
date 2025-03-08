@@ -87,7 +87,7 @@ I'm currently studying web hacking and other related fields...
 
 [![Fluorite's GitHub stats](https://github-readme-stats.vercel.app/api?username=qw3rtyou)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🏁 Chess
+## 🏁 [Chess.com](https://www.chess.com/)
 Play with me...!
 <!--START_SECTION:chessStats-->
 <!-- Automatically generated with https://github.com/Balastrong/chess-stats-action -->
