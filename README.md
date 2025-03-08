@@ -9,8 +9,7 @@ qwertyou || Foo1
 
 ❯ cat ~/.profile
 Hello! I'm interested in cybersecurity.
-I'm currently studying web hacking, artificial intelligence
-and other related fields...
+I'm currently studying web hacking and other related fields...
 ```
 <br>
   
@@ -91,3 +90,10 @@ and other related fields...
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00f0e0&height=150&section=footer" />
 </div>
+
+## 🏁 Chess
+Play with me...
+<!--START_SECTION:chessStats-->
+
+<!--END_SECTION:chessStats-->
+
