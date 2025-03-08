@@ -92,7 +92,7 @@ I'm currently studying web hacking and other related fields...
 </div>
 
 ## 🏁 Chess
-Play with me...
+Play with me...!
 <!--START_SECTION:chessStats-->
 
 <!--END_SECTION:chessStats-->
