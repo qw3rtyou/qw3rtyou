@@ -94,11 +94,14 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1076 | No Rating | 759 |
+| Current | 1082 | No Rating | 759 |
 | Best | 1108 | No Rating | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **qwertyou1346** | StriderG108 | win 🥇 | 9/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rk1Q/5pp1/p2P4/2p5/8/3Br1P1/PPP5/1K1Rq3 b - -">Link</a> | Rapid |
+| SALEM238 | **qwertyou1346** | win 🥇 | 9/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/2p2p2/7p/8/pn3P1P/2b3P1/1p1K4/8 w - -">Link</a> | Rapid |
+| salah5667 | **qwertyou1346** | resigned ❌ | 9/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1Q3/p1p3pk/3p2pp/2pn2P1/2B5/3P3P/PPP3P1/R3R1K1 b - -">Link</a> | Rapid |
 | wormcastings | **qwertyou1346** | win 🥇 | 9/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2krr3/ppp2pp1/7p/2b5/5B2/2P2K2/PP4PP/R7 w - -">Link</a> | Rapid |
 | **qwertyou1346** | Envar3 | win 🥇 | 9/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1B6/8/R7/8/k1K5/8/8/8 b - -">Link</a> | Rapid |
 | **qwertyou1346** | sajadtaha1300 | resigned ❌ | 9/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rrk1/p6p/1p4p1/8/1Q6/1P4P1/P4PKP/q7 w - -">Link</a> | Rapid |
@@ -106,9 +109,6 @@ Play with me...!
 | **qwertyou1346** | A_Eissa | resigned ❌ | 8/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/K7/8/8/5k2/8/2p5/8 w - -">Link</a> | Rapid |
 | Mohsen-Beheshti | **qwertyou1346** | resigned ❌ | 8/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q1k1/p1p2p1p/1p3qp1/3b4/8/P1P2P1P/5BP1/6K1 b - -">Link</a> | Rapid |
 | **qwertyou1346** | Gulbiddin7 | resigned ❌ | 8/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2P5/8/7k/2r3p1/4K3/8/8 w - -">Link</a> | Rapid |
-| hafiyganteng1 | **qwertyou1346** | resigned ❌ | 8/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3kr1/p1p2R1p/1p3Q2/3Bp3/1P3q2/P6P/5PP1/5RK1 b - -">Link</a> | Rapid |
-| **qwertyou1346** | sachingyawali35 | win 🥇 | 8/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6K1/8/p2k4/8/8/P1Q2P2/8 w - -">Link</a> | Rapid |
-| magnusopffgm | **qwertyou1346** | resigned ❌ | 8/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/p5pp/3pQ3/5P2/1PP5/5bP1/P1PK3P/R7 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
