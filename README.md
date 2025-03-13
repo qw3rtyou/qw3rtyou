@@ -94,11 +94,13 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1133 | No Rating | 759 |
+| Current | 1150 | No Rating | 759 |
 | Best | 1108 | No Rating | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| GermanSimonyan | **qwertyou1346** | win 🥇 | 13/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2k2/1ppp1pp1/p1n4p/4b3/8/1B2B3/P1p2PPP/RN4K1 w - -">Link</a> | Rapid |
+| **qwertyou1346** | Pritesh_gholap | win 🥇 | 13/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k2r/pp1pppbp/5np1/8/5q1Q/1P3P2/P1PBBP1P/RN2K2R w KQkq -">Link</a> | Rapid |
 | **qwertyou1346** | ChaturChaalak | resigned ❌ | 13/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5pp1/b3p2p/3p4/r4P2/1K4P1/pP3qBP/N7 w - -">Link</a> | Rapid |
 | dhivaini | **qwertyou1346** | win 🥇 | 13/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=K1q5/8/1k6/8/8/8/8/8 w - -">Link</a> | Rapid |
 | **qwertyou1346** | TranHuy_Hoang | win 🥇 | 13/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r2k2r/p1p2ppp/2Q1bq2/2B5/8/8/PPP2PPP/1K1R1B1R b k -">Link</a> | Rapid |
@@ -107,8 +109,6 @@ Play with me...!
 | **qwertyou1346** | JustinLamperouge | win 🥇 | 12/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=N3R1k1/p4ppp/1p1p4/5bb1/8/8/PP3PPP/R5K1 b - -">Link</a> | Rapid |
 | PoloM23 | **qwertyou1346** | win 🥇 | 12/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kr2/ppp4p/3p4/4B1p1/7N/6K1/PPP2bPP/RN2R3 w - -">Link</a> | Rapid |
 | **qwertyou1346** | antbul | resigned ❌ | 12/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4k1r/pp3pp1/2p4p/q4b1n/N3P3/1P2b3/PBP3PP/1K1R1B1R w - -">Link</a> | Rapid |
-| OussaHassa | **qwertyou1346** | win 🥇 | 12/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/pR2P2p/2p3p1/4r3/8/3KP3/P7/8 w - -">Link</a> | Rapid |
-| **qwertyou1346** | TTH81 | resigned ❌ | 11/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p1p2ppp/2p5/3rP1n1/2p5/8/PPP3PP/2K5 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
