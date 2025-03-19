@@ -94,11 +94,14 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1094 | No Rating | 759 |
+| Current | 1101 | No Rating | 759 |
 | Best | 1108 | No Rating | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **qwertyou1346** | lymygg | checkmated ❌ | 18/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/1p4pp/p7/3R1p2/2p5/2P5/PP3PPP/4r1K1 w - -">Link</a> | Rapid |
+| **qwertyou1346** | majidawad | win 🥇 | 18/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/3Q2p1/2P5/4p2p/4P3/5r2/3q1P1P/R4K2 w - -">Link</a> | Rapid |
+| majidawad | **qwertyou1346** | win 🥇 | 18/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/pp3p1p/4pQp1/3pP3/6P1/P3qP1P/2n1B1K1/2R5 b - -">Link</a> | Rapid |
 | **qwertyou1346** | CHESS_WIZARD265 | resigned ❌ | 16/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/pr4pp/3p1p2/1P1P1b2/1b2pq2/1B6/P1R2PPP/2R3K1 w - -">Link</a> | Rapid |
 | npwood14 | **qwertyou1346** | checkmated ❌ | 16/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5QRk/p6p/2p4r/4P3/1P6/P1P2P1q/7p/5R1K b - -">Link</a> | Rapid |
 | Oloffransson14 | **qwertyou1346** | resigned ❌ | 15/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p5/1p5R/1k4P1/1P6/8/4K3/3R3r b - -">Link</a> | Rapid |
@@ -106,9 +109,6 @@ Play with me...!
 | **qwertyou1346** | anoop_mukundan | win 🥇 | 15/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r2qrk1/p1p4Q/3pbb2/2p5/8/P1NB2P1/1PP4P/1K1R3R b - -">Link</a> | Rapid |
 | ssdkakinada | **qwertyou1346** | resigned ❌ | 15/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/2p2p2/1p1p1N1p/p1b1PQ2/8/P4NP1/1PP2P1P/R4RK1 b - -">Link</a> | Rapid |
 | **qwertyou1346** | Miitbeo | resigned ❌ | 14/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rb1r/pNk3p1/2p2p2/7p/8/8/PPP2PPP/2KR4 w - -">Link</a> | Rapid |
-| HanruiC1234567 | **qwertyou1346** | resigned ❌ | 14/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1pk4/4r3/3Q4/q1r5/R6P/2P2PPK/1R6 b - -">Link</a> | Rapid |
-| **qwertyou1346** | Charterone | win 🥇 | 14/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq3r/ppp2Qpp/2nkpb2/1N1pN3/3P4/8/PPP2PPP/R3KB1R b KQ -">Link</a> | Rapid |
-| VishnuKoduri | **qwertyou1346** | insufficient ⏸️ | 14/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/1k6/3K4/8 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
