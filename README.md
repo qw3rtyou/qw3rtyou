@@ -94,11 +94,12 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1089 | No Rating | 759 |
+| Current | 1081 | No Rating | 759 |
 | Best | 1108 | No Rating | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **qwertyou1346** | khumanii | resigned ❌ | 22/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/Pb3p2/1P1B2p1/3rP2p/2K5/4b3/6PP/8 w - -">Link</a> | Rapid |
 | YOSEFtheGREAT | **qwertyou1346** | resigned ❌ | 21/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/ppp2ppp/8/2bB4/3N2P1/2P5/PP3KP1/RNBQ1R1q b - -">Link</a> | Rapid |
 | stinkyboi664 | **qwertyou1346** | resigned ❌ | 21/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/ppp2pp1/7p/4p3/8/2NPPbP1/PPB2N1P/R3KR2 b Q -">Link</a> | Rapid |
 | **qwertyou1346** | Big_Grumpy_Gorilla | checkmated ❌ | 21/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/6pp/5p2/1p3P2/1R1Q3P/6P1/P4P1K/4r2q w - -">Link</a> | Rapid |
@@ -108,7 +109,6 @@ Play with me...!
 | mohammad292929 | **qwertyou1346** | win 🥇 | 19/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/1pp4p/p5p1/2q2pQ1/3bpP2/NbP5/nB1PB1PP/K1R4R w kq -">Link</a> | Rapid |
 | PDH24 | **qwertyou1346** | win 🥇 | 19/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/ppp2pQp/3bb3/8/P3p3/1PP5/3P1PPP/nN1K1qNR w - -">Link</a> | Rapid |
 | **qwertyou1346** | bucket0379 | resigned ❌ | 19/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1k1npp1/4p3/1R1pP3/r2P3P/5K2/5P2/8 w - -">Link</a> | Rapid |
-| **qwertyou1346** | lymygg | checkmated ❌ | 18/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/1p4pp/p7/3R1p2/2p5/2P5/PP3PPP/4r1K1 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
