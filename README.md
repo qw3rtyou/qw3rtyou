@@ -94,11 +94,12 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1075 | No Rating | 759 |
+| Current | 1083 | No Rating | 759 |
 | Best | 1108 | No Rating | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **qwertyou1346** | kooroshmks | win 🥇 | 1/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R4/4R3/5R2/6R1/7R/8/7k/K7 b - -">Link</a> | Rapid |
 | AlonKadinov | **qwertyou1346** | win 🥇 | 31/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/ppp3pp/5p2/3np1N1/2Bn4/5Q2/PPP2PPP/RNB1K2R w KQkq -">Link</a> | Rapid |
 | **qwertyou1346** | Claycan | resigned ❌ | 31/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/R4rp1/3p2k1/4p2p/8/6K1/8/8 w - -">Link</a> | Rapid |
 | **qwertyou1346** | RIAANARORA | resigned ❌ | 31/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/5p1p/1p2p1p1/1pp4n/3b2P1/1P1B1b2/P1PQ3P/4R2K w - -">Link</a> | Rapid |
@@ -108,7 +109,6 @@ Play with me...!
 | dificultashvili | **qwertyou1346** | resigned ❌ | 24/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/ppQ3pp/8/2p5/8/7P/P5PK/5r2 b - -">Link</a> | Rapid |
 | **qwertyou1346** | khumanii | resigned ❌ | 22/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/Pb3p2/1P1B2p1/3rP2p/2K5/4b3/6PP/8 w - -">Link</a> | Rapid |
 | YOSEFtheGREAT | **qwertyou1346** | resigned ❌ | 21/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/ppp2ppp/8/2bB4/3N2P1/2P5/PP3KP1/RNBQ1R1q b - -">Link</a> | Rapid |
-| stinkyboi664 | **qwertyou1346** | resigned ❌ | 21/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/ppp2pp1/7p/4p3/8/2NPPbP1/PPB2N1P/R3KR2 b Q -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
