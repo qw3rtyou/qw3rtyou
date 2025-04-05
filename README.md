@@ -94,11 +94,13 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1090 | No Rating | 759 |
+| Current | 1086 | No Rating | 759 |
 | Best | 1108 | No Rating | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| ariamuddarn | **qwertyou1346** | win 🥇 | 4/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rrk1/1pp2ppp/p2p4/P2P2q1/1PQ3b1/2P5/6PP/5RK1 w - -">Link</a> | Rapid |
+| **qwertyou1346** | ISeann | checkmated ❌ | 4/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r2k2r/p1p2ppp/2ppbB2/8/4P2Q/4bP2/qPP3PP/1K1R1B1R w k -">Link</a> | Rapid |
 | Dan-Rasta-Tafari | **qwertyou1346** | win 🥇 | 3/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p6p/4kp2/4p1p1/6K1/4bP2/P6P/8 w - -">Link</a> | Rapid |
 | siddhantrg93 | **qwertyou1346** | resigned ❌ | 3/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p3b3/1p6/4pP2/6R1/1KP2kpP/PP6/4N3 b - -">Link</a> | Rapid |
 | Bonzerjungle | **qwertyou1346** | repetition ⏸️ | 3/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/kpp5/2n3p1/p7/1P2p3/PKP3PB/3q4/8 w - -">Link</a> | Rapid |
@@ -107,8 +109,6 @@ Play with me...!
 | AlonKadinov | **qwertyou1346** | win 🥇 | 31/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/ppp3pp/5p2/3np1N1/2Bn4/5Q2/PPP2PPP/RNB1K2R w KQkq -">Link</a> | Rapid |
 | **qwertyou1346** | Claycan | resigned ❌ | 31/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/R4rp1/3p2k1/4p2p/8/6K1/8/8 w - -">Link</a> | Rapid |
 | **qwertyou1346** | RIAANARORA | resigned ❌ | 31/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/5p1p/1p2p1p1/1pp4n/3b2P1/1P1B1b2/P1PQ3P/4R2K w - -">Link</a> | Rapid |
-| NenadKnipp | **qwertyou1346** | win 🥇 | 31/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1r4/pb1p2pp/2pP4/1p2P2q/1RB4P/Q1P2rP1/P3RP2/6K1 w - -">Link</a> | Rapid |
-| William1977Lleida | **qwertyou1346** | checkmated ❌ | 25/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4kR2/p2N4/2PB4/5p2/8/3K4/1r3b1P/8 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
