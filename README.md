@@ -94,11 +94,12 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1086 | No Rating | 759 |
+| Current | 1077 | No Rating | 759 |
 | Best | 1108 | No Rating | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **qwertyou1346** | IChobit | abandoned  | 5/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5kp1/4p1Rp/3pK2P/5P2/8/8/qr6 w - -">Link</a> | Rapid |
 | ariamuddarn | **qwertyou1346** | win 🥇 | 4/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rrk1/1pp2ppp/p2p4/P2P2q1/1PQ3b1/2P5/6PP/5RK1 w - -">Link</a> | Rapid |
 | **qwertyou1346** | ISeann | checkmated ❌ | 4/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r2k2r/p1p2ppp/2ppbB2/8/4P2Q/4bP2/qPP3PP/1K1R1B1R w k -">Link</a> | Rapid |
 | Dan-Rasta-Tafari | **qwertyou1346** | win 🥇 | 3/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p6p/4kp2/4p1p1/6K1/4bP2/P6P/8 w - -">Link</a> | Rapid |
@@ -108,7 +109,6 @@ Play with me...!
 | **qwertyou1346** | kooroshmks | win 🥇 | 1/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R4/4R3/5R2/6R1/7R/8/7k/K7 b - -">Link</a> | Rapid |
 | AlonKadinov | **qwertyou1346** | win 🥇 | 31/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/ppp3pp/5p2/3np1N1/2Bn4/5Q2/PPP2PPP/RNB1K2R w KQkq -">Link</a> | Rapid |
 | **qwertyou1346** | Claycan | resigned ❌ | 31/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/R4rp1/3p2k1/4p2p/8/6K1/8/8 w - -">Link</a> | Rapid |
-| **qwertyou1346** | RIAANARORA | resigned ❌ | 31/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/5p1p/1p2p1p1/1pp4n/3b2P1/1P1B1b2/P1PQ3P/4R2K w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
