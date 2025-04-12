@@ -94,11 +94,12 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1085 | No Rating | 759 |
+| Current | 1091 | No Rating | 759 |
 | Best | 1108 | No Rating | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **qwertyou1346** | Mohammad0863 | win 🥇 | 11/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R7/8/3p4/1k6/1pR5/pK6/P1P5/8 b - - 0 48">Link</a> | Rapid |
 | **qwertyou1346** | StriderG108 | win 🥇 | 10/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/8/3p2k1/2p5/1p6/8/R1P3Kp/8 b - - 0 53">Link</a> | Daily |
 | foratraqqa2000 | **qwertyou1346** | win 🥇 | 8/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k2r2/p1p2qpp/1p1p4/4p3/PPP1P3/3P2P1/3QN2P/R4rK1 w - -">Link</a> | Rapid |
 | **qwertyou1346** | IChobit | abandoned  | 5/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5kp1/4p1Rp/3pK2P/5P2/8/8/qr6 w - -">Link</a> | Rapid |
@@ -108,7 +109,6 @@ Play with me...!
 | siddhantrg93 | **qwertyou1346** | resigned ❌ | 3/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p3b3/1p6/4pP2/6R1/1KP2kpP/PP6/4N3 b - -">Link</a> | Rapid |
 | Bonzerjungle | **qwertyou1346** | repetition ⏸️ | 3/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/kpp5/2n3p1/p7/1P2p3/PKP3PB/3q4/8 w - -">Link</a> | Rapid |
 | **qwertyou1346** | UpenderBajaj | win 🥇 | 2/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b2rk1/rpN2ppp/pQ3n2/1p6/1P2P3/2P5/P4PPP/R3R1K1 b - -">Link</a> | Rapid |
-| **qwertyou1346** | kooroshmks | win 🥇 | 1/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R4/4R3/5R2/6R1/7R/8/7k/K7 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
