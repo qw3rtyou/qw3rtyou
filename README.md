@@ -99,6 +99,7 @@ Play with me...!
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **qwertyou1346** | Platinum_Bell | resigned ❌ | 25/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/p4ppp/2p1p3/3pP1B1/3RnP2/2P5/q1P3PP/2K2B1R w - - 1 14">Link</a> | Rapid |
 | **qwertyou1346** | Chelsea19_05Fc | win 🥇 | 15/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/Q2bNppp/3p2q1/2p5/2B1P3/8/PrP2PPP/R4RK1 b - - 3 18">Link</a> | Rapid |
 | NinzenHusky | **qwertyou1346** | resigned ❌ | 13/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kN4/ppp1b1pp/3p4/8/3P4/8/PPP1N1Pn/R1B3K1 b - - 1 18">Link</a> | Rapid |
 | Pisis3 | **qwertyou1346** | win 🥇 | 12/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2R5/p6p/6p1/P7/1k5P/6P1/1rp2P2/4K3 b - - 3 42">Link</a> | Rapid |
@@ -108,7 +109,6 @@ Play with me...!
 | foratraqqa2000 | **qwertyou1346** | win 🥇 | 8/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k2r2/p1p2qpp/1p1p4/4p3/PPP1P3/3P2P1/3QN2P/R4rK1 w - -">Link</a> | Rapid |
 | **qwertyou1346** | IChobit | abandoned  | 5/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5kp1/4p1Rp/3pK2P/5P2/8/8/qr6 w - -">Link</a> | Rapid |
 | ariamuddarn | **qwertyou1346** | win 🥇 | 4/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rrk1/1pp2ppp/p2p4/P2P2q1/1PQ3b1/2P5/6PP/5RK1 w - -">Link</a> | Rapid |
-| **qwertyou1346** | ISeann | checkmated ❌ | 4/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r2k2r/p1p2ppp/2ppbB2/8/4P2Q/4bP2/qPP3PP/1K1R1B1R w k -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
