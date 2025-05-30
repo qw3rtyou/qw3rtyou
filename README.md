@@ -94,11 +94,13 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1097 | No Rating | 759 |
+| Current | 1093 | No Rating | 759 |
 | Best | 1108 | No Rating | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **qwertyou1346** | CLaY419 | agreed ⏸️ | 29/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/7p/p4ppB/2pp4/8/1P1b1P1P/P5P1/3RrK2 w - - 1 25">Link</a> | Rapid |
+| **qwertyou1346** | CLaY419 | agreed ⏸️ | 29/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r1k/pp2N1bp/8/4p1p1/6Q1/3b4/PPq2PPP/n3K3 w - - 0 23">Link</a> | Daily |
 | **qwertyou1346** | CLaY419 | agreed ⏸️ | 28/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4R3/p1p3pp/1kp2pb1/8/5P2/BPN5/P2K1nBP/8 w - - 1 32">Link</a> | Rapid |
 | CLaY419 | **qwertyou1346** | agreed ⏸️ | 28/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p1p5/1pPp3p/1P4p1/P4p2/5P2/5KPP/r7 w - - 2 38">Link</a> | Rapid |
 | **qwertyou1346** | Platinum_Bell | resigned ❌ | 25/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/p4ppp/2p1p3/3pP1B1/3RnP2/2P5/q1P3PP/2K2B1R w - - 1 14">Link</a> | Rapid |
@@ -107,8 +109,6 @@ Play with me...!
 | Pisis3 | **qwertyou1346** | win 🥇 | 12/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2R5/p6p/6p1/P7/1k5P/6P1/1rp2P2/4K3 b - - 3 42">Link</a> | Rapid |
 | **qwertyou1346** | vyacheslav8989 | win 🥇 | 12/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7Q/7k/5Bp1/3r1n1p/P1N5/1q3P2/6PP/7K b - - 3 36">Link</a> | Rapid |
 | **qwertyou1346** | Mohammad0863 | win 🥇 | 11/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R7/8/3p4/1k6/1pR5/pK6/P1P5/8 b - - 0 48">Link</a> | Rapid |
-| **qwertyou1346** | StriderG108 | win 🥇 | 10/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/8/3p2k1/2p5/1p6/8/R1P3Kp/8 b - - 0 53">Link</a> | Daily |
-| foratraqqa2000 | **qwertyou1346** | win 🥇 | 8/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k2r2/p1p2qpp/1p1p4/4p3/PPP1P3/3P2P1/3QN2P/R4rK1 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
