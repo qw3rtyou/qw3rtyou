@@ -99,6 +99,7 @@ Play with me...!
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **qwertyou1346** | askka_12 | resigned ❌ | 31/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b4r/ppp2kp1/3p4/3Nppq1/3nP2p/3P2P1/PPP2P2/R4RK1 w - - 0 17">Link</a> | Rapid |
 | **qwertyou1346** | askka_12 | win 🥇 | 30/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6P1/8/5K2/1ppk4/pP6/P1P4P/8 b - - 0 37">Link</a> | Rapid |
 | **qwertyou1346** | askka_12 | win 🥇 | 30/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6N1/p7/3p4/5p2/b1R5/8/KP2kP2/8 b - - 0 40">Link</a> | Rapid |
 | **qwertyou1346** | askka_12 | repetition ⏸️ | 30/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p2kp1p/1R6/2r1r3/8/8/PP6/4K3 w - - 8 42">Link</a> | Rapid |
@@ -108,7 +109,6 @@ Play with me...!
 | **qwertyou1346** | CLaY419 | agreed ⏸️ | 28/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4R3/p1p3pp/1kp2pb1/8/5P2/BPN5/P2K1nBP/8 w - - 1 32">Link</a> | Rapid |
 | CLaY419 | **qwertyou1346** | agreed ⏸️ | 28/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p1p5/1pPp3p/1P4p1/P4p2/5P2/5KPP/r7 w - - 2 38">Link</a> | Rapid |
 | **qwertyou1346** | Platinum_Bell | resigned ❌ | 25/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/p4ppp/2p1p3/3pP1B1/3RnP2/2P5/q1P3PP/2K2B1R w - - 1 14">Link</a> | Rapid |
-| **qwertyou1346** | Chelsea19_05Fc | win 🥇 | 15/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/Q2bNppp/3p2q1/2p5/2B1P3/8/PrP2PPP/R4RK1 b - - 3 18">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
