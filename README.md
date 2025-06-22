@@ -94,11 +94,12 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1084 | No Rating | 759 |
+| Current | 1093 | No Rating | 759 |
 | Best | 1108 | No Rating | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **qwertyou1346** | Penguins346 | win 🥇 | 21/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p1r1p1k/p1b2Qpp/8/8/7P/PPP2PP1/4R1K1 b - - 0 27">Link</a> | Rapid |
 | **qwertyou1346** | DonKeke | abandoned  | 5/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4nk2/1p2R1pp/p2nr3/3K4/8/8/6PP/8 w - - 0 38">Link</a> | Rapid |
 | Nez296 | **qwertyou1346** | resigned ❌ | 4/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r2/p4p1p/2p1bk1P/1p2p1pQ/4P3/1N1P4/PPP2qP1/2K2R1R b - - 1 20">Link</a> | Rapid |
 | **qwertyou1346** | gdovalc | win 🥇 | 4/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r3k1/6pp/5p2/4p3/P1N5/1P4P1/1BN4P/4K3 b - - 0 33">Link</a> | Rapid |
@@ -108,7 +109,6 @@ Play with me...!
 | Ali_waldi | **qwertyou1346** | resigned ❌ | 4/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r1kbqr/p1pp4/b1n2Npn/1pP1ppNp/1P2P3/P2PB1PP/5PB1/R2Q1RK1 b k - 5 20">Link</a> | Rapid |
 | **qwertyou1346** | Tomazeljko | win 🥇 | 4/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r1k/1p3ppp/4p2R/1P6/2p5/qP4Q1/1B4PP/2KR4 b - - 5 25">Link</a> | Rapid |
 | kavitha-2511 | **qwertyou1346** | resigned ❌ | 1/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/8/8/1P2B3/P3k3/1KP2bR1/8 b - - 0 45">Link</a> | Rapid |
-| **qwertyou1346** | askka_12 | resigned ❌ | 31/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b4r/ppp2kp1/3p4/3Nppq1/3nP2p/3P2P1/PPP2P2/R4RK1 w - - 0 17">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
