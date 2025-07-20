@@ -99,6 +99,8 @@ Play with me...!
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **qwertyou1346** | kjh241 | repetition ⏸️ | 19/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4q1nr/5k1p/1bn2P2/1p1p4/1P3Q1B/2Pb1N2/5PKP/8 b - - 10 28">Link</a> | Rapid |
+| **qwertyou1346** | kjh241 | resigned ❌ | 19/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1rbqkb1r/p1P2ppp/nn1p4/1B2p3/1P2P3/P1N2N2/2P1QPPP/R1B2RK1 b k - 0 12">Link</a> | Rapid |
 | hkkkh007 | **qwertyou1346** | win 🥇 | 16/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p1p/8/8/4k3/4n3/PP3p2/2K5 w - - 0 45">Link</a> | Rapid |
 | **qwertyou1346** | cwhoover1963 | win 🥇 | 11/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r2k/3RP1pp/pp6/1p6/8/P7/P1P3PP/5K2 b - - 0 29">Link</a> | Rapid |
 | jimzhanwm | **qwertyou1346** | resigned ❌ | 11/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/p1p1Rppp/1p6/2bP4/2Bn2n1/P1NP4/1PP2PPP/R1BQ2K1 b - - 0 12">Link</a> | Rapid |
@@ -107,8 +109,6 @@ Play with me...!
 | **qwertyou1346** | vinkobabic1954 | resigned ❌ | 5/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/1pp3pp/p1n5/4p3/3pP2b/1P1P2qP/PBP4K/5RQ1 w - - 0 23">Link</a> | Rapid |
 | rakesh_funk | **qwertyou1346** | resigned ❌ | 5/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/pppp2pp/8/b3P3/B7/1QP1BN2/Pq3PPP/RN2R1K1 b - - 4 15">Link</a> | Rapid |
 | hamzea9 | **qwertyou1346** | resigned ❌ | 5/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q1b1r/R4pp1/k1p3p1/q5P1/5p2/2N2N2/PPP2P2/2K5 b - - 0 24">Link</a> | Rapid |
-| **qwertyou1346** | Penguins346 | win 🥇 | 21/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p1r1p1k/p1b2Qpp/8/8/7P/PPP2PP1/4R1K1 b - - 0 27">Link</a> | Rapid |
-| **qwertyou1346** | DonKeke | abandoned  | 5/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4nk2/1p2R1pp/p2nr3/3K4/8/8/6PP/8 w - - 0 38">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
