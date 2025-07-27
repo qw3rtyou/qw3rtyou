@@ -94,11 +94,13 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1079 | No Rating | 759 |
+| Current | 1059 | No Rating | 759 |
 | Best | 1108 | No Rating | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **qwertyou1346** | SahilBele04 | timeout ❌ | 26/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rk3/Q4pp1/3bp1q1/4n2r/3p4/5N2/5PK1/5R2 w - - 2 35">Link</a> | Rapid |
+| **qwertyou1346** | chana2001 | resigned ❌ | 26/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkbnr/2p1pppp/p1b5/8/3P4/8/PPP3PP/RNB1KB1R w KQkq - 0 9">Link</a> | Rapid |
 | **qwertyou1346** | kjh241 | repetition ⏸️ | 19/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4q1nr/5k1p/1bn2P2/1p1p4/1P3Q1B/2Pb1N2/5PKP/8 b - - 10 28">Link</a> | Rapid |
 | **qwertyou1346** | kjh241 | resigned ❌ | 19/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1rbqkb1r/p1P2ppp/nn1p4/1B2p3/1P2P3/P1N2N2/2P1QPPP/R1B2RK1 b k - 0 12">Link</a> | Rapid |
 | hkkkh007 | **qwertyou1346** | win 🥇 | 16/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p1p/8/8/4k3/4n3/PP3p2/2K5 w - - 0 45">Link</a> | Rapid |
@@ -107,8 +109,6 @@ Play with me...!
 | Not_Mikhail_Tal | **qwertyou1346** | resigned ❌ | 8/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2q2rk1/4Rp1p/1p3Qp1/p1pB4/5P1P/P2P2P1/1PP5/6K1 b - - 2 31">Link</a> | Rapid |
 | **qwertyou1346** | Muhammad_kubur | win 🥇 | 7/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1q3k1/p1bQRpp1/2P4p/6n1/2N5/2P3P1/PP3PKP/8 b - - 3 26">Link</a> | Rapid |
 | **qwertyou1346** | vinkobabic1954 | resigned ❌ | 5/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/1pp3pp/p1n5/4p3/3pP2b/1P1P2qP/PBP4K/5RQ1 w - - 0 23">Link</a> | Rapid |
-| rakesh_funk | **qwertyou1346** | resigned ❌ | 5/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/pppp2pp/8/b3P3/B7/1QP1BN2/Pq3PPP/RN2R1K1 b - - 4 15">Link</a> | Rapid |
-| hamzea9 | **qwertyou1346** | resigned ❌ | 5/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q1b1r/R4pp1/k1p3p1/q5P1/5p2/2N2N2/PPP2P2/2K5 b - - 0 24">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
