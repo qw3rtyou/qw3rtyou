@@ -94,21 +94,21 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1029 | No Rating | 759 |
+| Current | 1023 | No Rating | 759 |
 | Best | 1108 | No Rating | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **qwertyou1346** | TheIrrelevantElephant | resigned ❌ | 28/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r2k/4b1pp/p3Q3/2Pp2Pb/1P5P/N7/4q2K/8 w - - 0 45">Link</a> | Rapid |
-| bruinhawks | **qwertyou1346** | timeout ❌ | 28/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/2pk2pp/2p2q2/8/3nQP2/6Pb/PP1N1K1P/R7 b - - 0 27">Link</a> | Rapid |
-| **qwertyou1346** | sandeep9102 | win 🥇 | 27/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kb1r/4qppp/pp1p4/2pQP3/5Bn1/6P1/PPP2PKP/RN2R3 b kq - 4 15">Link</a> | Rapid |
-| OutOfAfrica2ffgood | **qwertyou1346** | resigned ❌ | 27/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1pB5/p3k3/8/1P6/1KPP3R/P3r3/8 b - - 0 41">Link</a> | Rapid |
-| Aviyehazkel | **qwertyou1346** | resigned ❌ | 27/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k1nr/p1p2pb1/1pnp1qp1/4p1Bp/2B1P3/2PP1N2/PP2QPPP/RN2K2R b KQkq - 1 9">Link</a> | Rapid |
-| **qwertyou1346** | SahilBele04 | timeout ❌ | 26/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rk3/Q4pp1/3bp1q1/4n2r/3p4/5N2/5PK1/5R2 w - - 2 35">Link</a> | Rapid |
-| **qwertyou1346** | chana2001 | resigned ❌ | 26/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkbnr/2p1pppp/p1b5/8/3P4/8/PPP3PP/RNB1KB1R w KQkq - 0 9">Link</a> | Rapid |
-| **qwertyou1346** | kjh241 | repetition ⏸️ | 19/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4q1nr/5k1p/1bn2P2/1p1p4/1P3Q1B/2Pb1N2/5PKP/8 b - - 10 28">Link</a> | Rapid |
-| **qwertyou1346** | kjh241 | resigned ❌ | 19/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1rbqkb1r/p1P2ppp/nn1p4/1B2p3/1P2P3/P1N2N2/2P1QPPP/R1B2RK1 b k - 0 12">Link</a> | Rapid |
-| hkkkh007 | **qwertyou1346** | win 🥇 | 16/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p1p/8/8/4k3/4n3/PP3p2/2K5 w - - 0 45">Link</a> | Rapid |
+| andrea_maggi | **qwertyou1346** | resigned ❌ | 29/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3N4/5p1Q/PK6/7k/8/8 b - - 0 55">Link</a> | Rapid |
+| benji11235 | **qwertyou1346** | checkmated ❌ | 29/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6rk/pbpp1p1Q/1p6/n1qPP1r1/6pN/2P3PP/5P2/1B2R1K1 b - - 0 26">Link</a> | Rapid |
+| **qwertyou1346** | holyjeeeez | resigned ❌ | 29/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/1pqb2bp/p2pp1p1/2pP2Q1/P3P3/1PN2n2/1BP2P1P/1R3RK1 w - - 0 20">Link</a> | Rapid |
+| peku35 | **qwertyou1346** | win 🥇 | 29/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3q1rk1/p1p3pp/b1Bp4/pNbPpp2/2P1n3/8/P2N1PPP/1Q3RK1 b - - 1 16">Link</a> | Rapid |
+| **qwertyou1346** | MuhammadAli3354 | resigned ❌ | 29/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3QRrk1/5r1p/3p2pP/1pp5/6P1/1P6/2P1q2K/7b w - - 0 33">Link</a> | Rapid |
+| **qwertyou1346** | kr48kr | win 🥇 | 29/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rr2/p1p2p2/4pBnk/6RQ/5b1P/3P4/PP6/7K b - - 0 30">Link</a> | Rapid |
+| MarshTheSmallestMushroom | **qwertyou1346** | resigned ❌ | 29/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/p2p1ppp/2pP1q2/1pb5/4NB2/3P1Q2/PPP2PPP/R4RK1 b - - 2 14">Link</a> | Rapid |
+| **qwertyou1346** | Pixc3ll | resigned ❌ | 29/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/1p6/3p3p/p7/2P4p/1P6/P6P/6K1 w - - 0 33">Link</a> | Rapid |
+| Guravaiah809 | **qwertyou1346** | win 🥇 | 29/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r1k/p1p3pp/2p5/3rPp2/2Q1pb2/2B5/PP3RPq/R6K w - - 0 25">Link</a> | Rapid |
+| wlsqkr | **qwertyou1346** | stalemate ⏸️ | 29/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p4p/1p1p2p1/3n4/8/5kq1/8/7K w - - 12 47">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
