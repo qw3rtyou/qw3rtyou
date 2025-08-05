@@ -94,11 +94,14 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1030 | No Rating | 759 |
+| Current | 1055 | No Rating | 759 |
 | Best | 1108 | No Rating | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Arturocasta | **qwertyou1346** | win 🥇 | 4/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/8/8/K1k2p2/4b2P/8/8 w - - 2 50">Link</a> | Rapid |
+| **qwertyou1346** | abdallahalhofy | win 🥇 | 4/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1q1rk1/2p3pp/2n1p3/2PpPp2/p1pP4/2P2QP1/P2B1PBP/1R2R1K1 b - - 3 22">Link</a> | Rapid |
+| **qwertyou1346** | erictheissen | win 🥇 | 4/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=kbR5/pp4pp/5p2/1P6/n7/5BP1/P1p2P1P/6K1 b - - 2 32">Link</a> | Rapid |
 | pago4000 | **qwertyou1346** | win 🥇 | 3/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=q4rk1/1b3pbp/6p1/1p6/1N1p1B2/P2p1QP1/3RnP1P/5R1K w - - 0 24">Link</a> | Rapid |
 | sunnexus | **qwertyou1346** | abandoned  | 3/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/8/8/3N1k2/8/2P1rP1R/8/1R3K2 b - - 4 35">Link</a> | Rapid |
 | **qwertyou1346** | Reidrev | resigned ❌ | 3/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4kr2/p2qn2Q/1pr5/2p4P/8/8/PPP2PP1/2K5 b - - 0 21">Link</a> | Rapid |
@@ -106,9 +109,6 @@ Play with me...!
 | Sharrow999 | **qwertyou1346** | win 🥇 | 3/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k2r/pppp1ppp/8/2b1P3/2B2p1q/5Nn1/PPP3PP/RNBQ1R1K w kq - 5 11">Link</a> | Rapid |
 | hantam_aja | **qwertyou1346** | resigned ❌ | 3/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q4N/p1p3p1/1k6/1p2p3/8/8/PP3PPP/nN1R2K1 b - - 0 23">Link</a> | Rapid |
 | **qwertyou1346** | zutfrancky | win 🥇 | 3/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/1pb1R1pk/p1p2Bp1/7p/2B5/1P4PP/P1P2P2/6K1 b - - 0 27">Link</a> | Rapid |
-| **qwertyou1346** | britcooked | resigned ❌ | 3/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1kr2ppp/1p2p3/3pN3/3q4/5PP1/5R1P/6K1 b - - 1 41">Link</a> | Rapid |
-| The_fire_1 | **qwertyou1346** | win 🥇 | 2/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q6r/8/3Q1b2/3p1pk1/1BbP2p1/2P1PnP1/1P4Kr/R1R5 w - - 0 45">Link</a> | Rapid |
-| **qwertyou1346** | hdavep | win 🥇 | 2/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5P2/8/6K1/6P1/6k1/8 b - - 0 52">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
