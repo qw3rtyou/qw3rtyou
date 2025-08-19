@@ -94,11 +94,12 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1000 | No Rating | 759 |
+| Current | 1008 | No Rating | 759 |
 | Best | 1108 | No Rating | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| yousefsheikhi | **qwertyou1346** | win 🥇 | 18/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/2p1p1b1/6p1/1b1pP3/p2P4/P1P5/1P1B2R1/R3Kr2 w Q - 1 29">Link</a> | Rapid |
 | **qwertyou1346** | Elcidcam60 | win 🥇 | 17/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/nq3p2/4pBpk/3pP3/P2P2P1/2PB1P1p/5K1P/8 b - - 7 44">Link</a> | Rapid |
 | eibibioues | **qwertyou1346** | checkmated ❌ | 17/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1p3p1/1qp1Qk2/3p2r1/6r1/1P5N/P1P2PP1/4RRK1 b - - 4 28">Link</a> | Rapid |
 | **qwertyou1346** | pormami | resigned ❌ | 17/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/pp4pp/8/q3r3/2p5/P5P1/1P5P/3KR3 w - - 0 32">Link</a> | Rapid |
@@ -108,7 +109,6 @@ Play with me...!
 | **qwertyou1346** | tanias41998 | resigned ❌ | 15/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p6p/8/k2r4/1b6/2K4P/P7/R7 w - - 0 44">Link</a> | Rapid |
 | wan-golonda | **qwertyou1346** | win 🥇 | 15/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6r/ppbk1pp1/5n2/3p3p/1P1Np3/P1N1B2P/2P2PPq/R2Q1RK1 w - - 1 19">Link</a> | Rapid |
 | little_greeny | **qwertyou1346** | resigned ❌ | 15/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/1P3n1P/5K2/2p5/8/8/6P1/8 b - - 0 60">Link</a> | Rapid |
-| **qwertyou1346** | Eugeeeee999 | win 🥇 | 15/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/p5pQ/3p1q2/2pPn1N1/1p3pbP/1P4P1/P1P2PB1/4RRK1 b - - 0 19">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
