@@ -94,21 +94,21 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1101 | No Rating | 759 |
-| Best | 1109 | No Rating | 1015 |
+| Current | 1086 | No Rating | 759 |
+| Best | 1117 | No Rating | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| Tumanyan88 | **qwertyou1346** | checkmated ❌ | 22/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Rbk/7p/3p1Qp1/1p6/4N3/2P4P/4q3/3R2K1 b - - 6 38">Link</a> | Rapid |
-| **qwertyou1346** | Anton_Yu | win 🥇 | 22/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/p4R2/bp1pR2p/7k/5P2/5BP1/PPP2b1P/2K5 b - - 4 28">Link</a> | Rapid |
-| Palakkadan_Vj | **qwertyou1346** | win 🥇 | 22/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5b2/7p/6p1/P2k4/1P1p4/BK1P3P/2P1r1n1/2R5 w - - 1 39">Link</a> | Rapid |
-| **qwertyou1346** | sou_1501 | checkmated ❌ | 22/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/p1p2p1N/1pp5/8/7b/2PR4/PP4PP/4r1K1 w - - 1 27">Link</a> | Rapid |
-| atihorvat | **qwertyou1346** | win 🥇 | 22/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kbnr/pp2p2p/1qp2pp1/3pP3/N4Pb1/3B1n2/PPPP2PP/R1B1QRK1 w kq - 0 10">Link</a> | Rapid |
-| balachandranpillai | **qwertyou1346** | win 🥇 | 22/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/ppp2ppp/8/8/6N1/1P3P2/5KPP/4r3 w - - 1 31">Link</a> | Rapid |
-| **qwertyou1346** | Auryilvess | repetition ⏸️ | 22/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/2q2p2/p3p3/1prpP1Q1/2n4N/P7/5PPP/2R3K1 b - - 16 37">Link</a> | Rapid |
-| **qwertyou1346** | MS3072 | win 🥇 | 21/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2b5/8/8/5P2/kQp3K1/2B5/8 b - - 2 58">Link</a> | Rapid |
-| imkei97 | **qwertyou1346** | win 🥇 | 21/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3R4/4k3/3pr2r/6K1/8/8/8 w - - 6 57">Link</a> | Rapid |
-| **qwertyou1346** | v1a9q5i8f | resigned ❌ | 21/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/p1p2npp/1p3p2/2P5/3qP3/3P1PQ1/P1P3B1/1R3K2 w - - 0 27">Link</a> | Rapid |
+| **qwertyou1346** | Fmbgcunha | abandoned  | 23/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/pp6/2p3p1/2R2p1r/1P3P2/1P6/1b1P1KP1/7r w - - 2 38">Link</a> | Rapid |
+| Jayron592 | **qwertyou1346** | resigned ❌ | 23/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/ppp2p1p/6p1/3b4/1N6/2Q4P/P1P2PP1/3RR1K1 b - - 0 27">Link</a> | Rapid |
+| FlavorCumin | **qwertyou1346** | win 🥇 | 23/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5pkp/ppR3p1/8/1r6/5PK1/b5PP/8 w - - 0 30">Link</a> | Rapid |
+| **qwertyou1346** | Grandpa0717 | win 🥇 | 23/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnQ1kbnr/p1p1pppp/2b3q1/8/3P4/2N5/PPP2PPP/R1B1KBNR b KQkq - 2 8">Link</a> | Rapid |
+| Dada092002 | **qwertyou1346** | resigned ❌ | 23/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p1p2p2/2B1bB2/8/4P3/1r3PK1/1P4P1/7R b - - 0 27">Link</a> | Daily |
+| **qwertyou1346** | garken808 | resigned ❌ | 23/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/pp1n2pp/8/4k1N1/1P6/Pn4P1/3P1P1P/7K w - - 0 32">Link</a> | Rapid |
+| T-j7d | **qwertyou1346** | checkmated ❌ | 23/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q5k/5p1p/1p2p3/p4p2/1P1Pq3/2P5/6R1/R6K b - - 1 33">Link</a> | Rapid |
+| tecjazz1 | **qwertyou1346** | checkmated ❌ | 23/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r1k1r1/3Q1p2/4p2B/3bN3/4p1p1/PP6/2P2PPP/3R1RK1 b - - 5 28">Link</a> | Rapid |
+| Luxido102 | **qwertyou1346** | win 🥇 | 23/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr2r1/p3p1b1/b1p1P2p/P1Np1p2/1P1P2nP/2P2N2/2QBq1P1/R3K2R w KQ - 2 23">Link</a> | Rapid |
+| **qwertyou1346** | Ahmedy208 | win 🥇 | 23/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p6k/8/3R4/3P4/7P/1P3PPK/8 b - - 0 36">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
