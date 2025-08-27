@@ -94,11 +94,13 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1073 | No Rating | 759 |
+| Current | 1074 | No Rating | 759 |
 | Best | 1117 | No Rating | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **qwertyou1346** | junedtampan | resigned ❌ | 27/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1b3rk1/r4p1p/p1b1nBpP/q4p2/2p5/2p5/PPP2P2/4RRK1 w - - 0 26">Link</a> | Rapid |
+| **qwertyou1346** | voloshyn8 | win 🥇 | 26/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkb1r/pp1b1ppp/3p1n2/1Bp5/Q3PB2/2N5/PPP2PPP/R3K2R b KQkq - 3 9">Link</a> | Rapid |
 | ShoelessCrow | **qwertyou1346** | checkmated ❌ | 25/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R4/3kp3/1Q3p1b/8/8/8/P4P1P/5KNq b - - 4 37">Link</a> | Rapid |
 | Maciej89 | **qwertyou1346** | checkmated ❌ | 24/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7R/1bp1q1kQ/p3r1p1/1p2P3/3p1P2/2PBP3/PP6/2K5 b - - 5 33">Link</a> | Rapid |
 | Ganeshpaig | **qwertyou1346** | resigned ❌ | 24/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/p3p1b1/2p5/1p1p1Q2/3PP2p/2PB2Bq/PPN5/6K1 b - - 1 26">Link</a> | Rapid |
@@ -107,8 +109,6 @@ Play with me...!
 | adelseif10 | **qwertyou1346** | win 🥇 | 24/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1r1br1/ppp4p/5Q1p/8/P2N1P2/2P4P/1P4q1/3R1R1K w - - 0 26">Link</a> | Rapid |
 | Ardaniel0417 | **qwertyou1346** | win 🥇 | 24/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3n1p2/4p1p1/6p1/8/3k4/2q5/2K5 w - - 20 48">Link</a> | Rapid |
 | **qwertyou1346** | Ardaniel0417 | repetition ⏸️ | 24/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5b2/1P1Q2k1/3p2pp/r1qPp3/4P3/3B4/7P/7K b - - 9 42">Link</a> | Rapid |
-| **qwertyou1346** | sandeep9102 | checkmated ❌ | 24/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r2k/6pp/2p5/p7/1pQ1p1PN/1P1n1bR1/Pq3P1P/1K3R2 w - - 3 29">Link</a> | Rapid |
-| **qwertyou1346** | Fmbgcunha | abandoned  | 23/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/pp6/2p3p1/2R2p1r/1P3P2/1P6/1b1P1KP1/7r w - - 2 38">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
