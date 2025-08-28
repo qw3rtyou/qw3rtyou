@@ -94,11 +94,13 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1074 | No Rating | 759 |
+| Current | 1075 | No Rating | 759 |
 | Best | 1117 | No Rating | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **qwertyou1346** | aguefer | win 🥇 | 27/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkbnr/pp1bp1p1/2n4p/1Bp1PpNQ/3p1P2/2P5/PP1P2PP/RNB1K2R b KQkq - 1 8">Link</a> | Rapid |
+| ikhsan245 | **qwertyou1346** | resigned ❌ | 27/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3k3p/3Np1p1/p2pP1N1/3P2P1/PrpK1P1P/8/R7 b - - 0 33">Link</a> | Rapid |
 | **qwertyou1346** | junedtampan | resigned ❌ | 27/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1b3rk1/r4p1p/p1b1nBpP/q4p2/2p5/2p5/PPP2P2/4RRK1 w - - 0 26">Link</a> | Rapid |
 | **qwertyou1346** | voloshyn8 | win 🥇 | 26/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkb1r/pp1b1ppp/3p1n2/1Bp5/Q3PB2/2N5/PPP2PPP/R3K2R b KQkq - 3 9">Link</a> | Rapid |
 | ShoelessCrow | **qwertyou1346** | checkmated ❌ | 25/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R4/3kp3/1Q3p1b/8/8/8/P4P1P/5KNq b - - 4 37">Link</a> | Rapid |
@@ -107,8 +109,6 @@ Play with me...!
 | **qwertyou1346** | stigge555 | win 🥇 | 24/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/1p1rb1pp/pBb1N3/3pP3/1P6/P4BP1/5P1P/2R2RK1 b - - 0 23">Link</a> | Rapid |
 | **qwertyou1346** | jimzhanwm | repetition ⏸️ | 24/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1qnr2/1pp1Rp1k/p2p3p/5Q2/4N3/7P/PnP2PP1/5RK1 b - - 9 24">Link</a> | Rapid |
 | adelseif10 | **qwertyou1346** | win 🥇 | 24/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1r1br1/ppp4p/5Q1p/8/P2N1P2/2P4P/1P4q1/3R1R1K w - - 0 26">Link</a> | Rapid |
-| Ardaniel0417 | **qwertyou1346** | win 🥇 | 24/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3n1p2/4p1p1/6p1/8/3k4/2q5/2K5 w - - 20 48">Link</a> | Rapid |
-| **qwertyou1346** | Ardaniel0417 | repetition ⏸️ | 24/8/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5b2/1P1Q2k1/3p2pp/r1qPp3/4P3/3B4/7P/7K b - - 9 42">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
