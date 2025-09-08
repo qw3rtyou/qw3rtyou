@@ -94,11 +94,13 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1148 | 376 | 759 |
+| Current | 1130 | 376 | 759 |
 | Best | 1173 | No Rating | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| SEREYCHETRAA | **qwertyou1346** | resigned ❌ | 7/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4k2P/8/8/2p5/8/2B4K/8 b - - 0 46">Link</a> | Rapid |
+| **qwertyou1346** | Rickcolp | checkmated ❌ | 7/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/p3Q3/3pp3/2p5/1p2P3/1P5P/PBPP1P2/3K1q2 w - - 1 29">Link</a> | Rapid |
 | **qwertyou1346** | Jumpiemonkie888 | timeout ❌ | 7/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5p1p/6p1/p7/1P6/K1nB1Pr1/n7/8 w - - 0 44">Link</a> | Blitz |
 | **qwertyou1346** | romly13 | checkmated ❌ | 7/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/7p/p2p2pB/1ppP2Q1/1PP5/K1q4P/P5P1/8 w - - 1 33">Link</a> | Blitz |
 | aryan707out | **qwertyou1346** | checkmated ❌ | 6/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5kr/ppp1R1Qp/3q1pp1/3N4/2Pn4/3P4/P4PPP/R5K1 b - - 8 21">Link</a> | Blitz |
@@ -107,8 +109,6 @@ Play with me...!
 | peoncitopeligroso | **qwertyou1346** | checkmated ❌ | 6/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n5r/p4N1p/6p1/1p1BbbQk/8/4B3/Pq3PPP/R4RK1 b - - 4 28">Link</a> | Rapid |
 | **qwertyou1346** | tbyerly93 | win 🥇 | 6/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/R2R2p1/2r1p2p/5p2/5P2/2P5/PP3P1P/6K1 b - - 1 26">Link</a> | Rapid |
 | **qwertyou1346** | RyGuyRraccoon | resigned ❌ | 5/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/2qk1p2/4p1np/3p4/P2b4/6P1/5PBP/2R3K1 w - - 0 31">Link</a> | Rapid |
-| ASTANAQ | **qwertyou1346** | checkmated ❌ | 4/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q5/k3R3/1p6/p1p5/B2b4/6P1/P4P1q/5KN1 b - - 3 37">Link</a> | Rapid |
-| KolivanVadim | **qwertyou1346** | resigned ❌ | 4/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5K2/2k1pR2/3pP3/3P4/8/8/8 b - - 2 68">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
