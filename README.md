@@ -94,11 +94,13 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1129 | 376 | 759 |
+| Current | 1115 | 376 | 759 |
 | Best | 1173 | No Rating | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **qwertyou1346** | ZanyCondor | resigned ❌ | 10/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b3k1/1p1p1ppp/8/1p2P3/8/8/PpP3PP/1K5R w - - 0 22">Link</a> | Rapid |
+| ziggydaboss | **qwertyou1346** | resigned ❌ | 10/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k2r4/8/6pp/R1N5/1R4P1/3b3P/P4P1K/4r3 b - - 0 41">Link</a> | Rapid |
 | asamudrala | **qwertyou1346** | win 🥇 | 10/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/pbp2ppp/1pn2q2/4p1N1/3pP3/3P2P1/PPPRN2P/1K2QB1n w kq - 0 14">Link</a> | Rapid |
 | **qwertyou1346** | Robmengo | resigned ❌ | 9/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2r2k1/2np1ppN/pp2p1q1/4P2Q/8/6P1/P4PKP/8 w - - 7 30">Link</a> | Rapid |
 | KrillMann | **qwertyou1346** | resigned ❌ | 9/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5b2/1B4kp/p5p1/1p2P3/4P3/P4N1P/1PP3P1/2K5 b - - 0 32">Link</a> | Rapid |
@@ -107,8 +109,6 @@ Play with me...!
 | **qwertyou1346** | Srikuttythatha | win 🥇 | 8/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/4k1pp/p3qp2/2pQ4/7P/PP1P2P1/2P2P2/2K1R3 b - - 1 24">Link</a> | Rapid |
 | SEREYCHETRAA | **qwertyou1346** | resigned ❌ | 7/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4k2P/8/8/2p5/8/2B4K/8 b - - 0 46">Link</a> | Rapid |
 | **qwertyou1346** | Rickcolp | checkmated ❌ | 7/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/p3Q3/3pp3/2p5/1p2P3/1P5P/PBPP1P2/3K1q2 w - - 1 29">Link</a> | Rapid |
-| **qwertyou1346** | Jumpiemonkie888 | timeout ❌ | 7/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5p1p/6p1/p7/1P6/K1nB1Pr1/n7/8 w - - 0 44">Link</a> | Blitz |
-| **qwertyou1346** | romly13 | checkmated ❌ | 7/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/7p/p2p2pB/1ppP2Q1/1PP5/K1q4P/P5P1/8 w - - 1 33">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
