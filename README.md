@@ -94,11 +94,13 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1206 | 555 | 802 |
+| Current | 1206 | 591 | 802 |
 | Best | 1206 | 723 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| MBashur | **qwertyou1346** | win 🥇 | 16/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1r3r/pppn1p1p/6p1/3p4/6b1/1P2PN1P/P3BPP1/1RB1b1K1 w - - 0 16">Link</a> | Blitz |
+| **qwertyou1346** | eliasar28 | win 🥇 | 16/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k3R/8/3KP3/5p2/P4P2/8/8/8 b - - 4 53">Link</a> | Blitz |
 | **qwertyou1346** | riverwindearth | win 🥇 | 15/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k2Q/pp2Pr2/2p5/3p4/8/P5P1/2P2PK1/R3R3 b - - 0 34">Link</a> | Blitz |
 | HASANUDIN70 | **qwertyou1346** | win 🥇 | 15/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1K6/1q6/1k4p1/8/8/8/8/8 w - - 13 59">Link</a> | Blitz |
 | rhondaaa | **qwertyou1346** | win 🥇 | 15/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/6b1/2p2pPp/5Q2/3P4/2P1P1R1/PP1N1P2/R3K3 w Q - 0 34">Link</a> | Bullet |
@@ -107,8 +109,6 @@ Play with me...!
 | **qwertyou1346** | WWTWTWW | win 🥇 | 15/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5KQk/8/6pp/6P1/7P/8 b - - 1 47">Link</a> | Blitz |
 | Knight251201 | **qwertyou1346** | win 🥇 | 15/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p5b1/1np5/3p4/8/1P2P2P/P1P1q2r/6RK w - - 1 28">Link</a> | Blitz |
 | furkanyanarchess | **qwertyou1346** | win 🥇 | 15/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6q1/8/7K/5k2/8/8/8 w - - 22 64">Link</a> | Blitz |
-| **qwertyou1346** | jouwnj | win 🥇 | 15/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/2qk1Q2/p2p2p1/1p1Pp1B1/4P3/8/P4PP1/5RK1 b - - 9 34">Link</a> | Blitz |
-| Usquisa | **qwertyou1346** | win 🥇 | 14/9/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr1b1r/ppp1pppp/5n2/5b2/N1q5/5NB1/PPn1KPPP/R4B1R w - - 0 14">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
