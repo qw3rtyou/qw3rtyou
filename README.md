@@ -94,11 +94,12 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1213 | 712 | 816 |
+| Current | 1213 | 704 | 816 |
 | Best | 1213 | 749 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| lysonswitch | **qwertyou1346** | timeout ❌ | 3/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k2b2/pppq4/8/7p/1P1p2p1/P2Q2P1/n1P1rP1P/R5K1 b - - 2 29">Link</a> | Blitz |
 | **qwertyou1346** | Tamm681 | win 🥇 | 3/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3p1pQ1/4pk1P/8/6P1/2q2P1K/8 b - - 6 59">Link</a> | Rapid |
 | predator1548 | **qwertyou1346** | resigned ❌ | 2/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=b4b1k/p1pQ1P2/1p3p1p/8/2P5/8/P4PPP/1R4K1 b - - 0 24">Link</a> | Blitz |
 | **qwertyou1346** | Tinonit123 | checkmated ❌ | 2/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/2p2p2/pP2p2p/P2Pp1pb/3bP3/2NQ2P1/2PB1nBP/R5RK w kq - 1 26">Link</a> | Blitz |
@@ -108,7 +109,6 @@ Play with me...!
 | **qwertyou1346** | JUADOR3333 | checkmated ❌ | 2/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1rb2rk1/5ppp/p2Q1n2/4p3/B3Pn2/2N2N2/PqP2PPP/1K1R3R w - - 0 18">Link</a> | Blitz |
 | DontQuitPlzz | **qwertyou1346** | timeout ❌ | 2/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1b5p/6pP/3k4/2p1p3/2P1P1K1/8/8 b - - 0 48">Link</a> | Blitz |
 | Tamdhu18yo | **qwertyou1346** | win 🥇 | 2/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/pp1r2p1/4p3/4Pn1r/R7/1Pp3Pp/2P1KP1P/8 w - - 0 34">Link</a> | Blitz |
-| putin12345123 | **qwertyou1346** | resigned ❌ | 1/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1B4k1/7p/2p1pp2/3p3p/1bpP2P1/1p2PP2/4K2P/3R3R b - - 1 28">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
