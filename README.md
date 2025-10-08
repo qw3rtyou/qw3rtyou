@@ -94,11 +94,12 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1213 | 696 | 820 |
+| Current | 1213 | 696 | 810 |
 | Best | 1213 | 749 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **qwertyou1346** | Perezz11 | checkmated ❌ | 7/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp1k4/2pp4/8/8/8/7r/2K3r1 w - - 8 39">Link</a> | Bullet |
 | **qwertyou1346** | neurotree | win 🥇 | 6/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p2k4/8/8/1N3n2/2KP4/P3q3/8 b - - 2 40">Link</a> | Bullet |
 | johngambut | **qwertyou1346** | timevsinsufficient ⏸️ | 6/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/PK6/8/3k4/8/8 w - - 1 55">Link</a> | Bullet |
 | SlientEcho | **qwertyou1346** | timeout ❌ | 6/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/ppp3pp/8/5p2/4r2P/1KP2N1R/P3r3/RN6 b - - 8 34">Link</a> | Bullet |
@@ -108,7 +109,6 @@ Play with me...!
 | **qwertyou1346** | john-1-6 | win 🥇 | 6/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k2r/1pN2ppp/p2Q3n/2p1p3/4P3/5N2/PPP2PPP/R1B1K2R b KQ - 3 12">Link</a> | Bullet |
 | Cehmnu | **qwertyou1346** | abandoned  | 6/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k2r/pp2q1pp/B1p1p3/2P2p2/3Pp3/4P3/PP1N1PPP/R2QK2R b KQkq - 0 11">Link</a> | Bullet |
 | **qwertyou1346** | jsamn | timeout ❌ | 6/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q1nr/2pp1pk1/2n1p2p/4P3/3P3N/6Pp/2q2P1P/5K2 w - - 0 24">Link</a> | Bullet |
-| **qwertyou1346** | VINAY_2109 | checkmated ❌ | 6/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k1nr/pp2bpp1/2pp4/4P3/8/1PNQ1B2/P1P2PPq/R4RK1 w kq - 0 15">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
