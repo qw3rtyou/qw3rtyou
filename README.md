@@ -94,21 +94,21 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1205 | 746 | 819 |
+| Current | 1205 | 747 | 819 |
 | Best | 1213 | 802 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **qwertyou1346** | Youngseiryu | timeout ❌ | 16/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4b2r/k7/3p1pp1/r2Pp2p/1RB1P2P/1K3Pn1/2P2P2/8 w - - 0 34">Link</a> | Blitz |
-| **qwertyou1346** | salas032 | win 🥇 | 15/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1r1k/p6p/5p2/2pB2pP/8/1P3Q2/PBPP1P1P/2KR2R1 b - - 2 18">Link</a> | Blitz |
-| Joweeeeeeeeee | **qwertyou1346** | resigned ❌ | 15/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp5p/2p5/5k2/5P2/1P6/4K3/5R2 b - - 0 37">Link</a> | Blitz |
-| ABDO_ABDO123 | **qwertyou1346** | timeout ❌ | 15/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7r/5k2/7R/3p1P1K/3r4/6R1/8 b - - 2 51">Link</a> | Blitz |
-| **qwertyou1346** | ABDO_ABDO123 | win 🥇 | 15/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/5bp1/6k1/R4Q2/5BnP/6P1/8/6K1 b - - 0 38">Link</a> | Blitz |
-| **qwertyou1346** | Cagnusmarlsengmm | win 🥇 | 15/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1k2b2/p2R2B1/7p/3p1pp1/B7/5N2/PPP2PPP/2K4R b - - 0 21">Link</a> | Blitz |
-| temauritehina | **qwertyou1346** | timeout ❌ | 15/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/1kp3R1/1p6/8/5BpK/8/4q3 b - - 0 50">Link</a> | Blitz |
-| **qwertyou1346** | Lagaos | win 🥇 | 15/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/ppp2ppp/8/4R3/8/B7/P1P2PPP/3R2K1 b kq - 0 17">Link</a> | Blitz |
-| ShakhDmitriy | **qwertyou1346** | win 🥇 | 15/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5p1p/1R3bp1/p3p3/Q2Pq3/4P1P1/P4P1P/2r3K1 w - - 1 26">Link</a> | Blitz |
-| grumpythump | **qwertyou1346** | checkmated ❌ | 15/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q1k/4p2p/6p1/1p3p2/8/4qNP1/1P2P2P/5R1K b - - 0 30">Link</a> | Blitz |
+| edgaragea | **qwertyou1346** | win 🥇 | 17/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k3r1/p1p5/1p5p/Kb3pb1/3p4/P2P4/1r3P1P/4R3 w - - 0 30">Link</a> | Blitz |
+| **qwertyou1346** | Alfraid_88 | resigned ❌ | 17/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p1Npr1k/p2p2p1/3R3p/8/PP6/1br2nPP/5RK1 w - - 0 28">Link</a> | Blitz |
+| cobalagikon | **qwertyou1346** | win 🥇 | 17/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k1nN/ppp1b1pp/4n3/q3p3/8/2N5/PPPP1PPP/R1B1K2R w KQ - 0 12">Link</a> | Blitz |
+| **qwertyou1346** | ummkl | timeout ❌ | 16/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k1r4r/p3q2p/R4np1/5p2/8/1P6/P4PPP/4R1K1 w - - 0 27">Link</a> | Blitz |
+| **qwertyou1346** | V11nay | win 🥇 | 16/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k1nr/p2p1p2/1pp3pp/4P3/Nq2P3/1P6/PBP2PPP/R2QKB1R w KQkq - 1 10">Link</a> | Blitz |
+| TAREQABDURAHMANEDAAB | **qwertyou1346** | checkmated ❌ | 16/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr1bnr/ppQ1p1pp/8/8/qP3B2/3P4/P1P1NPPP/R3K2R b KQ - 0 16">Link</a> | Blitz |
+| AndryKW | **qwertyou1346** | win 🥇 | 16/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k5r/1pp2p2/p1n1q2p/2b1p1p1/Q1P5/5P2/PP2r1PK/R4R2 w - - 0 21">Link</a> | Blitz |
+| **qwertyou1346** | bes0x | resigned ❌ | 16/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pppk2pp/8/8/8/2N5/PP2RPPP/2r3K1 w - - 4 22">Link</a> | Blitz |
+| **qwertyou1346** | joker77999 | win 🥇 | 16/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kb1r/pppp1ppp/8/4P1Bn/3Q4/8/PPP1BPPP/RN2K2R b KQkq - 0 8">Link</a> | Blitz |
+| PKPDP | **qwertyou1346** | abandoned  | 16/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/2p2p1p/6p1/8/p3R3/P5PP/5P2/R5K1 b - - 0 29">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
