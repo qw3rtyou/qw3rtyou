@@ -94,21 +94,21 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1205 | 786 | 845 |
+| Current | 1205 | 778 | 789 |
 | Best | 1213 | 842 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| AleGoZa | **qwertyou1346** | resigned ❌ | 29/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/p6p/8/2p3p1/3b4/P1P2P2/4K2P/3R4 b - - 0 27">Link</a> | Blitz |
-| 8HoneyBadger8 | **qwertyou1346** | timeout ❌ | 28/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6p1/3kP2p/p6P/1pnK2P1/P1P5/8 b - - 0 38">Link</a> | Blitz |
-| **qwertyou1346** | Adnaaniqbaal | win 🥇 | 28/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k2R2/p1p5/1pQp3p/3P4/PbP5/7P/6P1/6K1 b - - 2 34">Link</a> | Blitz |
-| HemGameOfThrones | **qwertyou1346** | win 🥇 | 28/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1nR3/1pp2pbp/p4pp1/1N6/8/8/PP1r1PPP/4N1K1 w - - 4 20">Link</a> | Bullet |
-| **qwertyou1346** | fpesmen | win 🥇 | 28/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r3k/6pp/p1pNQ3/3n4/P7/2p5/6PP/5RK1 b - - 4 27">Link</a> | Bullet |
-| augustuslaw | **qwertyou1346** | timevsinsufficient ⏸️ | 28/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3b4/7R/Pk6/1P3P1P/2P5/3K4/8 w - - 1 48">Link</a> | Bullet |
-| CTGame | **qwertyou1346** | win 🥇 | 28/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5ppk/Q3p2p/3p4/8/2P1q1P1/1P4P1/R4RK1 w - - 5 34">Link</a> | Bullet |
-| **qwertyou1346** | lm56856 | resigned ❌ | 28/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k2r/p2nn2p/1pp5/2p1p1p1/N3P3/5P2/PPP3PP/2KR4 w k - 0 20">Link</a> | Blitz |
-| **qwertyou1346** | k2k3k4k5 | checkmated ❌ | 28/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/ppp3p1/8/7p/P6P/3R1pPK/5r2/7r w - - 2 31">Link</a> | Blitz |
-| **qwertyou1346** | kamirIV | timeout ❌ | 28/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6Rp/8/5pP1/2r4K/4k1P1/8 w - - 2 50">Link</a> | Blitz |
+| Carpezz776 | **qwertyou1346** | resigned ❌ | 30/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/ppp1pppp/8/3p4/3P4/4P3/PPP2PPP/RNBQKBNR b KQkq - 0 2">Link</a> | Bullet |
+| **qwertyou1346** | Ananasss2024 | abandoned  | 30/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/p2bbppp/B1pp1n2/4p3/4P3/2NQ4/PPP2PPP/R1B2RK1 w - - 8 11">Link</a> | Blitz |
+| Aarav_Dammani_2509 | **qwertyou1346** | stalemate ⏸️ | 29/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5ppp/8/1k6/p7/K2bn2n/3r3b/8 w - - 10 44">Link</a> | Bullet |
+| **qwertyou1346** | shaneee_qt | checkmated ❌ | 29/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5pkp/5bp1/p4pPP/6qK/8/8/8 w - - 1 40">Link</a> | Bullet |
+| Stiffhippo | **qwertyou1346** | timeout ❌ | 29/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/ppp5/5k1R/b3p1r1/3pP2Q/P4P2/1PP5/2KR4 b - - 3 32">Link</a> | Bullet |
+| **qwertyou1346** | pepe_1706 | timeout ❌ | 29/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/p1pQ2p1/2p1Br1p/8/1p6/4P3/PPP3PP/1K6 w - - 0 26">Link</a> | Bullet |
+| SenyaPchelovod | **qwertyou1346** | timeout ❌ | 29/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5k2/p1R1R3/2P3Bp/8/2P5/P1P3PP/6K1 b - - 0 33">Link</a> | Bullet |
+| Nicky_Z | **qwertyou1346** | timeout ❌ | 29/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/1p1N1ppp/5q2/3P4/8/8/6PP/3bR1K1 b - - 1 28">Link</a> | Bullet |
+| **qwertyou1346** | bihburazz | timeout ❌ | 29/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/p1k1n3/PN5p/2pP4/4P1q1/8/2P3r1/RR5K w - - 2 31">Link</a> | Bullet |
+| **qwertyou1346** | Diiimmmaa | timeout ❌ | 29/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R7/5ppk/3p3p/2p1p1b1/N1r1P3/7P/5PP1/6K1 w - - 0 32">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
