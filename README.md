@@ -94,21 +94,21 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1205 | 793 | 789 |
-| Best | 1213 | 842 | 1015 |
+| Current | 1208 | 808 | 702 |
+| Best | 1218 | 842 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **qwertyou1346** | tavimpsycho | win 🥇 | 31/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k2nr/pNN1b2p/1p6/8/5BQ1/2Pp2P1/PP3P1P/R4RK1 b - - 0 28">Link</a> | Blitz |
-| Mattaquatic | **qwertyou1346** | win 🥇 | 31/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/6pp/8/8/8/8/7r/4K1r1 w - - 6 42">Link</a> | Blitz |
-| Carpezz776 | **qwertyou1346** | resigned ❌ | 30/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/ppp1pppp/8/3p4/3P4/4P3/PPP2PPP/RNBQKBNR b KQkq - 0 2">Link</a> | Bullet |
-| **qwertyou1346** | Ananasss2024 | abandoned  | 30/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/p2bbppp/B1pp1n2/4p3/4P3/2NQ4/PPP2PPP/R1B2RK1 w - - 8 11">Link</a> | Blitz |
-| Aarav_Dammani_2509 | **qwertyou1346** | stalemate ⏸️ | 29/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5ppp/8/1k6/p7/K2bn2n/3r3b/8 w - - 10 44">Link</a> | Bullet |
-| **qwertyou1346** | shaneee_qt | checkmated ❌ | 29/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5pkp/5bp1/p4pPP/6qK/8/8/8 w - - 1 40">Link</a> | Bullet |
-| Stiffhippo | **qwertyou1346** | timeout ❌ | 29/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/ppp5/5k1R/b3p1r1/3pP2Q/P4P2/1PP5/2KR4 b - - 3 32">Link</a> | Bullet |
-| **qwertyou1346** | pepe_1706 | timeout ❌ | 29/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/p1pQ2p1/2p1Br1p/8/1p6/4P3/PPP3PP/1K6 w - - 0 26">Link</a> | Bullet |
-| SenyaPchelovod | **qwertyou1346** | timeout ❌ | 29/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5k2/p1R1R3/2P3Bp/8/2P5/P1P3PP/6K1 b - - 0 33">Link</a> | Bullet |
-| Nicky_Z | **qwertyou1346** | timeout ❌ | 29/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/1p1N1ppp/5q2/3P4/8/8/6PP/3bR1K1 b - - 1 28">Link</a> | Bullet |
+| Itay1967 | **qwertyou1346** | abandoned  | 31/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1kb1r/pp3ppp/2p2n2/4q3/8/2N2N2/PPPBBPPP/R2QK2R b KQkq - 3 8">Link</a> | Bullet |
+| **qwertyou1346** | arunnadar13 | checkmated ❌ | 31/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/ppp3pp/4p3/2b1P1B1/2n5/8/P4PPP/3r2K1 w - - 2 22">Link</a> | Bullet |
+| **qwertyou1346** | adem552 | timeout ❌ | 31/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rbk1/pR6/4R1pp/2p3P1/5P2/8/PPP3n1/1K6 w - - 4 30">Link</a> | Bullet |
+| tapan861yahoocom | **qwertyou1346** | checkmated ❌ | 31/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7R/r4p1k/6p1/7p/3B1P2/2P3PK/7P/2b5 b - - 7 39">Link</a> | Rapid |
+| sang261632 | **qwertyou1346** | win 🥇 | 31/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kb1r/pp1n2pp/5n2/3P1p2/1P2p3/P7/1q1NBPPP/R2QK2R w KQkq - 0 14">Link</a> | Blitz |
+| **qwertyou1346** | MacabiYaniv | win 🥇 | 31/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/ppp4p/1k2r3/5R2/4p3/6P1/PPPB1P1P/5RK1 b - - 0 27">Link</a> | Rapid |
+| **qwertyou1346** | Pkdate | win 🥇 | 31/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/8/3R3p/2k1P1p1/8/1Pn5/PK4PP/4R3 w - - 4 36">Link</a> | Rapid |
+| Frenzy1922 | **qwertyou1346** | resigned ❌ | 31/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k2r2/pp5p/2p5/4p1B1/1b4PP/1P6/2P1KPB1/1R6 b - - 0 28">Link</a> | Rapid |
+| **qwertyou1346** | MaliSmurf | resigned ❌ | 31/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2rq1rk1/4npb1/bn2p1p1/1p1pP1N1/1P1P4/1B6/2Q1NPPP/R4RK1 w - - 5 23">Link</a> | Bullet |
+| sha2606 | **qwertyou1346** | timeout ❌ | 31/10/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k3/pp2p2p/6p1/6B1/8/2r3b1/PK2R3/R2Q4 b q - 1 24">Link</a> | Bullet |
 
 <!--END_SECTION:chessStats-->
 
