@@ -94,21 +94,21 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1267 | 835 | 681 |
+| Current | 1258 | 780 | 673 |
 | Best | 1276 | 842 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **qwertyou1346** | cfbknight | win 🥇 | 7/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k5r1/1Q3p2/p5b1/8/q7/8/P1P2PPP/1R2R1K1 b - - 0 32">Link</a> | Blitz |
-| sports21h | **qwertyou1346** | win 🥇 | 7/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k4r1/p1p5/1pP1p3/1P1P4/2R3p1/P3P1Pp/5nr1/2R2N1K w - - 3 34">Link</a> | Blitz |
-| omgking1999 | **qwertyou1346** | win 🥇 | 7/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2N5/2Kp2p1/4k2p/7P/2P3P1/8 w - - 0 47">Link</a> | Blitz |
-| mitchelllu | **qwertyou1346** | checkmated ❌ | 7/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Rk1r3r/1pp3pp/4p3/3p4/3PnB2/2bQP2P/2P2PP1/R5K1 b - - 4 20">Link</a> | Blitz |
-| Romi8917 | **qwertyou1346** | timeout ❌ | 7/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/1r1nqp1p/1b2p2Q/3pP1N1/2pP2pN/2P4P/5P2/5RK1 b - - 1 27">Link</a> | Blitz |
-| **qwertyou1346** | FelixNavedad | win 🥇 | 7/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/1R4pp/1pp5/8/8/P4P2/1PPK1P1P/8 b - - 2 26">Link</a> | Blitz |
-| FelixNavedad | **qwertyou1346** | agreed ⏸️ | 7/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rq2k2r/ppp2ppp/2n1pn2/3p4/1b1P1B2/2NPPN2/PP2KPPP/R2Q3R b kq - 3 9">Link</a> | Blitz |
-| **qwertyou1346** | Anouar_Abx16 | win 🥇 | 7/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q4k1/pp1b1ppp/8/2p3B1/8/8/PPq2PPP/3R2K1 b - - 1 25">Link</a> | Blitz |
-| **qwertyou1346** | matmat69110 | win 🥇 | 7/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6rk/p3rp1p/3p1p2/1p5Q/2p5/8/PPP2PBP/R4RK1 b - - 0 23">Link</a> | Blitz |
-| **qwertyou1346** | Peppercorn10 | win 🥇 | 7/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7Q/3kB3/6K1/8/8/8/8/8 b - - 2 62">Link</a> | Blitz |
+| khani_Ali | **qwertyou1346** | checkmated ❌ | 8/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2r2/pp2Rk1q/2p4B/5pQ1/3P4/8/PPP2PPP/R5K1 b - - 13 27">Link</a> | Daily |
+| **qwertyou1346** | Deltonian | timeout ❌ | 8/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p5/1p3PBk/p1p5/8/6RK/PP6/7r w - - 1 56">Link</a> | Blitz |
+| **qwertyou1346** | Geferraz | repetition ⏸️ | 8/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/6k1/7p/5K1P/8 b - - 9 44">Link</a> | Blitz |
+| dan1972b | **qwertyou1346** | timeout ❌ | 8/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6pk/2p4p/pp6/8/P5RK/6P1/2q5 b - - 19 58">Link</a> | Blitz |
+| FFleischer19 | **qwertyou1346** | timeout ❌ | 8/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1kB/pp1r1p1p/2p2Q1N/2n5/2B3q1/P5P1/2P2PP1/R5K1 b - - 4 25">Link</a> | Blitz |
+| t-an_ma-y | **qwertyou1346** | abandoned  | 8/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1kbnr/pp2q3/8/2pQ2pp/8/7P/PPPPN1P1/RNB1KB1R b KQkq - 0 9">Link</a> | Blitz |
+| **qwertyou1346** | QuangAnh05 | win 🥇 | 8/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkb1r/1p1B1ppp/p3pn2/3pNbB1/3P4/8/PPP2PPP/RN1Q1RK1 b kq - 0 9">Link</a> | Blitz |
+| **qwertyou1346** | dudusantos86 | resigned ❌ | 8/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk2r/p1p1bppp/1p1p4/3Pp3/6n1/2P2N2/P1P2PPP/R1B2RK1 w kq - 0 13">Link</a> | Blitz |
+| **qwertyou1346** | johnmembo | win 🥇 | 8/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q3r/pppk2bp/2n2p2/3p4/6QB/5N2/PPP2PPP/RN2R1K1 b - - 0 14">Link</a> | Blitz |
+| vinayakula02 | **qwertyou1346** | timeout ❌ | 8/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q6/8/p5k1/P1r4p/8/2P4P/5RPK/3r4 b - - 2 39">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
