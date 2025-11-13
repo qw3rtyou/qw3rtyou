@@ -94,21 +94,21 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1258 | 792 | 673 |
+| Current | 1267 | 822 | 673 |
 | Best | 1276 | 842 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| PdHalchess | **qwertyou1346** | timeout ❌ | 12/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R4k1/p2r1ppp/4p3/4r3/8/2P3P1/P4PK1/8 b - - 1 35">Link</a> | Blitz |
-| **qwertyou1346** | kimuyeonu | win 🥇 | 12/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkbnr/pppp1ppp/2n5/4p3/3PP3/5N2/PPP2PPP/RNBQKB1R b KQkq d3 0 3">Link</a> | Daily |
-| Castillo928 | **qwertyou1346** | checkmated ❌ | 12/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3q1rk1/1p3pQp/4P3/p1b5/3B4/4P3/P1r2PPP/R4RK1 b - - 0 20">Link</a> | Blitz |
-| **qwertyou1346** | andru0 | resigned ❌ | 12/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2R5/1r4p1/5pkp/8/6PP/6PK/8 w - - 0 38">Link</a> | Blitz |
-| **qwertyou1346** | cheekyrich | timeout ❌ | 11/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/R3bk2/8/8/8/1K6/2r5/8 w - - 0 46">Link</a> | Blitz |
-| **qwertyou1346** | javier-c3 | resigned ❌ | 11/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/2pk4/1p1p4/1P1Pp3/2N1P1p1/6Pp/r6P/2R4K w - - 3 31">Link</a> | Blitz |
-| Asmzs | **qwertyou1346** | resigned ❌ | 11/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2k2N1/pp1b1p1p/3Q4/2p2B2/3p3P/P4R2/1P1q2P1/R5K1 b - - 4 25">Link</a> | Blitz |
-| boy16ssm | **qwertyou1346** | win 🥇 | 11/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1kb1r/ppp1pppp/8/3N4/1P4n1/P4N2/2PP1qPP/R1BQKB1R w KQkq - 0 8">Link</a> | Blitz |
-| Nawaj2511 | **qwertyou1346** | resigned ❌ | 11/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rr3/pp3kpp/8/8/3n2P1/PP4b1/Q1P1N1P1/R2K1B1R b - - 2 22">Link</a> | Blitz |
-| **qwertyou1346** | RemovedUsername116 | win 🥇 | 11/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/3Q2Qk/1n6/8/5PPP/5R1K b - - 0 37">Link</a> | Blitz |
+| Deegee73 | **qwertyou1346** | win 🥇 | 13/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/1r5p/p2Pk1p1/P5P1/5K2/8/7R w - - 0 52">Link</a> | Rapid |
+| **qwertyou1346** | sirjibesh | win 🥇 | 12/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1kb2Q1/ppp4p/4p3/8/8/8/PPP2PPP/RNB3K1 b - - 0 15">Link</a> | Blitz |
+| sirjibesh | **qwertyou1346** | agreed ⏸️ | 12/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1q1b1r/pp3k1p/3pp2p/2p5/2B1P3/3P3P/PPP2PP1/RN3RK1 b - - 1 9">Link</a> | Blitz |
+| **qwertyou1346** | sirjibesh | win 🥇 | 12/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r1k1/p4pQp/1qp1p1pB/1b6/8/8/PPP2PPP/R3R1K1 b - - 3 19">Link</a> | Blitz |
+| V_Dmr | **qwertyou1346** | resigned ❌ | 12/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn4nr/1Q3kbp/pp1p2p1/8/8/8/P1PP1PPP/R1B1K1NR b KQ - 2 14">Link</a> | Blitz |
+| **qwertyou1346** | Jael210 | win 🥇 | 12/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/pppp1ppp/8/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2">Link</a> | Blitz |
+| Mattius_03 | **qwertyou1346** | win 🥇 | 12/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5kpp/8/3N4/8/5n1P/6P1/6qK w - - 6 38">Link</a> | Blitz |
+| **qwertyou1346** | dom1n1kb | win 🥇 | 12/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqr1k1/p2n1pQp/1p1P2pB/2p5/2B4b/8/PPP2PPP/RN2R1K1 b - - 3 15">Link</a> | Blitz |
+| EmptyNightDH | **qwertyou1346** | win 🥇 | 12/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5p2/1RpN4/p6p/2KP3P/1Pr5/4n3/8 w - - 0 46">Link</a> | Blitz |
+| **qwertyou1346** | imivarga | resigned ❌ | 12/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6r/pR6/2pk4/3b1p1p/6p1/2n5/P1P2PPP/5K2 w - - 0 28">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
