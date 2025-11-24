@@ -94,11 +94,12 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1273 | 782 | 667 |
+| Current | 1273 | 790 | 667 |
 | Best | 1276 | 842 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **qwertyou1346** | rohimwarisi | win 🥇 | 24/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1k4r/pp1Q1pp1/1q6/1Bp4p/2Nn1Bn1/8/PPP2PP1/3RR1K1 b - - 13 23">Link</a> | Blitz |
 | ul_log | **qwertyou1346** | agreed ⏸️ | 22/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qr1k1/pp3ppp/n1p2p2/7b/3P4/P1P2N1P/1P1QBPP1/R4RK1 w - - 1 15">Link</a> | Blitz |
 | **qwertyou1346** | sweetcutter | checkmated ❌ | 22/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k5r/pp2bpp1/1r5p/3Pp3/4Q3/3B2P1/PPP2P2/1K1q4 w - - 0 25">Link</a> | Blitz |
 | **qwertyou1346** | Hammoutalibo | timeout ❌ | 22/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/2p4p/p2p2p1/1p1P1p2/3Bp3/n4P2/PRP2KPP/8 w - - 7 28">Link</a> | Blitz |
@@ -108,7 +109,6 @@ Play with me...!
 | **qwertyou1346** | Naruee | win 🥇 | 21/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4R2k/1p6/p4Ppp/2p2n2/8/1B6/PPb2PPP/6K1 b - - 4 26">Link</a> | Blitz |
 | **qwertyou1346** | NAO445 | checkmated ❌ | 21/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/pppp1ppp/8/1B6/P3P1n1/2P2P2/1P1Q2Pq/RN3RK1 w - - 0 14">Link</a> | Blitz |
 | Domizioso | **qwertyou1346** | timeout ❌ | 21/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/1p6/pKb5/2r5/1k2R3 b - - 39 68">Link</a> | Blitz |
-| MOHAMED-SHALABE | **qwertyou1346** | timeout ❌ | 21/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1rk1/ppp2ppp/2n5/1Q1b4/5B2/2P3KP/q3BPP1/3R3R b - - 10 22">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
