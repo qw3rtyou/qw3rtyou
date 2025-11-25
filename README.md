@@ -94,11 +94,14 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1273 | 790 | 667 |
+| Current | 1273 | 782 | 667 |
 | Best | 1276 | 842 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **qwertyou1346** | HVPinc | checkmated ❌ | 25/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/6pp/p2P4/Pp6/1P3R2/8/5PPP/3r2K1 w - - 0 37">Link</a> | Blitz |
+| tsakunia | **qwertyou1346** | win 🥇 | 24/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/pp5p/2p3k1/3p4/8/2P1P3/P1P3PP/6K1 w - - 0 22">Link</a> | Blitz |
+| aubcity5 | **qwertyou1346** | timeout ❌ | 24/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/p2b2pp/4pp2/1pNq4/3Pp3/6P1/5QPK/7R b - - 3 29">Link</a> | Blitz |
 | **qwertyou1346** | rohimwarisi | win 🥇 | 24/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1k4r/pp1Q1pp1/1q6/1Bp4p/2Nn1Bn1/8/PPP2PP1/3RR1K1 b - - 13 23">Link</a> | Blitz |
 | ul_log | **qwertyou1346** | agreed ⏸️ | 22/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qr1k1/pp3ppp/n1p2p2/7b/3P4/P1P2N1P/1P1QBPP1/R4RK1 w - - 1 15">Link</a> | Blitz |
 | **qwertyou1346** | sweetcutter | checkmated ❌ | 22/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k5r/pp2bpp1/1r5p/3Pp3/4Q3/3B2P1/PPP2P2/1K1q4 w - - 0 25">Link</a> | Blitz |
@@ -106,9 +109,6 @@ Play with me...!
 | Arroyave_11 | **qwertyou1346** | timeout ❌ | 22/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q6/7p/7P/8/8/8/8/k1K5 b - - 14 65">Link</a> | Blitz |
 | Mikabel60 | **qwertyou1346** | win 🥇 | 22/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/pp1n1ppp/2pb1p2/2q5/2P5/3B1Q1P/PP1B1PP1/2KRR3 w - - 3 17">Link</a> | Blitz |
 | **qwertyou1346** | Alberticobarbaro99 | win 🥇 | 22/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1br1/p2knQ1p/1pb1B1p1/8/3p1B2/2N5/PP3PPP/3RR1K1 b - - 2 22">Link</a> | Blitz |
-| **qwertyou1346** | Naruee | win 🥇 | 21/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4R2k/1p6/p4Ppp/2p2n2/8/1B6/PPb2PPP/6K1 b - - 4 26">Link</a> | Blitz |
-| **qwertyou1346** | NAO445 | checkmated ❌ | 21/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/pppp1ppp/8/1B6/P3P1n1/2P2P2/1P1Q2Pq/RN3RK1 w - - 0 14">Link</a> | Blitz |
-| Domizioso | **qwertyou1346** | timeout ❌ | 21/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/1p6/pKb5/2r5/1k2R3 b - - 39 68">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
