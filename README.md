@@ -94,11 +94,13 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1273 | 836 | 667 |
+| Current | 1273 | 820 | 667 |
 | Best | 1276 | 842 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| noop52 | **qwertyou1346** | timeout ❌ | 28/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/3P1kp1/4Rp2/1r2BK1P/8/8 b - - 0 52">Link</a> | Blitz |
+| **qwertyou1346** | prasannnnnnnnnn | resigned ❌ | 28/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/2K5/8/1k6/8/q7 w - - 0 57">Link</a> | Blitz |
 | Ahmedesamxx | **qwertyou1346** | win 🥇 | 28/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3rk1/R2n1ppp/4p3/8/2P5/2qP3P/5PP1/4R1K1 w - - 0 25">Link</a> | Blitz |
 | **qwertyou1346** | DeKajualKnight | stalemate ⏸️ | 27/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7K/8/8/8/1Q6/8/k7 b - - 22 66">Link</a> | Blitz |
 | EndTheFed2016 | **qwertyou1346** | stalemate ⏸️ | 27/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/K1k5/2q5/8/8/8/8/8 w - - 28 77">Link</a> | Blitz |
@@ -107,8 +109,6 @@ Play with me...!
 | **qwertyou1346** | CDuranC | win 🥇 | 27/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7P/p7/1pp1kp2/8/8/PPP2PP1/2K5 b - - 0 29">Link</a> | Blitz |
 | hadikan12 | **qwertyou1346** | win 🥇 | 27/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6pp/3k4/8/1N6/2p2P2/5PKP/4r3 w - - 0 38">Link</a> | Blitz |
 | **qwertyou1346** | LoSeDisTractReGretLiFe | win 🥇 | 27/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p5Q1/6K1/P7/8/4N3/5PP1/8 b - - 30 70">Link</a> | Blitz |
-| **qwertyou1346** | statee | win 🥇 | 27/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/6P1/8/2K5/kQ6 b - - 73 93">Link</a> | Blitz |
-| flashsasu | **qwertyou1346** | win 🥇 | 27/11/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/ppp3pp/4pp2/8/1q6/3P3P/P6P/BK4R1 w - - 1 21">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
