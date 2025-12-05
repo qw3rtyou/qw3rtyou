@@ -94,21 +94,21 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1273 | 765 | 667 |
+| Current | 1273 | 746 | 667 |
 | Best | 1276 | 842 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| sdthnkp | **qwertyou1346** | win 🥇 | 4/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r3k1/1r3pp1/7p/2n4P/1p6/R3PKP1/8/1R6 b - - 0 35">Link</a> | Blitz |
-| **qwertyou1346** | cager10 | timeout ❌ | 4/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7r/7P/8/4k3/2K5/3p4/7R w - - 4 51">Link</a> | Blitz |
-| **qwertyou1346** | jcvp00 | timeout ❌ | 3/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/2P2ppk/8/7P/1K6/1P3r2/P4q2/8 w - - 2 41">Link</a> | Blitz |
-| namir1234567789 | **qwertyou1346** | win 🥇 | 3/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1kb1r/pp3ppp/2p1pn2/q3N3/8/2NP4/PPPB1PPP/R2QKB1R b KQkq - 1 7">Link</a> | Blitz |
-| **qwertyou1346** | tamilkaran | timeout ❌ | 3/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/2Rb1ppp/p7/4b1N1/p7/8/2P2PPP/3R2K1 w - - 0 31">Link</a> | Blitz |
-| aguskobra | **qwertyou1346** | timeout ❌ | 3/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3k2/1p5p/p2q2p1/2n2pP1/2Pp1bP1/3P1Q2/4RPK1/1R6 b - - 4 32">Link</a> | Blitz |
-| Felipi_Davi | **qwertyou1346** | win 🥇 | 3/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5bk1/5ppp/2q5/8/8/7P/4QPP1/4R1K1 w - - 8 37">Link</a> | Blitz |
-| **qwertyou1346** | someone509 | timeout ❌ | 2/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/p7/5R1p/1p2k3/5R1P/1B6/PPPr1PP1/6K1 w - b6 0 35">Link</a> | Blitz |
-| **qwertyou1346** | Lilito05 | win 🥇 | 2/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1R1k2/2N2p1p/p3p1p1/2p2b2/1p5P/5N2/PPP2PP1/2K2B1R b - - 1 19">Link</a> | Blitz |
-| Ignaciovacon | **qwertyou1346** | abandoned  | 2/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1kb1r/pp2pppp/2p2n2/q5B1/3P4/2N2N2/PPP2PPP/R2QKB1R b KQkq - 1 6">Link</a> | Blitz |
+| FourCorvids | **qwertyou1346** | checkmated ❌ | 5/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q1k1/6rp/4p3/4R3/5p2/5PqP/6P1/5R1K b - - 0 36">Link</a> | Blitz |
+| 1AEKS | **qwertyou1346** | resigned ❌ | 5/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1p3p1/7p/1kprp3/1PP3P1/P6K/1N6/2B1R3 b - - 0 36">Link</a> | Blitz |
+| Masun104 | **qwertyou1346** | win 🥇 | 5/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/pp4pp/2p5/4P3/4p1q1/2P2b2/PP3P1P/4RRK1 w - - 3 26">Link</a> | Blitz |
+| **qwertyou1346** | ekki-almeno123 | win 🥇 | 4/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rk4r1/2Q5/p5Bp/1p6/8/5p2/PP3PPP/2R3K1 b - - 2 28">Link</a> | Blitz |
+| Ritrix | **qwertyou1346** | win 🥇 | 4/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1kb1r/ppp1pppp/8/8/4q3/P7/2PPNPPP/2BQK2R w Kkq - 0 12">Link</a> | Blitz |
+| **qwertyou1346** | katerine0704 | checkmated ❌ | 4/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn3r2/p3RBkp/2pN2n1/1p3b2/3p4/6QP/PPq2PP1/2KR4 w - - 0 25">Link</a> | Blitz |
+| **qwertyou1346** | danmartin1206 | win 🥇 | 4/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/p3R1pk/p1p1R3/P1PpBp1r/1P6/N5P1/7P/6K1 b - - 10 31">Link</a> | Blitz |
+| Charan927 | **qwertyou1346** | resigned ❌ | 4/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/5ppp/r7/ppp2R2/8/P1PP1B1P/1P3PP1/R5K1 b - - 0 21">Link</a> | Blitz |
+| **qwertyou1346** | ABB51ABB51 | timeout ❌ | 4/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2R5/4kp1P/8/6P1/r5K1/8/8 w - - 3 43">Link</a> | Blitz |
+| DACUBARICANA | **qwertyou1346** | abandoned  | 4/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kb1r/ppp1pppp/2n5/3p4/3Pq1P1/2P1NNBP/PP3P2/R2QK2R b KQkq - 3 14">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
