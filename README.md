@@ -94,21 +94,21 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1293 | 773 | 675 |
-| Best | 1295 | 842 | 1015 |
+| Current | 1293 | 879 | 675 |
+| Best | 1295 | 887 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| MyGloriousKingLebron09 | **qwertyou1346** | win 🥇 | 21/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/5r2/3R4/8/2Pbr1p1/8/6P1/3R1K2 w - - 6 47">Link</a> | Blitz |
-| **qwertyou1346** | tyhfk | repetition ⏸️ | 21/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/4r2p/8/8/5Q2/1P6/5PPP/6K1 w - - 15 46">Link</a> | Blitz |
-| **qwertyou1346** | beaubborz | win 🥇 | 21/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1b1r/pp3ppp/3k4/1Bp5/1n2QB2/8/PPP2PPP/RN2K2R b KQ - 1 12">Link</a> | Blitz |
-| Mraider15 | **qwertyou1346** | resigned ❌ | 21/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb2rk1/p4ppp/2pbp3/8/1P6/3PBN2/PQ2BPPP/R3K2R b KQ - 0 14">Link</a> | Blitz |
-| **qwertyou1346** | 12102011abc | timevsinsufficient ⏸️ | 21/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/2K5/4Q3/2k5/6B1 w - - 33 77">Link</a> | Blitz |
-| david-raphael-israel | **qwertyou1346** | win 🥇 | 20/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/5p2/2Pq2p1/4p3/5kP1/5P1K/8 w - - 1 43">Link</a> | Blitz |
-| ifossz | **qwertyou1346** | win 🥇 | 20/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3r4/8/3K4/4Bk2/8/8/8 w - - 2 54">Link</a> | Blitz |
-| **qwertyou1346** | vikdas | timeout ❌ | 20/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/6pp/1k6/2N5/1K6/6P1/R6P/8 w - - 3 43">Link</a> | Blitz |
-| rayfly1 | **qwertyou1346** | resigned ❌ | 20/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3Q1k1/ppq2ppp/8/5p2/8/2P5/PP3PPP/RN2R1K1 b - - 0 16">Link</a> | Blitz |
-| Levidovich | **qwertyou1346** | win 🥇 | 20/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2krr3/ppp2ppp/8/P2p4/1P4P1/N3N2P/3K4/4R3 w - - 0 28">Link</a> | Blitz |
+| **qwertyou1346** | PerfectMuffin81 | resigned ❌ | 22/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rr1k1/p4pp1/1p5p/2p5/P7/2qP4/5PPP/1R2R1K1 w - - 0 27">Link</a> | Blitz |
+| **qwertyou1346** | Stubings | win 🥇 | 22/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q6/6p1/3k1p2/3P4/2K5/8/2N4p/8 b - - 0 50">Link</a> | Blitz |
+| why1799 | **qwertyou1346** | win 🥇 | 22/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1q1bnr/ppp1kppp/8/5b2/8/2N5/PP1P1PPP/R1B1q1K1 w - - 0 9">Link</a> | Blitz |
+| Jonathan_PF221122 | **qwertyou1346** | win 🥇 | 22/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k2b1r/p1p3pp/Pp3p2/r7/3P4/2P1P3/5PPP/R4K2 w - - 1 21">Link</a> | Blitz |
+| anubiswonggg | **qwertyou1346** | win 🥇 | 22/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rr1k/pp1R2pp/2n1p3/5p1Q/8/PB5P/2P2PP1/q5K1 w - - 0 25">Link</a> | Blitz |
+| **qwertyou1346** | PetaniSawi | resigned ❌ | 22/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/3b1pkp/3P2p1/p7/1pBq4/8/2P3PP/2KRr3 w - - 0 29">Link</a> | Blitz |
+| **qwertyou1346** | rfndmn | win 🥇 | 22/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kbnr/pbpQ1ppp/1pn2q2/4N3/4P3/8/PPP2PPP/RNB1KB1R b KQkq - 0 7">Link</a> | Blitz |
+| Mehmed_23 | **qwertyou1346** | win 🥇 | 22/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1rk1/pp3ppp/1q2p3/6Q1/1P1P4/P4n2/1B3P1P/R4RK1 w - - 0 19">Link</a> | Blitz |
+| **qwertyou1346** | nihgarde | win 🥇 | 22/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7R/2p1kp2/1r5p/4p1p1/2P5/1PB2P2/P5PP/R4K2 b - - 0 30">Link</a> | Blitz |
+| **qwertyou1346** | ufka11 | win 🥇 | 22/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R2k1/p4ppp/qp6/2r1P3/8/6PP/2PB1P2/1RK5 b - - 0 31">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
