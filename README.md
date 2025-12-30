@@ -94,21 +94,21 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1293 | 911 | 675 |
-| Best | 1295 | 922 | 1015 |
+| Current | 1293 | 969 | 675 |
+| Best | 1295 | 977 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **qwertyou1346** | Victor_Vinci | win 🥇 | 28/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kr2/3Qn2p/p5p1/1p1R2N1/1P3q2/2P5/P4PPP/RN4K1 b - - 2 24">Link</a> | Blitz |
-| **qwertyou1346** | taufik1983 | win 🥇 | 28/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6R/pp3rkR/3p2p1/2qP2P1/4b3/3B4/PPP5/1K6 b - - 3 27">Link</a> | Blitz |
-| Fahrin_26 | **qwertyou1346** | repetition ⏸️ | 28/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr2nQ/ppp1p3/2n3pB/8/4P1q1/2N5/PPP2P2/R4RK1 w - - 9 22">Link</a> | Blitz |
-| BatTheRe | **qwertyou1346** | win 🥇 | 28/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r2k/3b2p1/5p2/3p4/1P4n1/2P2N1P/4BPP1/r3K2R w - - 0 28">Link</a> | Blitz |
-| magkSkyDaddy | **qwertyou1346** | timeout ❌ | 28/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Qr2k/6pp/8/8/1Br1p3/P7/1Pq2PPP/3RR1K1 b - - 2 29">Link</a> | Blitz |
-| **qwertyou1346** | unomicrowave | resigned ❌ | 28/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp2rk2/5np1/3q4/3P4/2P4P/6P1/5R1K w - - 0 32">Link</a> | Blitz |
-| ismael831121 | **qwertyou1346** | timeout ❌ | 27/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/8/5r2/8/5k1P/6RK/8 b - - 14 56">Link</a> | Blitz |
-| JNewton15 | **qwertyou1346** | resigned ❌ | 26/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2k4/pp5p/2p5/3B1NR1/3pP3/3P1n2/PPP3PP/R5K1 w - - 1 28">Link</a> | Blitz |
-| **qwertyou1346** | MasterChessWin88 | win 🥇 | 26/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr2nr/Q2q3p/6p1/1N1P1p2/4p3/8/PP3PPP/2R3K1 b - - 2 24">Link</a> | Blitz |
-| **qwertyou1346** | ChetChess9449 | win 🥇 | 25/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/1Pk5/3QK3/8/4B3/8/8 b - - 4 58">Link</a> | Blitz |
+| **qwertyou1346** | nbatts2024 | checkmated ❌ | 29/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/2b5/p7/6q1/3p4/6P1/PPP3PP/1K1r4 w - - 0 44">Link</a> | Blitz |
+| DmitryZhpppp | **qwertyou1346** | win 🥇 | 29/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/3q2pp/p1bPp3/1p2Rp2/2p5/P1P5/2P2PPP/1R1Q2K1 w - - 4 33">Link</a> | Blitz |
+| **qwertyou1346** | keroki31 | win 🥇 | 29/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2kQ1/ppq1b2p/3p1p2/2p5/2B1P3/8/PPPB1PPP/RN2K2R b KQ - 0 12">Link</a> | Blitz |
+| jackson86264 | **qwertyou1346** | win 🥇 | 29/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/P7/8/5knR/2r5/8/5P2/R5K1 w - - 1 48">Link</a> | Blitz |
+| **qwertyou1346** | Keechesss | win 🥇 | 29/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/pp3ppp/n1pRp3/8/2Q5/8/P1P2PPP/1R4K1 b - - 0 19">Link</a> | Blitz |
+| raj4949 | **qwertyou1346** | win 🥇 | 29/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r1k1/ppp2ppp/3b4/4p3/3Pn1P1/2B2N1P/bP2BP2/2KR1R2 b - - 1 17">Link</a> | Blitz |
+| **qwertyou1346** | karanpbx | win 🥇 | 29/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r1k/p1p2p1p/7p/8/2B5/2N5/PPP2P1K/R5R1 b - - 3 20">Link</a> | Blitz |
+| **qwertyou1346** | frankietm | win 🥇 | 29/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q7/1p1r3p/k2p1p2/3Pp3/P7/8/P4PPP/1R4K1 b - - 1 29">Link</a> | Blitz |
+| **qwertyou1346** | LaoYi2023 | win 🥇 | 29/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R2k1/2q4p/4r1p1/1Pp1p3/2P1Np1Q/4RP2/7P/7K b - - 0 33">Link</a> | Blitz |
+| nicholas5400 | **qwertyou1346** | win 🥇 | 29/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7P/5p2/7q/3kp3/6P1/5PK1/8 w - - 1 46">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
