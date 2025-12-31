@@ -94,21 +94,21 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1293 | 969 | 675 |
-| Best | 1295 | 977 | 1015 |
+| Current | 1293 | 936 | 675 |
+| Best | 1295 | 983 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **qwertyou1346** | nbatts2024 | checkmated ❌ | 29/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/2b5/p7/6q1/3p4/6P1/PPP3PP/1K1r4 w - - 0 44">Link</a> | Blitz |
-| DmitryZhpppp | **qwertyou1346** | win 🥇 | 29/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/3q2pp/p1bPp3/1p2Rp2/2p5/P1P5/2P2PPP/1R1Q2K1 w - - 4 33">Link</a> | Blitz |
-| **qwertyou1346** | keroki31 | win 🥇 | 29/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2kQ1/ppq1b2p/3p1p2/2p5/2B1P3/8/PPPB1PPP/RN2K2R b KQ - 0 12">Link</a> | Blitz |
-| jackson86264 | **qwertyou1346** | win 🥇 | 29/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/P7/8/5knR/2r5/8/5P2/R5K1 w - - 1 48">Link</a> | Blitz |
-| **qwertyou1346** | Keechesss | win 🥇 | 29/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/pp3ppp/n1pRp3/8/2Q5/8/P1P2PPP/1R4K1 b - - 0 19">Link</a> | Blitz |
-| raj4949 | **qwertyou1346** | win 🥇 | 29/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r1k1/ppp2ppp/3b4/4p3/3Pn1P1/2B2N1P/bP2BP2/2KR1R2 b - - 1 17">Link</a> | Blitz |
-| **qwertyou1346** | karanpbx | win 🥇 | 29/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r1k/p1p2p1p/7p/8/2B5/2N5/PPP2P1K/R5R1 b - - 3 20">Link</a> | Blitz |
-| **qwertyou1346** | frankietm | win 🥇 | 29/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q7/1p1r3p/k2p1p2/3Pp3/P7/8/P4PPP/1R4K1 b - - 1 29">Link</a> | Blitz |
-| **qwertyou1346** | LaoYi2023 | win 🥇 | 29/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R2k1/2q4p/4r1p1/1Pp1p3/2P1Np1Q/4RP2/7P/7K b - - 0 33">Link</a> | Blitz |
-| nicholas5400 | **qwertyou1346** | win 🥇 | 29/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7P/5p2/7q/3kp3/6P1/5PK1/8 w - - 1 46">Link</a> | Blitz |
+| Zck_0111 | **qwertyou1346** | checkmated ❌ | 30/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/1p3p1Q/5p2/p3p3/3p4/P2B3P/1qP2PP1/R4RK1 b - - 0 22">Link</a> | Blitz |
+| **qwertyou1346** | ses3560 | win 🥇 | 30/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3NR2k/6pp/8/p7/8/1r6/1P4PP/6K1 b - - 1 29">Link</a> | Blitz |
+| sumeshmn | **qwertyou1346** | checkmated ❌ | 30/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4kr2/3Q3p/p3pp2/8/1P6/8/4q1PP/3R3K b - - 1 32">Link</a> | Blitz |
+| **qwertyou1346** | wlknd | win 🥇 | 30/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/ppk2N1p/2p1rBp1/4P3/3n1P2/3P4/PP1K2PP/R7 b - - 0 24">Link</a> | Blitz |
+| Saintmayor | **qwertyou1346** | resigned ❌ | 30/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R1rk3/pR4pp/8/1Q1pp3/8/4P1PP/q1P1K1P1/8 b - - 6 28">Link</a> | Blitz |
+| **qwertyou1346** | ekoak40 | win 🥇 | 30/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1rk1/p4ppQ/4b2p/4p1q1/8/3B4/PPP2PPP/1K1R3R b - - 8 18">Link</a> | Blitz |
+| **qwertyou1346** | HHHHHIKKKKK | resigned ❌ | 30/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2rk1/3p1ppp/p1bQ4/4p3/2R5/P5R1/1P3PPP/1q4K1 w - - 1 25">Link</a> | Blitz |
+| Marian57 | **qwertyou1346** | win 🥇 | 30/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6k1/5R2/4pR2/3pP3/3P4/2P1KPrr/8 w - - 3 60">Link</a> | Blitz |
+| **qwertyou1346** | GreySergei | resigned ❌ | 30/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/5ppp/p3p1n1/1p1pn1q1/1P1N4/2N3P1/P1P2PBP/R4RK1 w - - 0 16">Link</a> | Blitz |
+| arie100080 | **qwertyou1346** | win 🥇 | 30/12/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/2k5/1pr5/6K1 w - - 2 60">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
