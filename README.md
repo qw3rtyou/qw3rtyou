@@ -94,11 +94,13 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1293 | 889 | 675 |
+| Current | 1293 | 905 | 675 |
 | Best | 1295 | 983 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| PuffoBack | **qwertyou1346** | win 🥇 | 4/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k2r/p4ppp/2p1p3/1p6/1P1P1n2/3B1N2/1P3PPP/3K3R w kq - 0 17">Link</a> | Blitz |
+| hawai_kratochvil | **qwertyou1346** | win 🥇 | 4/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/1pk1r1pp/1pp1Pp2/5P2/8/2R5/7P/R2r3K w - - 4 34">Link</a> | Blitz |
 | **qwertyou1346** | RAIFHAN | abandoned  | 3/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2qn1pbk/Rr1p2pp/3Pp3/2P1P2B/Q4NP1/5P1P/6K1 w - - 3 29">Link</a> | Blitz |
 | Mikki19932410 | **qwertyou1346** | resigned ❌ | 3/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kbnr/1pp1pppp/2n5/p7/3P4/2NB4/PPP2P1N/R1BQK1R1 b Qkq - 0 9">Link</a> | Blitz |
 | pooyeshstd | **qwertyou1346** | win 🥇 | 3/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/ppp5/1k6/3QP3/3P4/7P/4K1P1/8 w - - 1 51">Link</a> | Blitz |
@@ -107,8 +109,6 @@ Play with me...!
 | **qwertyou1346** | Butew-x | checkmated ❌ | 3/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p5p1/3N1rKp/5p2/4p3/2P3P1/PP5r/5R2 w - - 2 25">Link</a> | Bullet |
 | **qwertyou1346** | Aquino1904 | win 🥇 | 3/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/p1p3k1/1p1N3p/PP1Ppr2/5n2/7R/2P2P2/7K b - - 0 32">Link</a> | Bullet |
 | **qwertyou1346** | mandoopark | resigned ❌ | 3/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/p2B4/1p6/2b5/5PP1/1P5P/8/5R1K b - - 0 37">Link</a> | Rapid |
-| LilJunpyo | **qwertyou1346** | win 🥇 | 2/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1kb1r/ppp1pppp/8/3q4/3Pn3/4PN2/PPP2PPP/R1BQKB1R b KQkq - 0 5">Link</a> | Blitz |
-| WadimAAA | **qwertyou1346** | checkmated ❌ | 2/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q6/p7/k1p5/2N5/3p3b/8/qPPB1P2/2KR4 b - - 3 31">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
