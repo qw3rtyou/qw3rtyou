@@ -99,6 +99,8 @@ Play with me...!
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Xzist_33 | **qwertyou1346** | timeout ❌ | 6/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4k1Np/4p3/5p1P/pr6/R4K2/8/8 b - - 1 45">Link</a> | Blitz |
+| **qwertyou1346** | MixMasterMike333 | win 🥇 | 6/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6p1/6P1/2p5/N1P4p/1K4kQ/6B1 b - - 2 47">Link</a> | Blitz |
 | **qwertyou1346** | ph3lt | win 🥇 | 5/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r1k/pb6/1p1p3Q/3P4/2n2P2/8/3q3P/6RK b - - 2 28">Link</a> | Blitz |
 | catsrcursed | **qwertyou1346** | win 🥇 | 5/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/pp3ppp/2p2n2/3n4/3P4/P7/4KPPP/4B3 b - - 0 23">Link</a> | Blitz |
 | **qwertyou1346** | manojrajput1 | timeout ❌ | 5/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6nr/p2B1ppp/b5nk/8/5p2/6B1/PPPN2PP/2K1R3 w - - 0 26">Link</a> | Blitz |
@@ -107,8 +109,6 @@ Play with me...!
 | **qwertyou1346** | El_Put0n_Del_Barrio | checkmated ❌ | 5/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4b2/pp3Q2/2pk1pp1/1B1p1b2/3q4/PnN5/1P3PPP/2K1R3 w - - 3 19">Link</a> | Blitz |
 | PuffoBack | **qwertyou1346** | win 🥇 | 4/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k2r/p4ppp/2p1p3/1p6/1P1P1n2/3B1N2/1P3PPP/3K3R w kq - 0 17">Link</a> | Blitz |
 | hawai_kratochvil | **qwertyou1346** | win 🥇 | 4/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/1pk1r1pp/1pp1Pp2/5P2/8/2R5/7P/R2r3K w - - 4 34">Link</a> | Blitz |
-| **qwertyou1346** | RAIFHAN | abandoned  | 3/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2qn1pbk/Rr1p2pp/3Pp3/2P1P2B/Q4NP1/5P1P/6K1 w - - 3 29">Link</a> | Blitz |
-| Mikki19932410 | **qwertyou1346** | resigned ❌ | 3/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kbnr/1pp1pppp/2n5/p7/3P4/2NB4/PPP2P1N/R1BQK1R1 b Qkq - 0 9">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
