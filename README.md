@@ -94,11 +94,13 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1293 | 972 | 675 |
+| Current | 1282 | 972 | 675 |
 | Best | 1295 | 1002 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **qwertyou1346** | nicholas5400 | win 🥇 | 11/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r3k1/2p1N3/p6p/5p2/4n3/1p2P2P/PBP3P1/2K5 b - - 0 31">Link</a> | Daily |
+| **qwertyou1346** | KaiPinckard | resigned ❌ | 11/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/5pp1/P1q4p/7P/2p5/7N/5PPK/8 w - - 0 42">Link</a> | Rapid |
 | **qwertyou1346** | bensai | checkmated ❌ | 10/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4k1/1P3pp1/3rp2p/3p4/1N1b4/P4P2/2P2q2/1R1QRK2 w - - 0 27">Link</a> | Blitz |
 | SparklingMermaid | **qwertyou1346** | win 🥇 | 10/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3rk1/5ppp/p1p1p3/B2p1q1P/3P4/bPP1PP2/P2NQ3/2KR3R w - - 1 21">Link</a> | Blitz |
 | pobitro-karmokar | **qwertyou1346** | timeout ❌ | 10/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/pp3p1p/2p1qN2/6p1/6P1/2N1PR2/PPPr3P/2R3K1 b - - 0 26">Link</a> | Blitz |
@@ -107,8 +109,6 @@ Play with me...!
 | **qwertyou1346** | rajeshpassan | timeout ❌ | 9/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r1r1k1/5ppp/p4n2/1p3q2/8/2P4R/PP1b4/K6R w - - 4 39">Link</a> | Blitz |
 | **qwertyou1346** | OlympiqueMagnifique | win 🥇 | 9/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp5p/2p2k2/3p4/5PR1/PP1B4/2P1K3/8 b - - 0 39">Link</a> | Blitz |
 | josesoloroa | **qwertyou1346** | win 🥇 | 9/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p4ppp/7r/5P2/2PpB1q1/3P4/P2Q1RKP/1r6 w - - 5 31">Link</a> | Blitz |
-| kablamus | **qwertyou1346** | win 🥇 | 9/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1Q3p2/1p2pk2/8/P4P2/1P6/2P2b1P/6qK w - - 1 35">Link</a> | Blitz |
-| **qwertyou1346** | Aryagrage | win 🥇 | 9/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4q2/2Q3pk/2Pp3p/p7/1p2p2P/8/PPP2PP1/5RK1 b - - 0 32">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
