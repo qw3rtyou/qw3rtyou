@@ -94,21 +94,21 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1282 | 1007 | 675 |
+| Current | 1282 | 977 | 675 |
 | Best | 1295 | 1047 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| valley_rose | **qwertyou1346** | checkmated ❌ | 15/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q3/pp3kpp/1qp2b2/5p2/1P3Bn1/P1N3P1/2P2P1P/R3R1K1 b - - 0 23">Link</a> | Blitz |
-| **qwertyou1346** | Elchin_alekberli | win 🥇 | 15/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Qkb1r/1pp2ppp/5n2/4B3/2b5/2N5/PPP2PPP/2KR4 b k - 0 15">Link</a> | Blitz |
-| **qwertyou1346** | fox1977_it | resigned ❌ | 15/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r5r/1pNk1ppp/p1n1p3/8/8/1P6/PP1N1PPP/2n1R1K1 w - - 2 22">Link</a> | Blitz |
-| yusuf47554 | **qwertyou1346** | win 🥇 | 15/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r1k/pp1n1p1p/2p2q2/8/8/P2P4/bbPBQP1P/2KR1BR1 w - - 0 21">Link</a> | Blitz |
-| **qwertyou1346** | werdfgthdnvsvnnsnsn | timeout ❌ | 15/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/1q2Rp1p/3P2p1/8/5P2/6P1/6KP/8 w - - 1 45">Link</a> | Blitz |
-| Ttxa | **qwertyou1346** | checkmated ❌ | 15/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/p2bn1pQ/1p2p3/2bpPpN1/2Pn4/8/PP3PPP/RNB2RK1 b - - 1 15">Link</a> | Blitz |
-| **qwertyou1346** | Giorgiov16 | insufficient ⏸️ | 15/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3k4/2N5/3K4/8/8/8 w - - 0 79">Link</a> | Blitz |
-| TIGRE692014 | **qwertyou1346** | resigned ❌ | 14/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6r/p3q1k1/2p1Bp2/1p1p1Np1/3P2Q1/n1P1P3/P4PPP/R4RK1 b - - 5 23">Link</a> | Blitz |
-| **qwertyou1346** | PetrK15 | timeout ❌ | 14/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/5ppp/4p1n1/2Qpq3/8/5PK1/6R1/8 w - - 14 40">Link</a> | Blitz |
-| ManolisFromKalymnos | **qwertyou1346** | stalemate ⏸️ | 14/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/3p4/5k1K/5q2/8/8 w - - 9 67">Link</a> | Blitz |
+| nicholas5400 | **qwertyou1346** | win 🥇 | 16/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/2p1bppp/1p2p3/n7/3Pp3/4P3/PP1NbPPP/R1BQR1K1 w - - 0 15">Link</a> | Daily |
+| **qwertyou1346** | Sirwared | resigned ❌ | 16/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/q3nrpp/p1p1b2B/3pP3/6r1/7Q/P4PPP/2R2RK1 b - - 3 22">Link</a> | Blitz |
+| gsaucisse65 | **qwertyou1346** | timeout ❌ | 16/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6R1/8/8/8/5rk1/5p2/5K2/8 b - - 6 62">Link</a> | Blitz |
+| **qwertyou1346** | ElYapura | resigned ❌ | 16/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1rk1/2q2ppp/2pp1b2/pp3P2/2n1RB2/1QN3PP/PPP2P2/1K1R4 w - - 1 20">Link</a> | Blitz |
+| WelissonChess | **qwertyou1346** | abandoned  | 16/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R2r1k1/p1p2ppp/6q1/3n4/8/2PP1BPP/P3PP1K/3Q1R2 b - - 0 19">Link</a> | Blitz |
+| shauryadev | **qwertyou1346** | win 🥇 | 16/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1r4/p1p2ppp/Pp6/8/7P/8/4nPP1/2R3K1 w - - 2 30">Link</a> | Blitz |
+| **qwertyou1346** | TravMike | win 🥇 | 16/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5R2/1P5k/2np1p2/1p1np3/6Q1/2P5/1P3PPP/6K1 b - - 0 35">Link</a> | Blitz |
+| Optarix | **qwertyou1346** | win 🥇 | 16/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4kpQ1/4p1pP/1r2P3/5PqK/6r1/8/8 w - - 2 44">Link</a> | Blitz |
+| **qwertyou1346** | may461 | abandoned  | 16/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/5pp1/2p1pn1p/pp3b2/3P1B2/bBP3R1/2P2PPP/1R1Q2K1 w - - 2 18">Link</a> | Blitz |
+| **qwertyou1346** | tudorking2k | win 🥇 | 16/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk2r/2p2ppp/4p3/1N1pP3/3Q4/1Pp5/P1B2PPP/R3R1K1 b kq - 0 19">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
