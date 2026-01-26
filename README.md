@@ -99,6 +99,8 @@ Play with me...!
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| lch0906 | **qwertyou1346** | timeout ❌ | 25/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q6/8/8/k1K5/8/8/7B/8 b - - 3 65">Link</a> | Blitz |
+| DJREXZ | **qwertyou1346** | win 🥇 | 25/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1r3/ppp2kpp/6n1/3P1p2/8/2N2n1P/PPPK3R/R1B5 w - - 5 19">Link</a> | Blitz |
 | **qwertyou1346** | M31900 | win 🥇 | 24/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q5k1/2pq1p2/p2p3p/2p2Pp1/8/6B1/PbP2PPP/4R1K1 b - - 0 20">Link</a> | Blitz |
 | chandrabiochem | **qwertyou1346** | timeout ❌ | 24/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k5r/1pp2Rp1/8/1N1p2q1/3Pp1nb/4P3/PPPB2QP/7K b - - 0 24">Link</a> | Blitz |
 | Carp_Off | **qwertyou1346** | timeout ❌ | 24/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/pp1n1ppp/8/5q2/8/6P1/5PKP/3Q4 b - - 0 29">Link</a> | Blitz |
@@ -107,8 +109,6 @@ Play with me...!
 | **qwertyou1346** | richardtilley2 | timeout ❌ | 19/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2rk1/2Q2ppp/p4q2/1p1bR3/4p3/8/PPP2PPP/2R1N1K1 w - - 1 33">Link</a> | Blitz |
 | nicky310 | **qwertyou1346** | resigned ❌ | 19/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/p1pq1ppp/Q3bn2/1B1p4/1b1Pp3/4P3/PP1P1PPP/RNB1K2R b KQkq - 6 10">Link</a> | Blitz |
 | **qwertyou1346** | danwein02 | win 🥇 | 19/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k3b2/pQp3p1/3pn1q1/5p1r/3P1R2/2P4P/P1P2PP1/1R4K1 b - - 0 22">Link</a> | Blitz |
-| minddog | **qwertyou1346** | timeout ❌ | 19/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k3r2/p1p1P1Q1/5p2/1p1P1N2/1b3P1P/1P2NK2/3q1P2/1R3R2 b - - 0 37">Link</a> | Blitz |
-| BoluBocil | **qwertyou1346** | win 🥇 | 19/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/pkp3pp/1B3p2/4pN2/4n3/2P2N1P/PP3PP1/R2r2K1 w - - 0 21">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
