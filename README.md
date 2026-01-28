@@ -94,21 +94,21 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1271 | 943 | 675 |
+| Current | 1271 | 960 | 696 |
 | Best | 1295 | 1047 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **qwertyou1346** | tirupatiprashant | timeout ❌ | 26/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r1k/6p1/6p1/q6p/2r5/8/P3RPPP/1R4K1 w - - 0 27">Link</a> | Blitz |
-| **qwertyou1346** | MisterPittman | win 🥇 | 26/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2rq1rk1/5ppQ/p2p1b2/1p1P4/P5b1/2NB4/1PP2PPP/R3R1K1 b - - 0 17">Link</a> | Blitz |
-| **qwertyou1346** | goloban7 | resigned ❌ | 26/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/kp3b2/2p5/2q4p/6p1/P1N5/1PP3PP/3R3K w - - 0 30">Link</a> | Blitz |
-| praesid | **qwertyou1346** | win 🥇 | 26/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/1p3k2/p1p1p1pK/P1P2pP1/1P5r/8/8 w - - 0 41">Link</a> | Blitz |
-| **qwertyou1346** | DUCANHCANn | resigned ❌ | 26/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=kb6/5r2/P3RNr1/1p3p2/3P4/2P5/5PPP/5K2 w - - 3 39">Link</a> | Blitz |
-| lch0906 | **qwertyou1346** | timeout ❌ | 25/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Q6/8/8/k1K5/8/8/7B/8 b - - 3 65">Link</a> | Blitz |
-| DJREXZ | **qwertyou1346** | win 🥇 | 25/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1r3/ppp2kpp/6n1/3P1p2/8/2N2n1P/PPPK3R/R1B5 w - - 5 19">Link</a> | Blitz |
-| **qwertyou1346** | M31900 | win 🥇 | 24/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q5k1/2pq1p2/p2p3p/2p2Pp1/8/6B1/PbP2PPP/4R1K1 b - - 0 20">Link</a> | Blitz |
-| chandrabiochem | **qwertyou1346** | timeout ❌ | 24/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k5r/1pp2Rp1/8/1N1p2q1/3Pp1nb/4P3/PPPB2QP/7K b - - 0 24">Link</a> | Blitz |
-| Carp_Off | **qwertyou1346** | timeout ❌ | 24/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/pp1n1ppp/8/5q2/8/6P1/5PKP/3Q4 b - - 0 29">Link</a> | Blitz |
+| Nishchal245 | **qwertyou1346** | checkmated ❌ | 27/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1q1k1r/pp2nQpp/3Np3/3pP3/8/4b3/PPP2PPP/RN3RK1 b - - 0 12">Link</a> | Daily |
+| gobiX360 | **qwertyou1346** | win 🥇 | 27/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5R2/1pp1k2p/4P3/8/2P5/7P/6PK/4r3 w - - 3 31">Link</a> | Bullet |
+| **qwertyou1346** | deeznut80 | win 🥇 | 27/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k2r/ppp1Qppp/5pq1/8/7r/3P1P1B/PPP5/2K1R3 b k - 0 20">Link</a> | Bullet |
+| **qwertyou1346** | Rakim0910 | resigned ❌ | 27/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr2r1/ppb2p1n/3qp2B/3p4/3P4/PPN5/2P2PPP/R4RK1 w - - 1 17">Link</a> | Bullet |
+| **qwertyou1346** | brainrot_goat_unchained | win 🥇 | 27/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkbnr/p4ppp/2p5/4p3/2B1p3/2P1B3/PP3PPP/RN1QK2R b KQkq - 1 8">Link</a> | Bullet |
+| ChessHK_korea | **qwertyou1346** | timeout ❌ | 27/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/p1p2Npp/1p2p3/2b5/3q4/P5P1/2PB1nBP/1R3RK1 b - - 1 20">Link</a> | Bullet |
+| Ferrari1M | **qwertyou1346** | win 🥇 | 27/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k5r/ppp3p1/4p3/3r4/P1RPP3/5P1p/1PP3q1/5R1K w - - 2 28">Link</a> | Bullet |
+| polite-lonely | **qwertyou1346** | abandoned  | 27/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk2r/ppp1p1bp/2n1N1p1/3p1p2/3PbB2/2PBP3/PP3PPP/R2QK2R b KQkq - 1 10">Link</a> | Blitz |
+| **qwertyou1346** | Np6000 | win 🥇 | 27/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3rk2/ppp2p2/8/3PRpB1/5Q2/8/P1P3PP/1R4K1 b - - 0 27">Link</a> | Blitz |
+| **qwertyou1346** | dgraff58 | win 🥇 | 27/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R7/3P2k1/6p1/p4p1p/P1p2n2/2P5/3N2PP/6K1 b - - 0 38">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
