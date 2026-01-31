@@ -94,11 +94,13 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1271 | 960 | 696 |
+| Current | 1271 | 961 | 696 |
 | Best | 1295 | 1047 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| lponceiii | **qwertyou1346** | resigned ❌ | 30/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k4r1/p1pRR1Bp/1pb2p2/2b5/2P3Q1/1P4P1/P4p1P/5K2 b - - 1 25">Link</a> | Blitz |
+| **qwertyou1346** | wu_shu | win 🥇 | 30/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbq1b1r/ppp2Qpp/3k4/1N1pNP2/3P4/8/PPP2nPP/R1B1KB1R b KQ - 5 9">Link</a> | Blitz |
 | Anandgowtham | **qwertyou1346** | win 🥇 | 29/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k4r/ppp2ppp/8/6r1/4p1q1/2P1Q3/PP3PPP/R4RK1 w - - 2 21">Link</a> | Daily |
 | Nishchal245 | **qwertyou1346** | checkmated ❌ | 27/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1q1k1r/pp2nQpp/3Np3/3pP3/8/4b3/PPP2PPP/RN3RK1 b - - 0 12">Link</a> | Daily |
 | gobiX360 | **qwertyou1346** | win 🥇 | 27/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5R2/1pp1k2p/4P3/8/2P5/7P/6PK/4r3 w - - 3 31">Link</a> | Bullet |
@@ -107,8 +109,6 @@ Play with me...!
 | **qwertyou1346** | brainrot_goat_unchained | win 🥇 | 27/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkbnr/p4ppp/2p5/4p3/2B1p3/2P1B3/PP3PPP/RN1QK2R b KQkq - 1 8">Link</a> | Bullet |
 | ChessHK_korea | **qwertyou1346** | timeout ❌ | 27/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/p1p2Npp/1p2p3/2b5/3q4/P5P1/2PB1nBP/1R3RK1 b - - 1 20">Link</a> | Bullet |
 | Ferrari1M | **qwertyou1346** | win 🥇 | 27/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k5r/ppp3p1/4p3/3r4/P1RPP3/5P1p/1PP3q1/5R1K w - - 2 28">Link</a> | Bullet |
-| polite-lonely | **qwertyou1346** | abandoned  | 27/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk2r/ppp1p1bp/2n1N1p1/3p1p2/3PbB2/2PBP3/PP3PPP/R2QK2R b KQkq - 1 10">Link</a> | Blitz |
-| **qwertyou1346** | Np6000 | win 🥇 | 27/1/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3rk2/ppp2p2/8/3PRpB1/5Q2/8/P1P3PP/1R4K1 b - - 0 27">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
