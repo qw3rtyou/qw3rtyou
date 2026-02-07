@@ -99,6 +99,7 @@ Play with me...!
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **qwertyou1346** | Kleinmarin | repetition ⏸️ | 6/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3R3/2KP4/5k1p/6p1/8/8/8/8 b - - 11 77">Link</a> | Blitz |
 | **qwertyou1346** | adbarnard7 | timeout ❌ | 5/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1p2pk1/3p2p1/2p5/2B2B2/2PK4/PP4PP/4r3 w - - 2 34">Link</a> | Blitz |
 | raiyanhanif | **qwertyou1346** | timeout ❌ | 5/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/1pN2ppp/4p3/R3Pn2/1Pp5/2P5/3r1PPP/2R2K2 b - - 2 27">Link</a> | Blitz |
 | **qwertyou1346** | BruhImShleep | checkmated ❌ | 5/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/p2b1ppp/2p5/3p4/N2Np1n1/4PP2/PPPB2Pq/R2Q1RK1 w kq - 1 15">Link</a> | Blitz |
@@ -108,7 +109,6 @@ Play with me...!
 | MikalaiDavydzenka | **qwertyou1346** | win 🥇 | 4/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5ppp/4p3/p2r1bP1/1p6/8/4K3/8 w - - 0 58">Link</a> | Blitz |
 | **qwertyou1346** | KORCNOJOJ | checkmated ❌ | 4/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5k2/5P2/8/4q3/4p3/1n2K3/3q4 w - - 0 74">Link</a> | Blitz |
 | **qwertyou1346** | TinyArrr | win 🥇 | 4/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5R1p/1p4p1/2k3P1/8/2K2P1P/8 b - - 4 40">Link</a> | Blitz |
-| chrizshuerta | **qwertyou1346** | insufficient ⏸️ | 4/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1K6/8/4n3/5k2/8/8/8 b - - 0 53">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
