@@ -94,11 +94,12 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1271 | 959 | 696 |
+| Current | 1271 | 951 | 696 |
 | Best | 1295 | 1047 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Julian_M4 | **qwertyou1346** | abandoned  | 11/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/p2B2pp/P4k2/1PpR4/2Pp4/8/5PPP/6K1 b - - 0 34">Link</a> | Blitz |
 | **qwertyou1346** | baqr3 | timeout ❌ | 10/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R3B/3Qrk1p/6b1/8/p7/P7/2P2KPP/8 w - - 7 46">Link</a> | Blitz |
 | **qwertyou1346** | Olv55 | win 🥇 | 10/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R5Q/5pk1/3p2p1/3P1n2/1P6/6p1/P4PKP/4r3 b - - 1 32">Link</a> | Blitz |
 | deejackhammer | **qwertyou1346** | win 🥇 | 10/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/P5pp/8/8/1p6/7P/5PPK/r7 w - - 1 42">Link</a> | Blitz |
@@ -108,7 +109,6 @@ Play with me...!
 | GandaGadget | **qwertyou1346** | win 🥇 | 10/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/pp4pp/5p1r/3P4/3QR3/6P1/PP3P2/6Kq w - - 1 28">Link</a> | Blitz |
 | Magnusamdog | **qwertyou1346** | checkmated ❌ | 10/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/bpp2ppQ/p3pq2/P5N1/1P6/2P5/5PPP/R1B2RK1 b - - 0 16">Link</a> | Blitz |
 | **qwertyou1346** | rdkvs | checkmated ❌ | 10/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=q4K2/q7/8/8/6p1/6Pk/8/8 w - - 8 62">Link</a> | Blitz |
-| **qwertyou1346** | hoaxindo | checkmated ❌ | 10/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4kbQ/p1p3r1/5p2/8/5B2/2b1R3/PPP2PqP/R5K1 w - - 0 27">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
