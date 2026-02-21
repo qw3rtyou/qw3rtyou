@@ -94,11 +94,13 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1271 | 1003 | 696 |
+| Current | 1271 | 1019 | 696 |
 | Best | 1295 | 1047 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **qwertyou1346** | TolgaBostanci | win 🥇 | 21/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/1K6/8/1k1Q4 b - - 34 87">Link</a> | Blitz |
+| Carlos_Insano17 | **qwertyou1346** | win 🥇 | 20/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/P1r5/8/4Kp2/4b1p1/8/8/1q6 b - - 0 53">Link</a> | Blitz |
 | **qwertyou1346** | rtn2023 | checkmated ❌ | 20/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/1p1pNk2/1P1Pn3/4P1pp/R4p2/5P2/2r2K2 w - - 2 37">Link</a> | Blitz |
 | **qwertyou1346** | palno | resigned ❌ | 20/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/p1p2ppp/2pb4/5bBq/3P4/8/PPPQ1PPP/4R1K1 w - - 0 18">Link</a> | Blitz |
 | THEGAMPEL | **qwertyou1346** | win 🥇 | 19/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/ppp5/1b5Q/3p4/1PnP4/P1P5/2q1r3/BK6 w - - 0 49">Link</a> | Blitz |
@@ -107,8 +109,6 @@ Play with me...!
 | 45Doedoenk85 | **qwertyou1346** | timeout ❌ | 17/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7k/5N2/1p1b1p2/pb3P2/4K3/8/8 b - - 1 59">Link</a> | Blitz |
 | **qwertyou1346** | olegg54 | win 🥇 | 17/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6pp/5p2/k7/Q5P1/1Q3P1P/6K1 b - - 1 40">Link</a> | Blitz |
 | **qwertyou1346** | doubleKandco | win 🥇 | 17/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5R1k/8/6K1/8/7p/6pP/6P1/8 b - - 14 62">Link</a> | Blitz |
-| GENUK-LO | **qwertyou1346** | timeout ❌ | 17/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2q5/5pk1/P5p1/1Q2P2p/1P2nP2/8/6PP/5R1K b - - 0 41">Link</a> | Blitz |
-| **qwertyou1346** | eq29 | win 🥇 | 17/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5n2/8/5K2/6P1/8/8/1k6 b - - 6 88">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
