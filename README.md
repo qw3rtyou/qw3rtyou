@@ -94,11 +94,12 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1271 | 1012 | 696 |
+| Current | 1271 | 1020 | 696 |
 | Best | 1295 | 1047 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **qwertyou1346** | IonutAndrei19 | win 🥇 | 22/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3p2Qk/4pP1p/8/7B/2P2RPK/4q3 b - - 0 44">Link</a> | Blitz |
 | Ebrahim41 | **qwertyou1346** | timeout ❌ | 21/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/1kP5/8/2R5/8/7P/2P3P1/B5K1 b - - 0 53">Link</a> | Blitz |
 | **qwertyou1346** | TolgaBostanci | win 🥇 | 21/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/1K6/8/1k1Q4 b - - 34 87">Link</a> | Blitz |
 | Carlos_Insano17 | **qwertyou1346** | win 🥇 | 20/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/P1r5/8/4Kp2/4b1p1/8/8/1q6 b - - 0 53">Link</a> | Blitz |
@@ -108,7 +109,6 @@ Play with me...!
 | **qwertyou1346** | neverloseagain83 | win 🥇 | 19/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/pbpp3p/1p2p1p1/6B1/6B1/2P5/P1N2PPP/R4RK1 b kq - 0 17">Link</a> | Blitz |
 | utilizatorchess_OG | **qwertyou1346** | checkmated ❌ | 17/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r1k/ppb1qpQp/n1p2p2/P4B1N/1P3p2/2P5/6PP/R4RK1 b - - 3 20">Link</a> | Blitz |
 | 45Doedoenk85 | **qwertyou1346** | timeout ❌ | 17/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7k/5N2/1p1b1p2/pb3P2/4K3/8/8 b - - 1 59">Link</a> | Blitz |
-| **qwertyou1346** | olegg54 | win 🥇 | 17/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6pp/5p2/k7/Q5P1/1Q3P1P/6K1 b - - 1 40">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
