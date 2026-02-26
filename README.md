@@ -94,11 +94,12 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1271 | 1035 | 696 |
+| Current | 1271 | 1027 | 696 |
 | Best | 1295 | 1047 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| adel0987 | **qwertyou1346** | resigned ❌ | 25/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/2R2p1p/2p1b1p1/8/2P4P/1P2PP2/P4K1P/8 b - - 1 30">Link</a> | Blitz |
 | **qwertyou1346** | Aziat84 | checkmated ❌ | 24/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/1b3p1k/p3pP1p/8/2p5/8/PP4qP/R3R1K1 w - - 0 26">Link</a> | Blitz |
 | **qwertyou1346** | klaus1932 | win 🥇 | 24/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kb1r/2Np1pp1/2b1p2p/1p6/4P2B/8/nPPq1PPP/3RR1K1 b kq - 1 18">Link</a> | Blitz |
 | xFantasyP | **qwertyou1346** | win 🥇 | 24/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/3p1p2/3PbP2/3kP3/4q3/4K3 w - - 10 51">Link</a> | Blitz |
@@ -108,7 +109,6 @@ Play with me...!
 | nomin835 | **qwertyou1346** | win 🥇 | 24/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp3kpp/2p5/2n5/5KB1/P1r4P/6P1/8 w - - 0 35">Link</a> | Blitz |
 | **qwertyou1346** | IonutAndrei19 | win 🥇 | 22/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3p2Qk/4pP1p/8/7B/2P2RPK/4q3 b - - 0 44">Link</a> | Blitz |
 | Ebrahim41 | **qwertyou1346** | timeout ❌ | 21/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/1kP5/8/2R5/8/7P/2P3P1/B5K1 b - - 0 53">Link</a> | Blitz |
-| **qwertyou1346** | TolgaBostanci | win 🥇 | 21/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/8/1K6/8/1k1Q4 b - - 34 87">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
