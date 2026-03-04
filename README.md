@@ -99,6 +99,8 @@ Play with me...!
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **qwertyou1346** | brentdepoorter | resigned ❌ | 3/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/1bkr1ppp/p1p1p3/1pP1P3/P7/1Bn5/2P2PPP/R2R2K1 w - - 0 20">Link</a> | Blitz |
+| tlenton | **qwertyou1346** | win 🥇 | 3/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r3k1/pp3p1p/4p3/8/3n4/2P3P1/2q2P1P/2KR3R w - - 2 30">Link</a> | Blitz |
 | **qwertyou1346** | phessefort | resigned ❌ | 2/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkb1r/pp1n2pp/2p1p3/3pN2n/3P4/8/PPP2PPP/RNB1K2R w KQkq - 0 10">Link</a> | Blitz |
 | **qwertyou1346** | BrianKamphues1 | win 🥇 | 2/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/5p2/1p4pp/p7/P3N3/3PR3/P4PPP/6K1 b - - 0 25">Link</a> | Blitz |
 | Karakonjull | **qwertyou1346** | win 🥇 | 2/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kb1r/pp1n1ppp/4p3/q2pPn2/1Q6/2P2N2/PP3PPP/RNB2RK1 b kq - 2 10">Link</a> | Blitz |
@@ -107,8 +109,6 @@ Play with me...!
 | **qwertyou1346** | Alexandrowsky9 | timeout ❌ | 2/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/p1p1qpp1/2Qb3p/3R4/6n1/2N1B1P1/PPP2P1P/6K1 w - - 3 21">Link</a> | Blitz |
 | **qwertyou1346** | alii021 | resigned ❌ | 28/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/p4pkp/n7/1p6/3R1K2/8/1Pr3PP/3R4 w - - 0 28">Link</a> | Blitz |
 | jesusdaddy | **qwertyou1346** | win 🥇 | 28/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5ppp/4p3/1b2Pn2/8/2p5/5PPP/6K1 w - - 0 30">Link</a> | Blitz |
-| TrueNorth49 | **qwertyou1346** | resigned ❌ | 28/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3k2/3N2pp/4p3/2Rp1p2/P7/4P1P1/3r1P1P/R5K1 b - - 2 27">Link</a> | Blitz |
-| adel0987 | **qwertyou1346** | resigned ❌ | 25/2/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/2R2p1p/2p1b1p1/8/2P4P/1P2PP2/P4K1P/8 b - - 1 30">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
