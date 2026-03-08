@@ -94,11 +94,13 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1271 | 1012 | 696 |
+| Current | 1271 | 996 | 696 |
 | Best | 1295 | 1047 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **qwertyou1346** | DOOMSDAY1604 | timeout ❌ | 7/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p6p/5p1k/6q1/8/8/3Q1P2/6K1 w - - 0 43">Link</a> | Blitz |
+| Igor_Bondarev | **qwertyou1346** | timeout ❌ | 7/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/P5p1/8/4pkP1/7P/4K3/8 b - - 1 49">Link</a> | Blitz |
 | **qwertyou1346** | ErickYeboah | resigned ❌ | 4/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2R3k1/5pb1/p3b1pp/3rP3/P7/8/P4PPP/4R1K1 b - - 1 32">Link</a> | Blitz |
 | Johnonthemove | **qwertyou1346** | resigned ❌ | 4/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1Qbk3r/p2q1ppp/5n2/b7/P7/2P5/1B2PPPP/3RKBNR b K - 6 18">Link</a> | Blitz |
 | **qwertyou1346** | brentdepoorter | resigned ❌ | 3/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/1bkr1ppp/p1p1p3/1pP1P3/P7/1Bn5/2P2PPP/R2R2K1 w - - 0 20">Link</a> | Blitz |
@@ -107,8 +109,6 @@ Play with me...!
 | **qwertyou1346** | BrianKamphues1 | win 🥇 | 2/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/5p2/1p4pp/p7/P3N3/3PR3/P4PPP/6K1 b - - 0 25">Link</a> | Blitz |
 | Karakonjull | **qwertyou1346** | win 🥇 | 2/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kb1r/pp1n1ppp/4p3/q2pPn2/1Q6/2P2N2/PP3PPP/RNB2RK1 b kq - 2 10">Link</a> | Blitz |
 | **qwertyou1346** | Karakonjull | win 🥇 | 2/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/7P/2p5/1pkp4/6b1/3B4/5K2/8 b - - 1 66">Link</a> | Blitz |
-| Karakonjull | **qwertyou1346** | repetition ⏸️ | 2/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp5p/3qpk2/6p1/3Pp1P1/1PQ4P/P4PK1/8 b - - 11 35">Link</a> | Blitz |
-| **qwertyou1346** | Alexandrowsky9 | timeout ❌ | 2/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/p1p1qpp1/2Qb3p/3R4/6n1/2N1B1P1/PPP2P1P/6K1 w - - 3 21">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
