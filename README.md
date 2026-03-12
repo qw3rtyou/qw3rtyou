@@ -99,6 +99,8 @@ Play with me...!
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Zarac33 | **qwertyou1346** | abandoned  | 11/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1r3k1/4bppp/4p3/1Q6/2PPqB2/1P2P2P/1P3PP1/R4RK1 b - - 2 23">Link</a> | Blitz |
+| **qwertyou1346** | Parmejao | win 🥇 | 11/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7R/3p1p1k/3Pp1p1/7p/br1BB3/6P1/r4P1P/4R1K1 b - - 4 29">Link</a> | Blitz |
 | david443322 | **qwertyou1346** | win 🥇 | 10/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/p4Rpp/2p5/2n2p2/2B2Bn1/3P2P1/P1PK2P1/8 w - - 1 25">Link</a> | Blitz |
 | maxal722 | **qwertyou1346** | timeout ❌ | 9/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/pp5p/2pq1pp1/7n/3PB2Q/2P1BP1P/1P4K1/4R3 b - - 1 28">Link</a> | Blitz |
 | **qwertyou1346** | dbolguy | win 🥇 | 9/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k3rnr/R3b2p/1Q4p1/4P3/P1p5/N1q1B3/5PPP/R5K1 b - - 2 24">Link</a> | Blitz |
@@ -107,8 +109,6 @@ Play with me...!
 | seMpakrangerz | **qwertyou1346** | win 🥇 | 9/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2rk1/pp3ppp/3p1b2/2n1p1N1/4P2P/3q4/4QPP1/3B1K1R w - - 2 22">Link</a> | Blitz |
 | Nitin220993 | **qwertyou1346** | abandoned  | 9/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/pq1n2pp/4p1p1/1p1N4/4B3/2P5/PP3PPP/R2Q1RK1 b - - 0 20">Link</a> | Blitz |
 | **qwertyou1346** | lowellgordoncillo | win 🥇 | 9/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6nr/2pk1Qbp/3q1p2/4p1p1/4P3/6B1/P1P2PPP/1R2R1K1 b - - 2 25">Link</a> | Blitz |
-| **qwertyou1346** | gedaspetraitis | win 🥇 | 9/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/5ppp/2p2n2/p1B5/8/2N5/PPP2PPP/R5K1 b - - 0 18">Link</a> | Blitz |
-| cskcherry | **qwertyou1346** | repetition ⏸️ | 9/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/p5p1/6Q1/1p5p/8/3P2PP/8/5q1K w - - 19 54">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
