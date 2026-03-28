@@ -99,6 +99,9 @@ Play with me...!
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Daladan1 | **qwertyou1346** | checkmated ❌ | 27/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6R/1p1r1pkQ/p7/n3p1P1/4P3/1P6/P1q2PK1/R7 b - - 1 28">Link</a> | Rapid |
+| **qwertyou1346** | Daladan1 | resigned ❌ | 27/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/1p4bp/1qnpbppn/pB2p3/P1P1P3/1P2BN2/5PPP/R2Q1RK1 w - - 0 14">Link</a> | Rapid |
+| **qwertyou1346** | Daladan1 | win 🥇 | 27/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb1k2r/ppp2ppp/8/2b2qN1/4N3/8/PPP2PPP/R1BQ1RK1 w kq - 1 11">Link</a> | Bullet |
 | **qwertyou1346** | DOUBLER_51 | win 🥇 | 26/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r3k1/p3N1pp/5p2/4n3/1P6/2P5/P4PPP/4R1K1 b - - 2 24">Link</a> | Blitz |
 | **qwertyou1346** | RustamSvet | abandoned  | 26/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/1p3ppp/p1pN2n1/q5BQ/8/8/PPP2PPP/1K3B1R w - - 2 17">Link</a> | Blitz |
 | pavelkoreshkov | **qwertyou1346** | repetition ⏸️ | 26/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R6/5kpp/5p2/5K2/p1r5/4R2P/6P1/3rq3 w - - 10 47">Link</a> | Blitz |
@@ -106,9 +109,6 @@ Play with me...!
 | Amaury-echec | **qwertyou1346** | resigned ❌ | 25/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/P4p1p/3bp3/5p2/3P4/4P2P/5PP1/6K1 b - - 0 40">Link</a> | Blitz |
 | **qwertyou1346** | Jerry709 | resigned ❌ | 25/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r1k/6pp/1pR5/p5P1/8/1P1P4/1P4P1/4b2K w - - 0 28">Link</a> | Blitz |
 | ghafurr | **qwertyou1346** | win 🥇 | 24/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/pp4pp/2n1pp2/8/4q3/P3B1Q1/1P2bPPP/2R1K1R1 w - - 0 22">Link</a> | Blitz |
-| **qwertyou1346** | Sprint150 | win 🥇 | 24/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kbnr/ppp3pp/2n1Np2/8/8/2N1B3/PPP2PPP/2KR1B1R b kq - 0 12">Link</a> | Blitz |
-| EolyneHerlentz | **qwertyou1346** | timeout ❌ | 24/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr1b1r/ppp1pppp/2n2n2/2q5/6b1/3PNN2/P1PBBPPP/1R1Q1RK1 b - - 10 12">Link</a> | Blitz |
-| **qwertyou1346** | NizeGame | win 🥇 | 24/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rr2k/p4ppp/8/2p4N/5P2/2P1B3/Pb4Q1/3R1RK1 b - - 0 26">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
