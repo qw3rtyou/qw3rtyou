@@ -99,6 +99,7 @@ Play with me...!
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Anandgowtham | **qwertyou1346** | win 🥇 | 29/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/ppp2p2/6p1/4Kq1p/2QP4/2N5/PP6/8 w - - 2 30">Link</a> | Daily |
 | **qwertyou1346** | hehehehehehoo | agreed ⏸️ | 28/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2k2nr/pp3ppp/3B4/1B1PPb2/8/5N2/PP3PPP/1N1QK2R w K - 1 13">Link</a> | Daily |
 | Daladan1 | **qwertyou1346** | checkmated ❌ | 27/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6R/1p1r1pkQ/p7/n3p1P1/4P3/1P6/P1q2PK1/R7 b - - 1 28">Link</a> | Rapid |
 | **qwertyou1346** | Daladan1 | resigned ❌ | 27/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/1p4bp/1qnpbppn/pB2p3/P1P1P3/1P2BN2/5PPP/R2Q1RK1 w - - 0 14">Link</a> | Rapid |
@@ -108,7 +109,6 @@ Play with me...!
 | pavelkoreshkov | **qwertyou1346** | repetition ⏸️ | 26/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R6/5kpp/5p2/5K2/p1r5/4R2P/6P1/3rq3 w - - 10 47">Link</a> | Blitz |
 | **qwertyou1346** | Schachgenie007 | win 🥇 | 25/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/2p2pkp/R3p1p1/2P1P3/2P1R3/8/5PPP/6K1 b - - 0 27">Link</a> | Blitz |
 | Amaury-echec | **qwertyou1346** | resigned ❌ | 25/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/P4p1p/3bp3/5p2/3P4/4P2P/5PP1/6K1 b - - 0 40">Link</a> | Blitz |
-| **qwertyou1346** | Jerry709 | resigned ❌ | 25/3/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r1k/6pp/1pR5/p5P1/8/1P1P4/1P4P1/4b2K w - - 0 28">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
