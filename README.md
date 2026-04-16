@@ -99,6 +99,8 @@ Play with me...!
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **qwertyou1346** | BajucaR | win 🥇 | 16/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/B2k1ppp/2p5/8/2P1p3/3n4/P4PPP/3R2K1 b - - 0 31">Link</a> | Blitz |
+| TheAbaloneKing | **qwertyou1346** | resigned ❌ | 15/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q4k2/5ppp/1p2p3/2rpPN2/8/5N1P/4nPPK/5r2 b - - 3 29">Link</a> | Blitz |
 | germy1s | **qwertyou1346** | abandoned  | 15/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/p4ppp/1b2pn1q/3rN3/3P4/2B3P1/PPP1BPQP/R5K1 b - - 8 24">Link</a> | Blitz |
 | **qwertyou1346** | Apugkid53 | win 🥇 | 15/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3q2n1/p3k1Q1/1p1pp2p/8/3P1R2/r7/P1P2PPP/R5K1 b - - 3 21">Link</a> | Blitz |
 | SM_DEFENS | **qwertyou1346** | repetition ⏸️ | 15/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5b1r/pp2pk1p/3p3p/5Q2/8/8/Pq1NKPPP/n2R4 b - - 17 25">Link</a> | Blitz |
@@ -107,8 +109,6 @@ Play with me...!
 | BubbleB3478 | **qwertyou1346** | resigned ❌ | 13/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/1b2bppp/p3p3/4P3/QnBP4/5N1P/5PP1/1R3RK1 b - - 0 20">Link</a> | Blitz |
 | **qwertyou1346** | hamift | insufficient ⏸️ | 13/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2k5/7K/8/8/8/8 b - - 0 46">Link</a> | Blitz |
 | Daladan1 | **qwertyou1346** | win 🥇 | 12/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r3k1/5ppp/4p3/8/5R1P/3Pb3/PPP5/2K5 w - - 2 34">Link</a> | Rapid |
-| **qwertyou1346** | Daladan1 | win 🥇 | 12/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rrk1/p1pR1pp1/1p5p/8/1b6/2N2N2/PPP2PPP/2K2B1R b - - 2 16">Link</a> | Rapid |
-| Daladan1 | **qwertyou1346** | win 🥇 | 12/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/6p1/2p1p2p/4P3/2kB1KPq/2P5/8/8 w - - 0 36">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
