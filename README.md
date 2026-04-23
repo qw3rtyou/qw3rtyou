@@ -94,11 +94,12 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1258 | 925 | 696 |
+| Current | 1258 | 933 | 696 |
 | Best | 1295 | 1047 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **qwertyou1346** | FuhrerAlCorte | win 🥇 | 22/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/1P3ppp/3rp3/pP6/P7/8/5PPP/2R3K1 w - - 0 28">Link</a> | Blitz |
 | **qwertyou1346** | hehehehehehoo | agreed ⏸️ | 21/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4k3/7Q/8/8/P1PK1P2/8 b - - 2 40">Link</a> | Daily |
 | **qwertyou1346** | hehehehehehoo | win 🥇 | 21/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b5/p2kQp2/2pB3p/1p4pn/B3P3/2N5/1qP2PPP/5RK1 b - - 1 18">Link</a> | Daily |
 | **qwertyou1346** | Greatreset84 | win 🥇 | 21/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5R2/6Q1/8/6k1/6P1/5P1K/8/8 b - - 2 53">Link</a> | Blitz |
@@ -108,7 +109,6 @@ Play with me...!
 | **qwertyou1346** | huibu442 | win 🥇 | 20/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q5k1/p3q1pp/4p3/2p1n3/8/2P5/PP3PPP/R4RK1 b - - 0 20">Link</a> | Blitz |
 | **qwertyou1346** | hehehehehehoo | win 🥇 | 19/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/5ppp/p7/1p4R1/8/1P1B4/2PP1PQ1/q1B1K2k b - - 3 36">Link</a> | Daily |
 | queenofpentaquarks | **qwertyou1346** | resigned ❌ | 19/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1r3k1/p3Nppp/5n2/1pQ2p2/3P1q2/2N4P/PPP1RPP1/4R1K1 b - - 2 24">Link</a> | Blitz |
-| **qwertyou1346** | durgand | win 🥇 | 19/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/1rk5/6PR/p1p1pb2/P2b4/1P1B4/2KR4 b - - 2 36">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
