@@ -94,21 +94,21 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1258 | 974 | 696 |
+| Current | 1258 | 1004 | 696 |
 | Best | 1295 | 1047 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **qwertyou1346** | GuZanzini01 | resigned ❌ | 25/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/5rpk/p2R1nRp/1ppPp2P/4P2q/2N5/PPPQ1P2/2K5 w - - 3 25">Link</a> | Blitz |
-| **qwertyou1346** | KC_Chiefs2024 | resigned ❌ | 25/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkbnr/ppp1pp1p/2n5/3pP3/3P2b1/2N5/PPP2PPP/R1B1KBNR w KQkq - 0 6">Link</a> | Blitz |
-| **qwertyou1346** | Pleasantkiwi77 | win 🥇 | 25/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q4n1r/2q1k2p/pp1b1ppB/2p1p3/N3P3/5N2/P1P2PPP/R4RK1 w - - 1 17">Link</a> | Blitz |
-| loqsmith | **qwertyou1346** | win 🥇 | 25/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/p1p2ppp/2pBp3/3p1b2/3Pn3/2PBP3/PP1N1qPP/R2QK2R w KQkq - 0 11">Link</a> | Blitz |
-| **qwertyou1346** | john_cena007 | timeout ❌ | 25/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rk3/p3N3/5Q2/3Pp1p1/8/4BP2/PPP1n2q/1K4R1 w - - 1 30">Link</a> | Blitz |
-| john_cena007 | **qwertyou1346** | win 🥇 | 25/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3q3r/p3k3/4P1pp/3p1p2/1P1P4/3Q1N2/4KPP1/7r w - - 0 27">Link</a> | Blitz |
-| **qwertyou1346** | padmanirwana | win 🥇 | 25/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4R3/p4Rpk/1p5b/2p5/3p3P/8/PPP5/1K6 b - - 2 36">Link</a> | Blitz |
-| polskiogorski8888 | **qwertyou1346** | resigned ❌ | 25/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/pp1n1ppp/4p3/1N1pP3/5P2/1PQ5/P1P3PP/RN2K2R b KQkq - 0 15">Link</a> | Blitz |
-| **qwertyou1346** | Cicialopioso66 | win 🥇 | 24/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r2/bp2qpk1/p1pp4/5Pp1/1P2P3/P1P4Q/7P/R4R1K w - - 2 26">Link</a> | Blitz |
-| BobbyBoi123456789 | **qwertyou1346** | win 🥇 | 24/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6qK/5k2/5p1P/8/8/8/8/8 w - - 7 52">Link</a> | Blitz |
+| **qwertyou1346** | kaywise001 | win 🥇 | 26/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q7/2p2pk1/1p1p3p/3Pp1q1/1Pr1B3/8/P1PR4/1K6 b - - 2 36">Link</a> | Blitz |
+| **qwertyou1346** | Unski49 | win 🥇 | 26/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k4r/pR1B1p1p/2Np2p1/p1pPp1b1/2P1P3/8/P4PPP/1R4K1 b - - 0 27">Link</a> | Blitz |
+| maghvamp | **qwertyou1346** | checkmated ❌ | 26/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q2k/6pp/8/8/P7/1P2p1P1/4K2P/8 b - - 0 40">Link</a> | Blitz |
+| humbleokhan | **qwertyou1346** | win 🥇 | 26/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/pb3p1p/1pn1p1p1/2b1P3/4qB2/2p3PQ/PP3P1P/R4RK1 w - - 0 19">Link</a> | Blitz |
+| ArkeusXX | **qwertyou1346** | timeout ❌ | 26/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/7R/1P1k4/6P1/5PKb/8 b - - 0 40">Link</a> | Blitz |
+| **qwertyou1346** | ber00o | win 🥇 | 26/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R2B4/1Q5p/8/8/k5p1/5pP1/5K1P/8 b - - 1 52">Link</a> | Blitz |
+| **qwertyou1346** | Kutuz | win 🥇 | 26/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2R3k1/pp3p1p/6p1/4n3/8/5R1P/q5P1/3Q3K b - - 0 26">Link</a> | Blitz |
+| **qwertyou1346** | MartinZikmund | win 🥇 | 26/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5k2/R7/7p/P7/6K1/2P2PP1/8 b - - 3 49">Link</a> | Blitz |
+| Imbacill | **qwertyou1346** | win 🥇 | 26/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k4r/1pp2ppp/1n6/5p2/1pP1n3/1P3P1P/P5r1/R1K1R3 w - - 0 23">Link</a> | Blitz |
+| **qwertyou1346** | MehmetAliKABA | resigned ❌ | 26/4/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r1k1/5p2/5b1B/p2P4/2P1b3/4R3/P4Pp1/6K1 w - - 0 34">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
