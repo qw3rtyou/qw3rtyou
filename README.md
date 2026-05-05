@@ -94,11 +94,12 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1258 | 1064 | 696 |
+| Current | 1258 | 1073 | 696 |
 | Best | 1295 | 1096 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| MLSAUT | **qwertyou1346** | win 🥇 | 4/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2r1k1/pp1b1ppp/2p2p2/8/3PBP1P/2P5/PP5P/R3K2R w KQ - 1 20">Link</a> | Blitz |
 | videbor | **qwertyou1346** | resigned ❌ | 4/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/KP6/2k5/3n4/8/8/2P5/8 b - - 0 57">Link</a> | Blitz |
 | **qwertyou1346** | hehehehehehoo | agreed ⏸️ | 3/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/7k/6R1/1P4PP/3K4/3P1P2/B7 b - - 0 42">Link</a> | Daily |
 | TwinkieCringey | **qwertyou1346** | resigned ❌ | 3/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2rk1/1p1q1p1p/4pNp1/p2pPn2/3P4/P1N5/1P1Q1P1P/R4RK1 b - - 1 19">Link</a> | Blitz |
@@ -108,7 +109,6 @@ Play with me...!
 | cangelino | **qwertyou1346** | timeout ❌ | 3/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/K4p1p/2kBp1pP/2P3P1/4bP2/8/8 b - - 2 58">Link</a> | Blitz |
 | **qwertyou1346** | MichaelMikeCorleone | win 🥇 | 3/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1nR2k2/1P3pp1/3p3p/P2npP2/8/8/5PPP/6K1 b - - 1 30">Link</a> | Blitz |
 | **qwertyou1346** | tichoz | win 🥇 | 3/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/7p/1K4p1/3R1n2/8/7P/6P1/8 b - - 2 51">Link</a> | Blitz |
-| xchecox | **qwertyou1346** | win 🥇 | 3/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/5R2/4p2p/1p1pP3/5P1r/P5r1/1P3n1P/3B3K w - - 0 31">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
