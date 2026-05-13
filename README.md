@@ -99,6 +99,7 @@ Play with me...!
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **qwertyou1346** | Tim3753 | repetition ⏸️ | 12/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/7p/6p1/P2R4/8/4P3/r1r3PP/5RK1 w - - 10 35">Link</a> | Blitz |
 | JRamos2021 | **qwertyou1346** | resigned ❌ | 11/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/p1p5/8/6Rp/5p2/3r1P1P/P5B1/6K1 b - - 0 34">Link</a> | Blitz |
 | **qwertyou1346** | alnofli1 | resigned ❌ | 11/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rr1k/2p2p1p/p2p2p1/1p5P/8/3B3Q/PPP5/1K2q2R w - - 1 28">Link</a> | Blitz |
 | u111422 | **qwertyou1346** | win 🥇 | 11/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r1k/p1p1n1p1/Qb5p/4pP2/4P1P1/2PR1KR1/PP6/5q2 w - - 2 34">Link</a> | Blitz |
@@ -108,7 +109,6 @@ Play with me...!
 | CanIGoAgain | **qwertyou1346** | timeout ❌ | 10/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7k/5r1p/1p1n2p1/p1pR1p2/P1P4P/1P3PPB/6K1 b - - 1 41">Link</a> | Blitz |
 | **qwertyou1346** | cabalsanti | win 🥇 | 10/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=kQ1r4/pp2b2r/N4p2/3q1bpp/8/3P4/PP3PPP/2R1R1K1 b - - 7 25">Link</a> | Blitz |
 | SpamSpade | **qwertyou1346** | checkmated ❌ | 9/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5b2/1R6/pRk1p3/3p1p2/P2P1P1p/2P1P1rP/5K2/8 b - - 4 42">Link</a> | Blitz |
-| **qwertyou1346** | hehehehehehoo | agreed ⏸️ | 8/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Rr4/3P2pk/p7/8/6p1/5p2/1P5P/K2R4 b - - 1 32">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
 
