@@ -99,6 +99,7 @@ Play with me...!
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **qwertyou1346** | chesnut240 | repetition ⏸️ | 23/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/5R2/5PK1/8/p1p3P1/PpP5/1P6/5r2 b - - 12 55">Link</a> | Blitz |
 | bondybeach | **qwertyou1346** | timeout ❌ | 22/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/6p1/5p2/3N3P/1r4n1/6P1/5PK1/8 b - - 0 52">Link</a> | Blitz |
 | **qwertyou1346** | bublebynn | checkmated ❌ | 22/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3kr3/p4Q2/2ppp3/8/2Pp4/3P2Pp/PP3PqK/R3R3 w - - 1 25">Link</a> | Blitz |
 | drdbelli | **qwertyou1346** | resigned ❌ | 22/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r1k/5ppp/2n2p2/3Nr3/p7/2P1BKb1/PP1Q1P2/3RR3 b - - 0 27">Link</a> | Blitz |
@@ -108,7 +109,6 @@ Play with me...!
 | **qwertyou1346** | jonwynn | win 🥇 | 21/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/ppp1nppp/2b5/3p4/1b6/2N1BN2/PPPQ1P1P/2KR2R1 b - - 0 14">Link</a> | Blitz |
 | MateMachine_99 | **qwertyou1346** | win 🥇 | 21/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=q7/1r6/8/K7/5pk1/8/8/8 w - - 10 59">Link</a> | Blitz |
 | **qwertyou1346** | mrbucy | timevsinsufficient ⏸️ | 20/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/8/6PK/8/8/8/8/8 w - - 1 67">Link</a> | Blitz |
-| **qwertyou1346** | vmanx29 | win 🥇 | 20/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1rr3k1/p2R2Qp/1p4p1/2p5/5pPq/7P/PPP1RP2/6K1 b - - 6 30">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
