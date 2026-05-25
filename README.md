@@ -94,11 +94,13 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1258 | 1068 | 696 |
+| Current | 1258 | 1051 | 696 |
 | Best | 1295 | 1098 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **qwertyou1346** | Rowen4242 | timeout ❌ | 24/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/2b5/2p2k2/1pP2p2/1P3K2/8 w - - 2 56">Link</a> | Blitz |
+| **qwertyou1346** | Methotrexate_chinu | abandoned  | 24/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kb1r/pbpnqppp/1p1ppn2/3P4/2B1P3/2N2N2/PPP2PPP/R1BQ1RK1 w kq - 6 8">Link</a> | Blitz |
 | rpaloju | **qwertyou1346** | abandoned  | 23/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/pp4pp/3N1pn1/3p4/1P1Pq3/P1r1B3/5QP1/3RR1K1 b - - 5 29">Link</a> | Blitz |
 | **qwertyou1346** | ferpine | win 🥇 | 23/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3k4/1R6/p1K5/2P5/PP6/8 b - - 0 44">Link</a> | Blitz |
 | NicoDN | **qwertyou1346** | win 🥇 | 23/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/1p4p1/7p/p7/8/5R2/PP4rr/6K1 w - - 4 37">Link</a> | Blitz |
@@ -107,8 +109,6 @@ Play with me...!
 | **qwertyou1346** | manivelsu | win 🥇 | 23/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Rkr5/1p1qbp2/1P1p1n2/3P2pp/8/4B3/2r1QPPP/R5K1 b - - 1 23">Link</a> | Blitz |
 | manivelsu | **qwertyou1346** | win 🥇 | 23/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/p4ppp/2p1p3/1p6/3P1n2/P1P5/1P3Pq1/R4RK1 w - - 6 26">Link</a> | Blitz |
 | **qwertyou1346** | hehehehehehoo | win 🥇 | 23/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk1nr/pb1nb1pp/2P2p2/1p6/3N4/1B6/PPP2PPP/2KRR3 b kq - 0 10">Link</a> | Daily |
-| **qwertyou1346** | hehehehehehoo | win 🥇 | 23/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk2r/pp3ppp/n1pb4/3p4/NP1N2b1/2PPP3/P4KPP/2B2B2 b kq - 2 11">Link</a> | Daily |
-| **qwertyou1346** | Rupamjangid | timeout ❌ | 23/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/kb1n2b1/p2q1p2/2pPp3/N7/1Q4B1/P1P2PPP/1R2R1K1 w - - 4 30">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
