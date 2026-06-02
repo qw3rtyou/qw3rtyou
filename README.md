@@ -99,6 +99,8 @@ Play with me...!
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| christian_raden | **qwertyou1346** | timeout ❌ | 1/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5kpp/2R5/8/r1P2p2/7P/4KPP1/8 b - - 2 44">Link</a> | Blitz |
+| Pasupathy345 | **qwertyou1346** | win 🥇 | 1/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn3rk1/pp3ppp/1qp1p3/5b2/3P4/P1P1n1PP/1P2N1P1/R2Q1RK1 w - - 0 17">Link</a> | Blitz |
 | **qwertyou1346** | KilKilll | resigned ❌ | 31/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p2k2pp/8/Pp1p4/8/6P1/5PKP/8 w - - 0 34">Link</a> | Blitz |
 | **qwertyou1346** | ugurkaya_0410 | repetition ⏸️ | 31/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/r6P/6K1/P1p1p3/8/3k1p2/R7/8 b - - 8 58">Link</a> | Blitz |
 | **qwertyou1346** | relacs | win 🥇 | 31/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1N2r1k/p5pp/3BPp2/2p5/1pB3n1/8/PPP2PPP/R4RK1 b - - 0 18">Link</a> | Blitz |
@@ -107,8 +109,6 @@ Play with me...!
 | Anandgowtham | **qwertyou1346** | timeout ❌ | 31/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/3q1ppp/8/1pQ1N3/p2pP3/P5PP/1P1b2K1/2R1R3 b - - 1 25">Link</a> | Rapid |
 | SM_Hegazy | **qwertyou1346** | resigned ❌ | 31/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp1R2Rp/2p2kp1/8/6P1/1P6/6KP/8 b - - 0 32">Link</a> | Blitz |
 | **qwertyou1346** | 25empu | win 🥇 | 31/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4K3/8/8/8/R7/3k3Q b - - 18 69">Link</a> | Blitz |
-| **qwertyou1346** | sags31 | resigned ❌ | 31/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/pp3kpp/2p2p2/3p4/3P4/3K3P/P1P2P1P/4R3 w - - 1 24">Link</a> | Blitz |
-| swannmoh | **qwertyou1346** | win 🥇 | 31/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b4k/pp6/2n5/2bp4/2P2r2/8/PP3PPP/RN3RK1 w - - 0 25">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
