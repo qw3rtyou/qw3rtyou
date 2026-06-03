@@ -94,21 +94,21 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1232 | 1050 | 696 |
+| Current | 1232 | 1026 | 696 |
 | Best | 1295 | 1098 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| christian_raden | **qwertyou1346** | timeout ❌ | 1/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5kpp/2R5/8/r1P2p2/7P/4KPP1/8 b - - 2 44">Link</a> | Blitz |
-| Pasupathy345 | **qwertyou1346** | win 🥇 | 1/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn3rk1/pp3ppp/1qp1p3/5b2/3P4/P1P1n1PP/1P2N1P1/R2Q1RK1 w - - 0 17">Link</a> | Blitz |
-| **qwertyou1346** | KilKilll | resigned ❌ | 31/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p2k2pp/8/Pp1p4/8/6P1/5PKP/8 w - - 0 34">Link</a> | Blitz |
-| **qwertyou1346** | ugurkaya_0410 | repetition ⏸️ | 31/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/r6P/6K1/P1p1p3/8/3k1p2/R7/8 b - - 8 58">Link</a> | Blitz |
-| **qwertyou1346** | relacs | win 🥇 | 31/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1N2r1k/p5pp/3BPp2/2p5/1pB3n1/8/PPP2PPP/R4RK1 b - - 0 18">Link</a> | Blitz |
-| ps11na | **qwertyou1346** | resigned ❌ | 31/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n3rk1/1p3ppp/2p5/4P3/1P1N4/8/1P3RPP/Q5K1 b - - 0 21">Link</a> | Blitz |
-| allangarciaco | **qwertyou1346** | win 🥇 | 31/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k3b1r/ppp1p1p1/3n3p/3P4/8/B7/P2P2PP/6K1 b - - 0 27">Link</a> | Blitz |
-| Anandgowtham | **qwertyou1346** | timeout ❌ | 31/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/3q1ppp/8/1pQ1N3/p2pP3/P5PP/1P1b2K1/2R1R3 b - - 1 25">Link</a> | Rapid |
-| SM_Hegazy | **qwertyou1346** | resigned ❌ | 31/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp1R2Rp/2p2kp1/8/6P1/1P6/6KP/8 b - - 0 32">Link</a> | Blitz |
-| **qwertyou1346** | 25empu | win 🥇 | 31/5/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4K3/8/8/8/R7/3k3Q b - - 18 69">Link</a> | Blitz |
+| deko200 | **qwertyou1346** | resigned ❌ | 3/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn3rk1/pp3ppp/2pbp1q1/5bBP/2BP4/5N2/PPP1QPP1/R3K2R b KQ - 0 13">Link</a> | Blitz |
+| **qwertyou1346** | skeeJ1114 | checkmated ❌ | 3/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1b3r/pppQ1R1p/3N4/3P4/3n4/8/PPPN1P1q/2K1r3 w - - 0 20">Link</a> | Blitz |
+| StillLearningHow1 | **qwertyou1346** | resigned ❌ | 3/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1n1b1rk1/1R3ppp/r3p3/pb1PP3/5P2/Pp2B1P1/1P4BP/4R1K1 b - - 2 25">Link</a> | Blitz |
+| lalsllx | **qwertyou1346** | resigned ❌ | 3/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3rk1/5ppp/3b4/5p2/qpP5/p3B1P1/P1R1QP1P/1R4K1 b - - 3 34">Link</a> | Blitz |
+| magicianfromng | **qwertyou1346** | resigned ❌ | 3/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/ppp1pppp/8/3P4/8/8/PP1PPPPP/RNBQKBNR b KQkq - 0 2">Link</a> | Blitz |
+| **qwertyou1346** | tednedded | timeout ❌ | 3/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3r1ppk/p6p/Pp1p1N2/1P5R/2P2PP1/5K2/1n6 w - - 5 40">Link</a> | Blitz |
+| **qwertyou1346** | Victor-Jepsen | resigned ❌ | 2/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r3k1/p4ppp/2p1p2n/6N1/P2P4/7Q/4qPPP/1b4K1 w - - 0 28">Link</a> | Blitz |
+| **qwertyou1346** | bingoo94 | win 🥇 | 2/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2rr2k1/pp3pp1/4p2p/8/3p1Q2/7P/PNP2PP1/R5KR b - - 0 22">Link</a> | Blitz |
+| RandyTheDandyy | **qwertyou1346** | win 🥇 | 2/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/ppp2ppp/4p3/3pP3/4n1b1/2PBPN2/PP3q1P/R2QK1R1 w Qkq - 0 14">Link</a> | Blitz |
+| wowl00 | **qwertyou1346** | resigned ❌ | 2/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3qkb1r/R4ppp/2Q1pn2/1N6/3P4/4P3/1P3PPP/2B1K1NR b Kk - 0 15">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
