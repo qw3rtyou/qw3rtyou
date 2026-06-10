@@ -94,11 +94,13 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1232 | 1052 | 696 |
+| Current | 1232 | 1055 | 696 |
 | Best | 1295 | 1098 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| manujf1989 | **qwertyou1346** | resigned ❌ | 9/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/p1p1q2p/Qp2p3/2N1Ppb1/3Pp1b1/2P1P3/PP4P1/R1B2RK1 b - - 1 19">Link</a> | Blitz |
+| **qwertyou1346** | Aparji | win 🥇 | 9/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k6r/Qp4pp/2pq1r2/3p4/PP6/4B3/5PPP/R5K1 b - - 0 28">Link</a> | Blitz |
 | **qwertyou1346** | Chupotonto | win 🥇 | 8/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p3R1k1/2Q3pp/q7/1p1p2P1/7P/PPP2r2/1K6 b - - 1 31">Link</a> | Blitz |
 | Snehanshu_112 | **qwertyou1346** | abandoned  | 8/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1r2r1/ppp3b1/q7/2N2p1p/1Q6/2P3PN/PP3PBP/R4RK1 b - - 3 21">Link</a> | Blitz |
 | **qwertyou1346** | DavidBerni | win 🥇 | 8/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5R2/7k/5pp1/P6p/2K4P/1P4P1/5P2/B7 b - - 0 38">Link</a> | Blitz |
@@ -107,8 +109,6 @@ Play with me...!
 | **qwertyou1346** | Jlmedra | win 🥇 | 8/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3q1rk1/5pQp/4pPp1/pr1pP3/P1pP2P1/2Pb1R2/7P/6K1 b - - 1 28">Link</a> | Blitz |
 | kmlbbz | **qwertyou1346** | win 🥇 | 8/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r4r/pp1b1qkP/8/8/P2p1p2/1P3P2/2P3K1/7R w - - 0 36">Link</a> | Blitz |
 | **qwertyou1346** | lclpereira | timeout ❌ | 7/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/pp2bppp/2pp1q2/4n3/3QP3/4B3/PPP2PPP/RN3RK1 w kq - 4 14">Link</a> | Blitz |
-| fasoolll | **qwertyou1346** | win 🥇 | 7/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4pp2/4k1p1/6P1/r7/6K1/8 w - - 0 50">Link</a> | Blitz |
-| **qwertyou1346** | dmbchess93 | timeout ❌ | 7/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r1k/5Bp1/6Q1/2r1q2p/8/8/P1P3PP/5RK1 w - - 3 30">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
