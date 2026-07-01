@@ -94,11 +94,12 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1232 | 1187 | 696 |
+| Current | 1232 | 1179 | 696 |
 | Best | 1295 | 1227 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Aashubharti122 | **qwertyou1346** | resigned ❌ | 30/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1r4/1pp2p2/p7/PP1pQP2/4p1Kb/N1P1Pn2/3P3r/R1B2R2 b - - 0 24">Link</a> | Blitz |
 | **qwertyou1346** | Bchesser2 | checkmated ❌ | 30/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p5kp/2p1r1P1/5pR1/5n2/1P6/2P2P2/3r1K1R w - - 1 30">Link</a> | Blitz |
 | andreskulebras | **qwertyou1346** | checkmated ❌ | 29/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/pp3RpQ/1b3r2/6N1/8/2q2N2/P4PPP/5RK1 b - - 0 27">Link</a> | Blitz |
 | pessu12 | **qwertyou1346** | win 🥇 | 29/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p4Rpk/2p5/5p2/7P/4n1P1/PP6/2Kq4 w - - 0 34">Link</a> | Blitz |
@@ -108,7 +109,6 @@ Play with me...!
 | **qwertyou1346** | Gabriel2885 | checkmated ❌ | 28/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/pp3ppk/7p/2p1B3/8/4N3/PP5R/K1q5 w - - 1 30">Link</a> | Blitz |
 | biggles1123 | **qwertyou1346** | resigned ❌ | 28/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/p1Bnbppp/4pq2/2p5/Pp1P4/1P1QPN2/2R2PPP/2R3K1 b - - 0 18">Link</a> | Blitz |
 | sutan01 | **qwertyou1346** | timevsinsufficient ⏸️ | 28/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/8/3KPP2/8/8/8/8/8 w - - 1 70">Link</a> | Blitz |
-| **qwertyou1346** | Samlb32 | resigned ❌ | 28/6/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/pp1q1ppp/4pn2/2p2Q2/3p1B2/3P1B1P/PPP2PP1/R5K1 b - - 2 16">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
