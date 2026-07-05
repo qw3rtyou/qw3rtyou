@@ -99,6 +99,9 @@ Play with me...!
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Cerniglia | **qwertyou1346** | timeout ❌ | 4/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p1n3p1/1pP5/1P1p4/P2PbR2/4P1P1/6PP/6K1 b - - 2 40">Link</a> | Blitz |
+| **qwertyou1346** | Cerniglia | win 🥇 | 4/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5ppp/8/1N6/P4P2/1BP3P1/4K1n1/8 w - - 3 36">Link</a> | Blitz |
+| Cerniglia | **qwertyou1346** | repetition ⏸️ | 4/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q3/6p1/6p1/2k1P3/4P3/6K1/4q3/8 b - - 16 62">Link</a> | Blitz |
 | **qwertyou1346** | koape73 | timeout ❌ | 3/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/2p2pnp/2p5/p1P1P3/6p1/P1K1NbP1/5P1P/1r3BR1 w - - 2 31">Link</a> | Blitz |
 | **qwertyou1346** | cruzjuniel | timeout ❌ | 3/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/8/2PQ4/p4K1p/P4p2/8/6r1/3q4 w - - 0 55">Link</a> | Blitz |
 | AnteHuljev | **qwertyou1346** | resigned ❌ | 3/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3rk1/p1p2ppp/2p2n2/3Q1b2/8/1P1B1N2/PKPP1PPP/3R3R b - - 0 15">Link</a> | Blitz |
@@ -106,9 +109,6 @@ Play with me...!
 | **qwertyou1346** | oxygeny112 | timeout ❌ | 3/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/4bpp1/p2N2np/1p5R/3R4/6P1/P1r4P/7K w - - 3 31">Link</a> | Blitz |
 | **qwertyou1346** | frankthetank77 | win 🥇 | 3/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2k5/6R1/P7/1P4p1/4Kb2/8/8 b - - 2 52">Link</a> | Blitz |
 | Joe888777 | **qwertyou1346** | checkmated ❌ | 3/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3kR3/pp3Q1p/8/3p1p2/1qp2P1P/6P1/PPP2P2/2K5 b - - 6 31">Link</a> | Blitz |
-| **qwertyou1346** | Andrii7777 | resigned ❌ | 3/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2r4/3nkpbp/3Rpnp1/p1p3B1/4bP2/P6P/BPP3P1/1K5R w - - 0 23">Link</a> | Blitz |
-| **qwertyou1346** | Avinash_AP | win 🥇 | 3/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/pr5p/p3N2k/5nQ1/8/4p3/P1P2PPP/R4RK1 b - - 0 25">Link</a> | Blitz |
-| Chancellor255 | **qwertyou1346** | timeout ❌ | 2/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5p1p/8/3q2p1/1P3P2/2P2N1P/1P2Q1K1/8 b - - 0 44">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
