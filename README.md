@@ -91,11 +91,6 @@ Web / AppSec, vulnerability research, and CTF...
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qwertyou)](https://solved.ac/qwertyou)
 <br><br>
 
-## 🚀 Github
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qw3rtyou&layout=compact)](https://github.com/qw3rtyou/github-readme-stats)
-
-[![Fluorite's GitHub stats](https://github-readme-stats.vercel.app/api?username=qw3rtyou)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🏁 [Chess.com](https://www.chess.com/)
 Play with me...!
 <!--START_SECTION:chessStats-->
