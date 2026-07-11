@@ -94,11 +94,12 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1232 | 1110 | 696 |
+| Current | 1232 | 1102 | 696 |
 | Best | 1295 | 1227 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| aliya_arshad_chaudhary | **qwertyou1346** | resigned ❌ | 10/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/3r2q1/p3Q3/1pp1P2P/4p3/8/PPP2P2/2K3R1 b - - 0 27">Link</a> | Blitz |
 | tom999 | **qwertyou1346** | win 🥇 | 8/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R6/6pp/5p2/2Np4/5n1P/2k5/5nr1/7K w - - 2 32">Link</a> | Blitz |
 | **qwertyou1346** | AmericanDominator | win 🥇 | 8/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqr3/ppp2pkp/3p2p1/4P3/4PQP1/2N2N1P/PPP2P2/2KR1B1R b - - 0 13">Link</a> | Blitz |
 | rrkap23 | **qwertyou1346** | resigned ❌ | 8/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/pp3ppp/8/4pbBn/6P1/1B3P2/PPP1N2P/3R1RK1 b - g3 0 22">Link</a> | Blitz |
@@ -108,7 +109,6 @@ Play with me...!
 | **qwertyou1346** | fuse_electric_ct | checkmated ❌ | 5/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4k1/pp3ppp/1n1rp2Q/3p2R1/2pP1PP1/8/PPP5/1K1q4 w - - 0 26">Link</a> | Blitz |
 | Cerniglia | **qwertyou1346** | timeout ❌ | 4/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p1n3p1/1pP5/1P1p4/P2PbR2/4P1P1/6PP/6K1 b - - 2 40">Link</a> | Blitz |
 | **qwertyou1346** | Cerniglia | win 🥇 | 4/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5ppp/8/1N6/P4P2/1BP3P1/4K1n1/8 w - - 3 36">Link</a> | Blitz |
-| Cerniglia | **qwertyou1346** | repetition ⏸️ | 4/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q3/6p1/6p1/2k1P3/4P3/6K1/4q3/8 b - - 16 62">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
