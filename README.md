@@ -9,15 +9,15 @@ qwertyou || Foo1
 
 ❯ cat ~/.profile
 Hello! I'm interested in cybersecurity.
-I'm currently studying web hacking and other related fields...
+Web / AppSec, vulnerability research, and CTF...
 ```
 <br>
   
 ## 🌱 Career
 ```diff
-# 2020
+# Education
 =========================================================
-+ 2020.03 ~         | KGU Computer Engineering
++ 2021.03 ~ 2026.03 | KGU Computer Engineering (GPA 3.87 / Major 4.25)
 
 
 # 2021
@@ -27,6 +27,8 @@ I'm currently studying web hacking and other related fields...
 
 # 2022
 =========================================================
++ 2022.03 ~ 2026.03 | Club - K.knock
++ 2022.04 ~ 2026.03 | KnockOn - Server Ops & Challenge Author
   2022.06 ~ 2022.06 | Certification - Network Manager 2
   2022.10 ~ 2022.10 | Certification - PC Master 2
 
@@ -35,8 +37,9 @@ I'm currently studying web hacking and other related fields...
 =========================================================
 + 2023.03 ~         | Club - K.knock 14th
   2023.10 ~ 2023.10 | 2023 Hspace CTF - Final (team K.knock)
+  2023.11 ~ 2023.11 | KIT Paper Contest - Bronze
   2023.11 ~         | KGU 2024 SW Bootcamp
-  2023.12 ~ 2023.12 | 2023 KCTF - 4th (solo)
+  2023.12 ~ 2023.12 | 2023 KCTF - Bronze (solo)
 + 2023.12 ~         | KnockOn Bootcamp STAFF
 
 
@@ -50,15 +53,21 @@ I'm currently studying web hacking and other related fields...
   2024.05 ~ 2024.05 | Certification - TOPCIT LEVEL 3 (520)
   2024.05 ~ 2024.05 | KnockOn 1st Seminar
   2024.06 ~ 2024.06 | Codegate CTF 2024 Quals - 49th (team K.knock)
++ 2024.07 ~ 2025.02 | BoB 13th - Vulnerability Analysis Track
   2024.11 ~ 2024.11 | U+ Security Hackathon - 25 (team 0w0)
++ 2024.12 ~ 2024.12 | KakaoTalk 1-Click ATO (KV-2024-157)
 
 
 # 2025
 =========================================================
-+ 2024.06 ~ 2025.02 | BoB 13th
-+ 2024.11 ~ 2025.01 | KakaoTalk 1 Click Account Takeover
 + 2025.01 ~         | K.knock Vice president
-+ 2025.02 ~         | CTF Team - DeadSec
++ 2025.03 ~         | CTF Team - DeadSec / Friendly Maltese Citizens
+  2025.05 ~ 2025.05 | Stealien - Pentest Engagement (SKT)
+  2025.05 ~ 2025.05 | Capstone Design - Excellence Award
+  2025.07 ~ 2025.07 | SQL Injection (FVE-2025-8da1-71585)
+  2025.09 ~ 2025.09 | Certification - OSCP+
++ 2025.09 ~ 2025.12 | Daangn - Application Security Intern
+  2025.11 ~ 2025.11 | Hack the Challenge Bug Bounty - KERIS Award
 ```
 <br>
 
