@@ -98,11 +98,12 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1232 | 1069 | 696 |
+| Current | 1232 | 1061 | 696 |
 | Best | 1295 | 1227 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| farshaadq | **qwertyou1346** | resigned ❌ | 17/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/3n2pp/p1p1pnp1/1p6/6P1/P2P2NP/1PP3B1/R2Q1R1K b - - 0 23">Link</a> | Blitz |
 | **qwertyou1346** | haykhhh | resigned ❌ | 16/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk1nr/1pp1bppp/p3p3/3pP3/b2P4/4BN2/PPP2PPP/R2QK2R w KQkq - 0 10">Link</a> | Blitz |
 | **qwertyou1346** | qqwweerrttyy987654321 | resigned ❌ | 15/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1kr1r3/1p5Q/8/Pb1p4/3P4/6P1/5PKP/8 w - - 0 35">Link</a> | Blitz |
 | COUPDEOUF | **qwertyou1346** | resigned ❌ | 13/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3q3k/pr3pnp/4pNp1/4P3/3P2PP/P1P1Q3/5P2/2R3K1 b - - 4 30">Link</a> | Blitz |
@@ -112,7 +113,6 @@ Play with me...!
 | **qwertyou1346** | AmericanDominator | win 🥇 | 8/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqr3/ppp2pkp/3p2p1/4P3/4PQP1/2N2N1P/PPP2P2/2KR1B1R b - - 0 13">Link</a> | Blitz |
 | rrkap23 | **qwertyou1346** | resigned ❌ | 8/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/pp3ppp/8/4pbBn/6P1/1B3P2/PPP1N2P/3R1RK1 b - g3 0 22">Link</a> | Blitz |
 | **qwertyou1346** | masterindo75 | timeout ❌ | 8/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5Rpp/4p3/2p5/4n3/n1k5/P4r1P/2KR4 w - - 0 34">Link</a> | Blitz |
-| interrupt | **qwertyou1346** | resigned ❌ | 8/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=B1bq1rk1/5ppp/pp1bp3/8/3P4/P3BN2/1P3PPP/2RQ1RK1 b - - 0 16">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
