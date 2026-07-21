@@ -103,6 +103,8 @@ Play with me...!
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **qwertyou1346** | VK012026 | timeout ❌ | 20/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/pbpp1pp1/1p2pq1p/3P4/2P1P3/4QN2/PP3PPP/R4RK1 w kq - 1 16">Link</a> | Blitz |
+| **qwertyou1346** | marcosel | win 🥇 | 20/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=N1b3kr/1p1p1Bpp/p2B4/8/4n3/2P5/PP4PP/R4R1K b - - 0 20">Link</a> | Blitz |
 | farshaadq | **qwertyou1346** | resigned ❌ | 17/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/3n2pp/p1p1pnp1/1p6/6P1/P2P2NP/1PP3B1/R2Q1R1K b - - 0 23">Link</a> | Blitz |
 | **qwertyou1346** | haykhhh | resigned ❌ | 16/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk1nr/1pp1bppp/p3p3/3pP3/b2P4/4BN2/PPP2PPP/R2QK2R w KQkq - 0 10">Link</a> | Blitz |
 | **qwertyou1346** | qqwweerrttyy987654321 | resigned ❌ | 15/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1kr1r3/1p5Q/8/Pb1p4/3P4/6P1/5PKP/8 w - - 0 35">Link</a> | Blitz |
@@ -111,8 +113,6 @@ Play with me...!
 | aliya_arshad_chaudhary | **qwertyou1346** | resigned ❌ | 10/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/3r2q1/p3Q3/1pp1P2P/4p3/8/PPP2P2/2K3R1 b - - 0 27">Link</a> | Blitz |
 | tom999 | **qwertyou1346** | win 🥇 | 8/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R6/6pp/5p2/2Np4/5n1P/2k5/5nr1/7K w - - 2 32">Link</a> | Blitz |
 | **qwertyou1346** | AmericanDominator | win 🥇 | 8/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqr3/ppp2pkp/3p2p1/4P3/4PQP1/2N2N1P/PPP2P2/2KR1B1R b - - 0 13">Link</a> | Blitz |
-| rrkap23 | **qwertyou1346** | resigned ❌ | 8/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/pp3ppp/8/4pbBn/6P1/1B3P2/PPP1N2P/3R1RK1 b - g3 0 22">Link</a> | Blitz |
-| **qwertyou1346** | masterindo75 | timeout ❌ | 8/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5Rpp/4p3/2p5/4n3/n1k5/P4r1P/2KR4 w - - 0 34">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
