@@ -98,21 +98,21 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1232 | 1061 | 696 |
+| Current | 1232 | 1076 | 696 |
 | Best | 1295 | 1227 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| **qwertyou1346** | VK012026 | timeout ❌ | 20/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/pbpp1pp1/1p2pq1p/3P4/2P1P3/4QN2/PP3PPP/R4RK1 w kq - 1 16">Link</a> | Blitz |
-| **qwertyou1346** | marcosel | win 🥇 | 20/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=N1b3kr/1p1p1Bpp/p2B4/8/4n3/2P5/PP4PP/R4R1K b - - 0 20">Link</a> | Blitz |
-| farshaadq | **qwertyou1346** | resigned ❌ | 17/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/3n2pp/p1p1pnp1/1p6/6P1/P2P2NP/1PP3B1/R2Q1R1K b - - 0 23">Link</a> | Blitz |
-| **qwertyou1346** | haykhhh | resigned ❌ | 16/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk1nr/1pp1bppp/p3p3/3pP3/b2P4/4BN2/PPP2PPP/R2QK2R w KQkq - 0 10">Link</a> | Blitz |
-| **qwertyou1346** | qqwweerrttyy987654321 | resigned ❌ | 15/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1kr1r3/1p5Q/8/Pb1p4/3P4/6P1/5PKP/8 w - - 0 35">Link</a> | Blitz |
-| COUPDEOUF | **qwertyou1346** | resigned ❌ | 13/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3q3k/pr3pnp/4pNp1/4P3/3P2PP/P1P1Q3/5P2/2R3K1 b - - 4 30">Link</a> | Blitz |
-| **qwertyou1346** | an1map | resigned ❌ | 12/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/Rb6/3Q3p/1p4pk/8/5pPq/1PP2P1P/6K1 w - - 1 37">Link</a> | Blitz |
-| aliya_arshad_chaudhary | **qwertyou1346** | resigned ❌ | 10/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/3r2q1/p3Q3/1pp1P2P/4p3/8/PPP2P2/2K3R1 b - - 0 27">Link</a> | Blitz |
-| tom999 | **qwertyou1346** | win 🥇 | 8/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R6/6pp/5p2/2Np4/5n1P/2k5/5nr1/7K w - - 2 32">Link</a> | Blitz |
-| **qwertyou1346** | AmericanDominator | win 🥇 | 8/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqr3/ppp2pkp/3p2p1/4P3/4PQP1/2N2N1P/PPP2P2/2KR1B1R b - - 0 13">Link</a> | Blitz |
+| **qwertyou1346** | bolitor | abandoned  | 21/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkb1r/pp2pp1p/2p5/6p1/3PpB2/5Q2/PPP2PPP/R3K2R w KQkq - 0 12">Link</a> | Blitz |
+| td1126 | **qwertyou1346** | win 🥇 | 21/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2r2kpp/5p2/3K1P2/8/1r4P1/p7/8 w - - 0 50">Link</a> | Blitz |
+| **qwertyou1346** | milesyaz | resigned ❌ | 21/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3rk1/3R1b1p/p7/1p5n/7R/8/PPP2P1P/2K5 w - - 0 29">Link</a> | Blitz |
+| regulus2510 | **qwertyou1346** | win 🥇 | 21/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr4/ppp2ppp/4p3/4n3/P7/1PN3PP/3r1P2/1R4K1 w - - 0 20">Link</a> | Blitz |
+| **qwertyou1346** | MOSA610 | win 🥇 | 21/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2k2/8/p5R1/1p1P4/5Pp1/1K6/2P2P1P/4R3 b - - 0 35">Link</a> | Blitz |
+| **qwertyou1346** | leeguarino | win 🥇 | 21/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/8/4QQ2/2K4p/8/5P2/6PP/8 b - - 1 59">Link</a> | Blitz |
+| and_ivanov | **qwertyou1346** | resigned ❌ | 21/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/R3pk2/5p2/5P2/4P3/6Br/5K2 b - - 0 52">Link</a> | Blitz |
+| **qwertyou1346** | mpumi7 | win 🥇 | 21/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q1k1/5pp1/8/8/7R/8/2P1RP1P/6K1 b - - 0 39">Link</a> | Blitz |
+| AmanM29 | **qwertyou1346** | win 🥇 | 21/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k2r/p4ppp/2p5/1p3pB1/8/2b5/P3BPPP/RR4K1 w kq - 0 18">Link</a> | Blitz |
+| alamsyah993 | **qwertyou1346** | resigned ❌ | 21/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k3r1/pppb1r2/3p4/3P4/8/P1N2nBP/1PP1N3/2KR3R b - - 0 24">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
