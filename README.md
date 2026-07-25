@@ -98,11 +98,13 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1232 | 1039 | 696 |
+| Current | 1232 | 1047 | 696 |
 | Best | 1295 | 1227 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **qwertyou1346** | ralphweegum | win 🥇 | 24/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/3p3k/6p1/2P1B3/7P/PP5P/4R2K b - - 2 34">Link</a> | Blitz |
+| **qwertyou1346** | yosidolfi | repetition ⏸️ | 24/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2kbR2/1R2n2p/p1nNp1p1/3pP3/8/3BP3/q2N2PP/3Q2K1 w - - 9 24">Link</a> | Blitz |
 | vishwa1908 | **qwertyou1346** | resigned ❌ | 23/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/p3k1pN/1p2pp2/5n2/5B2/4P1P1/PR3P1P/6K1 w - - 0 27">Link</a> | Blitz |
 | PinkPrincess420 | **qwertyou1346** | resigned ❌ | 23/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn3r1k/p2q2pp/b1pb3Q/5pN1/1P2p3/P3P1P1/1B1P1P1P/R3K2R b KQ - 6 19">Link</a> | Blitz |
 | **qwertyou1346** | pras1ea | resigned ❌ | 23/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/ppp2p1p/2p1b1p1/5nP1/4Q2P/b1qB1P2/P1P5/1K2R2R w - - 1 19">Link</a> | Blitz |
@@ -111,8 +113,6 @@ Play with me...!
 | **qwertyou1346** | TorMF | timeout ❌ | 23/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R4/5p2/2p5/p1k3P1/1p2rP1K/8/PQ3n2/8 w - - 7 50">Link</a> | Blitz |
 | Ahmed95Sal | **qwertyou1346** | win 🥇 | 23/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/pp3ppp/2p5/4np2/6n1/1PN3RQ/P1PP2PP/5q1K w - - 0 19">Link</a> | Blitz |
 | **qwertyou1346** | amir_yoeli1 | win 🥇 | 23/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kQnr/3p1p1p/pp2pq1B/8/B2bP3/8/PPP2PPP/RN2K2R b KQkq - 4 11">Link</a> | Blitz |
-| **qwertyou1346** | Lyambesigara45 | win 🥇 | 23/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr2nr/ppp2ppp/1bp1bq2/6BQ/4P3/2NB4/PPP2PPP/R4RK1 b - - 9 10">Link</a> | Blitz |
-| JimmyR76 | **qwertyou1346** | timeout ❌ | 23/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5pkp/5pp1/8/8/p7/1q3PPK/2Q5 b - - 0 47">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
