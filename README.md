@@ -98,11 +98,13 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1232 | 1047 | 696 |
+| Current | 1232 | 1039 | 696 |
 | Best | 1295 | 1227 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| khani_Ali | **qwertyou1346** | resigned ❌ | 25/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn3rk1/pp4pp/2p2p2/4P1BB/5Q1N/8/PPb2PPP/R3R1K1 b - - 0 18">Link</a> | Daily |
+| Kumahoon | **qwertyou1346** | resigned ❌ | 25/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1r4/ppp5/7p/8/5R1P/2N5/PPP5/2K5 b - - 0 33">Link</a> | Blitz |
 | **qwertyou1346** | ralphweegum | win 🥇 | 24/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/3p3k/6p1/2P1B3/7P/PP5P/4R2K b - - 2 34">Link</a> | Blitz |
 | **qwertyou1346** | yosidolfi | repetition ⏸️ | 24/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2kbR2/1R2n2p/p1nNp1p1/3pP3/8/3BP3/q2N2PP/3Q2K1 w - - 9 24">Link</a> | Blitz |
 | vishwa1908 | **qwertyou1346** | resigned ❌ | 23/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/p3k1pN/1p2pp2/5n2/5B2/4P1P1/PR3P1P/6K1 w - - 0 27">Link</a> | Blitz |
@@ -111,8 +113,6 @@ Play with me...!
 | Husainnnz | **qwertyou1346** | resigned ❌ | 23/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q3Rbk1/p4ppp/8/2p5/8/P2P1KP1/5P1P/8 b - - 0 30">Link</a> | Blitz |
 | ngabriel_tx | **qwertyou1346** | win 🥇 | 23/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/1p3ppp/p1p1r3/P4p2/1PPPn1n1/4B2P/4BPPq/R2Q1RK1 w - - 1 22">Link</a> | Blitz |
 | **qwertyou1346** | TorMF | timeout ❌ | 23/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R4/5p2/2p5/p1k3P1/1p2rP1K/8/PQ3n2/8 w - - 7 50">Link</a> | Blitz |
-| Ahmed95Sal | **qwertyou1346** | win 🥇 | 23/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/pp3ppp/2p5/4np2/6n1/1PN3RQ/P1PP2PP/5q1K w - - 0 19">Link</a> | Blitz |
-| **qwertyou1346** | amir_yoeli1 | win 🥇 | 23/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kQnr/3p1p1p/pp2pq1B/8/B2bP3/8/PPP2PPP/RN2K2R b KQkq - 4 11">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
