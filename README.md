@@ -98,21 +98,21 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1232 | 1073 | 696 |
+| Current | 1232 | 1058 | 696 |
 | Best | 1295 | 1227 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **qwertyou1346** | arsalandm | timeout ❌ | 28/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/3k1ppp/5P1P/4KP2/8/8 w - - 0 50">Link</a> | Blitz |
+| paranormalnorman | **qwertyou1346** | win 🥇 | 28/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2q1k1/pp3ppp/2p2p2/8/1B1P4/5P1N/PPb1B1PP/R4RK1 b - - 1 15">Link</a> | Blitz |
+| **qwertyou1346** | j711k | resigned ❌ | 28/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/ppp2ppp/2nq4/8/1b1P2bN/6RP/P4PP1/2B2RK1 w - - 0 21">Link</a> | Blitz |
+| bhenry1709 | **qwertyou1346** | win 🥇 | 28/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp4k1/2p5/4KPP1/1P1P4/2P5/P7/8 w - - 3 60">Link</a> | Blitz |
+| **qwertyou1346** | Jaykgurung | resigned ❌ | 28/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rrk1/p4ppp/q1p5/3n4/8/2QR4/PP3PPP/4K2R w K - 2 22">Link</a> | Blitz |
+| sheeeeeeeech | **qwertyou1346** | resigned ❌ | 28/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/7p/1p2p1pP/3pN1Rn/q2PpP2/r3P3/4Q3/5RK1 b - - 5 39">Link</a> | Blitz |
 | **qwertyou1346** | SoberPotato | timevsinsufficient ⏸️ | 27/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/5K2/7q/4k3/8/8 b - - 19 58">Link</a> | Blitz |
 | HozjanZ | **qwertyou1346** | win 🥇 | 27/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6rp/1k6/p7/2R5/4PP2/rp6/4K3 w - - 2 47">Link</a> | Blitz |
 | PiyushLaxmiSingh | **qwertyou1346** | win 🥇 | 27/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p1p2ppp/8/8/2P1p1P1/2PnP2P/Pr2K3/6NR w - - 1 23">Link</a> | Blitz |
 | **qwertyou1346** | BaoMinhHK40 | repetition ⏸️ | 27/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=q6r/2K2Qkp/3N2p1/2P5/8/8/7P/8 b - - 8 38">Link</a> | Blitz |
-| DuckIncognito | **qwertyou1346** | win 🥇 | 27/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/pp3p1p/2pq2p1/3n4/4B3/2P2PPb/P1QP3P/R5bK w - - 0 23">Link</a> | Blitz |
-| **qwertyou1346** | Adzra1 | win 🥇 | 27/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/k5RP/1p2P3/1P6/P1P5/2KR4 b - - 4 43">Link</a> | Blitz |
-| **qwertyou1346** | Tournesol91 | win 🥇 | 26/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rnk/pp5R/6p1/2p1p1B1/P3P3/7R/1r4PP/6K1 b - - 0 26">Link</a> | Blitz |
-| CarlosNik1 | **qwertyou1346** | resigned ❌ | 26/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/pp1Q3p/1q1b2p1/8/2P5/2BB4/1PP3PP/1K5R b - - 0 28">Link</a> | Blitz |
-| sanoxkumar | **qwertyou1346** | win 🥇 | 26/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k5r/p1p1q1p1/8/pPb5/4Q3/PbP1P2P/2K2PP1/RN6 w - - 1 30">Link</a> | Blitz |
-| **qwertyou1346** | yan500p | resigned ❌ | 26/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kbnr/pppp1ppp/8/8/3qP3/2N5/PPP2PPP/R1B1KB1R w KQkq - 0 7">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
