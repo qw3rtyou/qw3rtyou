@@ -98,11 +98,13 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1232 | 1107 | 696 |
+| Current | 1232 | 1099 | 696 |
 | Best | 1295 | 1227 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| C8Pablo | **qwertyou1346** | resigned ❌ | 2/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4k1/PP3p2/8/3p2pp/1R1Ppp2/4P1P1/5P1P/5K2 b - - 0 37">Link</a> | Blitz |
+| **qwertyou1346** | jmarkowi | stalemate ⏸️ | 2/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/k7/8/1Q6/4Q3/8/1Q1K4/8 b - - 8 55">Link</a> | Blitz |
 | Iambettertoday | **qwertyou1346** | resigned ❌ | 1/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5pk1/3R2p1/1P3P2/B3r1P1/KP6/8/8 b - - 0 44">Link</a> | Blitz |
 | NickBogle | **qwertyou1346** | win 🥇 | 1/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3r1k1/1b1N2pp/p7/1p1p1p2/3q4/1Q6/PP3PPP/3RR1K1 w - - 2 21">Link</a> | Blitz |
 | **qwertyou1346** | SDLPOP | checkmated ❌ | 1/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/4k1p1/1p1p4/4p3/1Pp4R/P5P1/5rqP/1Q2R1K1 w - - 4 41">Link</a> | Blitz |
@@ -111,8 +113,6 @@ Play with me...!
 | **qwertyou1346** | adriavm04 | win 🥇 | 31/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/pQ3ppp/3p4/2p1B3/4P3/8/PPP2PPP/3R1RK1 b - - 0 15">Link</a> | Blitz |
 | gunjan9914 | **qwertyou1346** | win 🥇 | 31/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/ppp1pp1p/6p1/3p4/3P4/1P6/P1P1PPPP/RNBQKBNR w KQkq - 0 3">Link</a> | Blitz |
 | TakTikLyon | **qwertyou1346** | win 🥇 | 30/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/p5pp/8/2p5/5p2/1qP2Q1P/6P1/7K w - - 0 36">Link</a> | Blitz |
-| **qwertyou1346** | CalistoSJCP | win 🥇 | 29/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5R2/p5kp/2p5/1p1p4/8/1B6/PPP4P/1K3R2 b - - 0 28">Link</a> | Blitz |
-| EgerszolatiSK | **qwertyou1346** | win 🥇 | 29/7/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1r4/ppp2ppp/8/3rP2q/1n6/5N1P/P4PP1/R4RK1 w - - 0 19">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
