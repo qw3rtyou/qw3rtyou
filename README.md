@@ -98,11 +98,13 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1232 | 1106 | 696 |
+| Current | 1232 | 1090 | 696 |
 | Best | 1295 | 1227 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **qwertyou1346** | Neftalimendoza | checkmated ❌ | 6/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q5/3r1p1k/3rb3/B4p2/5P2/6Pp/P5qP/2R1R1K1 w - - 10 40">Link</a> | Blitz |
+| z_l_n | **qwertyou1346** | resigned ❌ | 6/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Rrk1/p5qp/1p4p1/2p3P1/2Pp4/3P2P1/PP1Q2P1/4R1K1 b - - 0 27">Link</a> | Blitz |
 | Sudersanadas | **qwertyou1346** | timeout ❌ | 6/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/1r6/4B3/8/1kP2K2/1r6/1RR5 b - - 3 50">Link</a> | Blitz |
 | **qwertyou1346** | khani_Ali | win 🥇 | 5/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/rpR3pp/p5k1/P2p1r2/1P2p1Q1/6P1/5P1P/6K1 b - - 5 29">Link</a> | Daily |
 | pkondapalli | **qwertyou1346** | win 🥇 | 5/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2p5/k4p2/7P/3r1P2/1p4PK/8 w - - 0 54">Link</a> | Blitz |
@@ -111,8 +113,6 @@ Play with me...!
 | **qwertyou1346** | JRboy5553 | win 🥇 | 5/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2k5/Bp3pr1/2b1pPpp/5n2/2B2P1P/P7/1K1R4 b - - 0 41">Link</a> | Blitz |
 | shekharranaware | **qwertyou1346** | win 🥇 | 3/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/pp6/1Pn1p3/3p3p/Q2P4/8/P3Prq1/R3R1K1 w - - 12 33">Link</a> | Blitz |
 | alamsyah993 | **qwertyou1346** | win 🥇 | 3/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5p2/4p2P/2B1P3/8/3r1PK1/p5P1/8 w - - 0 56">Link</a> | Daily |
-| 3zo_jicks | **qwertyou1346** | resigned ❌ | 3/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2R5/6pk/p3p2n/P1N1P3/7r/2P1Np1P/5P1K/8 b - - 4 34">Link</a> | Blitz |
-| C8Pablo | **qwertyou1346** | resigned ❌ | 2/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4k1/PP3p2/8/3p2pp/1R1Ppp2/4P1P1/5P1P/5K2 b - - 0 37">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
