@@ -98,11 +98,13 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1232 | 1065 | 696 |
+| Current | 1232 | 1066 | 696 |
 | Best | 1295 | 1227 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| umikaze1210 | **qwertyou1346** | win 🥇 | 18/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6Rp/8/5k2/8/1P6/P6K/8 w - - 1 51">Link</a> | Blitz |
+| junzen02 | **qwertyou1346** | resigned ❌ | 18/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b1r1k1/1p5p/1NnN2p1/p2p4/P2P4/5p2/1P3PPP/5RK1 b - - 1 27">Link</a> | Blitz |
 | khani_Ali | **qwertyou1346** | checkmated ❌ | 17/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r3k1/5RpQ/4p1B1/8/8/5N1P/1q1r1PPK/8 b - - 3 42">Link</a> | Daily |
 | alamsyah993 | **qwertyou1346** | win 🥇 | 17/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2r1k2/5pRp/1p2p3/p3P3/8/P1Qp3q/1P1n1P2/6RK w - - 0 30">Link</a> | Daily |
 | **qwertyou1346** | aguila7000 | timeout ❌ | 17/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/4R3/3k4/5p1p/6n1/4N3/1K6/8 w - - 3 56">Link</a> | Blitz |
@@ -111,8 +113,6 @@ Play with me...!
 | Hugo-naleta | **qwertyou1346** | win 🥇 | 16/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/p4p1p/6pk/8/8/6b1/3q4/q5K1 w - - 0 50">Link</a> | Blitz |
 | anamenon | **qwertyou1346** | win 🥇 | 16/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rk2r/p1pqbp1p/8/1Q1P1p2/8/2n2N2/1PP3PP/1K1R3R w k - 0 18">Link</a> | Blitz |
 | **qwertyou1346** | The_Godfather2_2 | resigned ❌ | 16/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/ppk2ppp/8/2q5/2Q2P2/N7/PPP2nPP/4R2K w - - 1 25">Link</a> | Blitz |
-| **qwertyou1346** | Aditya-Khemka | resigned ❌ | 15/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5p1p/5p2/1r2pP2/3p2PP/2P5/3R1P2/1rK4R w - - 1 31">Link</a> | Blitz |
-| Avizzzz_007 | **qwertyou1346** | win 🥇 | 15/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p1k3/b7/8/4P3/P4P1p/1P3K1b/8 w - - 0 39">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
