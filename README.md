@@ -98,11 +98,12 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1232 | 1066 | 696 |
+| Current | 1232 | 1058 | 696 |
 | Best | 1295 | 1227 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Ab99_9 | **qwertyou1346** | timeout ❌ | 19/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/p4pk1/8/1p1rp1N1/3qB1P1/1Q5K/8/8 b - - 4 39">Link</a> | Blitz |
 | umikaze1210 | **qwertyou1346** | win 🥇 | 18/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6Rp/8/5k2/8/1P6/P6K/8 w - - 1 51">Link</a> | Blitz |
 | junzen02 | **qwertyou1346** | resigned ❌ | 18/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b1r1k1/1p5p/1NnN2p1/p2p4/P2P4/5p2/1P3PPP/5RK1 b - - 1 27">Link</a> | Blitz |
 | khani_Ali | **qwertyou1346** | checkmated ❌ | 17/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r3k1/5RpQ/4p1B1/8/8/5N1P/1q1r1PPK/8 b - - 3 42">Link</a> | Daily |
@@ -112,7 +113,6 @@ Play with me...!
 | **qwertyou1346** | localchuburna | checkmated ❌ | 17/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2r1k1/4bppp/3N1n2/2pP4/8/1B3Q2/PP3PPP/R1B1q1K1 w - - 0 18">Link</a> | Blitz |
 | Hugo-naleta | **qwertyou1346** | win 🥇 | 16/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/p4p1p/6pk/8/8/6b1/3q4/q5K1 w - - 0 50">Link</a> | Blitz |
 | anamenon | **qwertyou1346** | win 🥇 | 16/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rk2r/p1pqbp1p/8/1Q1P1p2/8/2n2N2/1PP3PP/1K1R3R w k - 0 18">Link</a> | Blitz |
-| **qwertyou1346** | The_Godfather2_2 | resigned ❌ | 16/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/ppk2ppp/8/2q5/2Q2P2/N7/PPP2nPP/4R2K w - - 1 25">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
