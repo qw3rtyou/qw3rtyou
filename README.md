@@ -98,11 +98,13 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1286 | 1089 | 696 |
+| Current | 1286 | 1073 | 696 |
 | Best | 1295 | 1227 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **qwertyou1346** | jagoan_mama08 | timeout ❌ | 7/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr4/1p4p1/p1p2n1p/2R2P2/4r3/3pBK1P/5P2/3R4 w - - 8 35">Link</a> | Blitz |
+| **qwertyou1346** | kavayopinto | resigned ❌ | 7/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3b4/1p1P1p1k/p1b1rP1p/7R/3R4/1P6/6PP/6K1 w - - 4 35">Link</a> | Blitz |
 | wiongchi | **qwertyou1346** | repetition ⏸️ | 6/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp1k4/4p3/3p4/6B1/3P1R2/r1r5/1K1R4 b - - 13 40">Link</a> | Daily |
 | dca127 | **qwertyou1346** | win 🥇 | 6/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2r2k1/5p1p/p1pbp2p/1pP5/3P2P1/2n4P/P3BP2/1R1R2K1 w - - 1 30">Link</a> | Blitz |
 | Tseren63 | **qwertyou1346** | insufficient ⏸️ | 6/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/4k1K1/8/8/8 b - - 0 61">Link</a> | Blitz |
@@ -111,8 +113,6 @@ Play with me...!
 | **qwertyou1346** | SKRKT | resigned ❌ | 5/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/2b4p/p3pp2/3p2p1/3Pb1P1/1P2B3/P4P1P/6K1 w - - 0 29">Link</a> | Blitz |
 | **qwertyou1346** | OFFICIALBEARD | timeout ❌ | 4/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/4R3/6k1/4Kpp1/2P5/7R/6PP/8 w - - 4 45">Link</a> | Blitz |
 | **qwertyou1346** | wiongchi | win 🥇 | 4/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/1p2Qpp1/p2q3p/2pp4/8/NP6/P2P1PPP/R3R1K1 b - - 1 19">Link</a> | Daily |
-| VLCBOSS | **qwertyou1346** | resigned ❌ | 31/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4q3/2p1k1pP/2p1Q3/p1Np3P/2rP1r2/2P2Pn1/PP6/2K4R b - - 0 32">Link</a> | Blitz |
-| **qwertyou1346** | HavajskiLovac | resigned ❌ | 28/8/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr1b1r/Qpp1p3/2q5/6B1/2P4n/3p1P2/PP5P/R5K1 b - - 0 27">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
