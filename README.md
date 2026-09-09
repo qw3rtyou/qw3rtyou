@@ -98,11 +98,13 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1286 | 1073 | 696 |
+| Current | 1286 | 1065 | 696 |
 | Best | 1295 | 1227 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **qwertyou1346** | wiongchi | win 🥇 | 8/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/1b1q1pQp/p3p3/1p3p1N/8/2P5/PPB2PPP/5RK1 b - - 9 24">Link</a> | Daily |
+| vitals0 | **qwertyou1346** | resigned ❌ | 8/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3N2k1/p4p2/4p1p1/3pP1Pp/5P1K/2P3QP/PP1q4/4R3 b - - 0 28">Link</a> | Blitz |
 | **qwertyou1346** | jagoan_mama08 | timeout ❌ | 7/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr4/1p4p1/p1p2n1p/2R2P2/4r3/3pBK1P/5P2/3R4 w - - 8 35">Link</a> | Blitz |
 | **qwertyou1346** | kavayopinto | resigned ❌ | 7/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3b4/1p1P1p1k/p1b1rP1p/7R/3R4/1P6/6PP/6K1 w - - 4 35">Link</a> | Blitz |
 | wiongchi | **qwertyou1346** | repetition ⏸️ | 6/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp1k4/4p3/3p4/6B1/3P1R2/r1r5/1K1R4 b - - 13 40">Link</a> | Daily |
@@ -111,8 +113,6 @@ Play with me...!
 | **qwertyou1346** | khani_Ali | win 🥇 | 5/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5K2/6Qk/8/8/8/8 b - - 6 61">Link</a> | Daily |
 | **qwertyou1346** | p1ruz123 | win 🥇 | 5/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q1N1k1/r4pp1/1r2p2p/1P1p4/8/6P1/5P1P/1R1n1K2 b - - 0 38">Link</a> | Blitz |
 | **qwertyou1346** | SKRKT | resigned ❌ | 5/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/2b4p/p3pp2/3p2p1/3Pb1P1/1P2B3/P4P1P/6K1 w - - 0 29">Link</a> | Blitz |
-| **qwertyou1346** | OFFICIALBEARD | timeout ❌ | 4/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/4R3/6k1/4Kpp1/2P5/7R/6PP/8 w - - 4 45">Link</a> | Blitz |
-| **qwertyou1346** | wiongchi | win 🥇 | 4/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/1p2Qpp1/p2q3p/2pp4/8/NP6/P2P1PPP/R3R1K1 b - - 1 19">Link</a> | Daily |
 
 <!--END_SECTION:chessStats-->
 
