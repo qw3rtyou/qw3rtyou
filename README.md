@@ -103,6 +103,7 @@ Play with me...!
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **qwertyou1346** | wiongchi | win 🥇 | 21/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/k7/8/1P5p/8/3B1Kb1/8 w - - 0 55">Link</a> | Daily |
 | **qwertyou1346** | khani_Ali | win 🥇 | 16/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/3Q2p1/P3Npkp/8/1P1K4/6P1/5P2/8 b - - 0 38">Link</a> | Daily |
 | **qwertyou1346** | zhumalenmarlen | timeout ❌ | 16/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/R4ppk/3B4/KP4r1/8/3b4/8/8 w - - 1 45">Link</a> | Blitz |
 | jfsbluespower | **qwertyou1346** | win 🥇 | 16/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn3rk1/pp3ppp/4p3/3p4/1Q1P4/4B3/PPP2P2/1K1q4 w - - 0 18">Link</a> | Blitz |
@@ -112,7 +113,6 @@ Play with me...!
 | bhoomaaaaa | **qwertyou1346** | resigned ❌ | 16/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1qkb1r/p1p2ppp/2Q1pn2/3p4/3P4/4PN2/PPP2PPP/RNB1K2R b KQk - 0 8">Link</a> | Blitz |
 | wiongchi | **qwertyou1346** | win 🥇 | 15/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/1q4p1/4p2p/pp2R1n1/2pP1Q2/P5P1/1P3P1P/5RK1 b - - 13 34">Link</a> | Daily |
 | **qwertyou1346** | ayachess2010 | timeout ❌ | 10/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/5p1p/P2Q4/3K2P1/k4P1P/8 w - - 15 63">Link</a> | Blitz |
-| **qwertyou1346** | divash_joshi | checkmated ❌ | 10/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/PR6/1n1P1k2/8/1P3P2/1K4r1 w - - 5 39">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
