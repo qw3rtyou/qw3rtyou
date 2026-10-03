@@ -98,11 +98,12 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1286 | 1110 | 696 |
+| Current | 1286 | 1118 | 696 |
 | Best | 1295 | 1227 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **qwertyou1346** | yaltay | win 🥇 | 2/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qkbnr/1pp1pBp1/p6p/4N3/2pP4/1P6/P4PPP/RNBQK2R b KQkq - 0 10">Link</a> | Blitz |
 | pudinachatni | **qwertyou1346** | checkmated ❌ | 30/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1b1r/6pp/5n2/p3R3/5k2/P2P2Q1/1PP2P2/6K1 b - - 3 38">Link</a> | Blitz |
 | davidimadk | **qwertyou1346** | abandoned  | 29/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k2r/pp3ppp/2p1pn2/5b2/2BP4/2q5/P1PN1PPP/1R1QK2R b Kkq - 1 11">Link</a> | Blitz |
 | khani_Ali | **qwertyou1346** | resigned ❌ | 29/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6K1/4kPRP/4q3/8/8/8/8/8 b - - 0 68">Link</a> | Daily |
@@ -112,7 +113,6 @@ Play with me...!
 | **qwertyou1346** | omarBaye | win 🥇 | 28/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1rk1/p4ppQ/1p1Nb3/2p5/5q2/8/PPP2P2/1K2R2R b - - 0 25">Link</a> | Blitz |
 | ibbo2 | **qwertyou1346** | timeout ❌ | 28/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3k3p/5KP1/7P/8/8/8/8 b - - 0 77">Link</a> | Blitz |
 | doticna | **qwertyou1346** | win 🥇 | 28/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rr4k1/p5pp/5p2/8/3P2P1/7P/3n1P2/3q2K1 w - - 0 34">Link</a> | Blitz |
-| **qwertyou1346** | kimuyeonu | timeout ❌ | 28/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p2rr1p/1bqkp3/3p4/8/2Pn3P/PP1NR3/1K1R4 w - - 2 38">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
