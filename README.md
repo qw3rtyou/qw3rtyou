@@ -103,6 +103,8 @@ Play with me...!
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **qwertyou1346** | khani_Ali | win 🥇 | 5/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2R3k1/p4p1p/5p1B/3p4/r7/8/5PPP/6K1 b - - 1 30">Link</a> | Daily |
+| **qwertyou1346** | wiongchi | resigned ❌ | 4/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2R3pp/4p2k/3pN3/1p2pPP1/1P2n3/7P/1r5K w - - 1 38">Link</a> | Daily |
 | Aha0811 | **qwertyou1346** | timeout ❌ | 4/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/5p1p/2p1p3/5b2/RP6/6PP/1qPQB2K/5R2 b - - 0 29">Link</a> | Blitz |
 | **qwertyou1346** | yaltay | win 🥇 | 2/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qkbnr/1pp1pBp1/p6p/4N3/2pP4/1P6/P4PPP/RNBQK2R b KQkq - 0 10">Link</a> | Blitz |
 | pudinachatni | **qwertyou1346** | checkmated ❌ | 30/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1b1r/6pp/5n2/p3R3/5k2/P2P2Q1/1PP2P2/6K1 b - - 3 38">Link</a> | Blitz |
@@ -111,8 +113,6 @@ Play with me...!
 | **qwertyou1346** | leandrootegui | resigned ❌ | 29/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/ppp3Qp/8/8/8/qP4pP/2PR4/1K3r2 w - - 1 28">Link</a> | Blitz |
 | **qwertyou1346** | holachessman | win 🥇 | 29/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R4k2/6pp/3p1r2/p2B4/b1P5/2P5/1r3PPP/4R1K1 b - - 5 29">Link</a> | Blitz |
 | d1v3d297 | **qwertyou1346** | win 🥇 | 29/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r2k/7p/2p2p2/8/6q1/3P1K2/5P2/8 w - - 0 35">Link</a> | Blitz |
-| **qwertyou1346** | omarBaye | win 🥇 | 28/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1rk1/p4ppQ/1p1Nb3/2p5/5q2/8/PPP2P2/1K2R2R b - - 0 25">Link</a> | Blitz |
-| ibbo2 | **qwertyou1346** | timeout ❌ | 28/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3k3p/5KP1/7P/8/8/8/8 b - - 0 77">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
