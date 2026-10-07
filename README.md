@@ -98,11 +98,12 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1286 | 1110 | 696 |
+| Current | 1286 | 1118 | 696 |
 | Best | 1295 | 1227 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **qwertyou1346** | ChesscakeKZ | win 🥇 | 6/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3BR1k/1p2B1pp/p1p5/4p3/6b1/8/PPP3PP/2K4n b - - 2 19">Link</a> | Blitz |
 | wiongchi | **qwertyou1346** | win 🥇 | 5/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p5/7p/1K3p2/5k2/5P1P/6P1/8 w - - 3 44">Link</a> | Daily |
 | **qwertyou1346** | khani_Ali | win 🥇 | 5/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2R3k1/p4p1p/5p1B/3p4/r7/8/5PPP/6K1 b - - 1 30">Link</a> | Daily |
 | **qwertyou1346** | wiongchi | resigned ❌ | 4/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2R3pp/4p2k/3pN3/1p2pPP1/1P2n3/7P/1r5K w - - 1 38">Link</a> | Daily |
@@ -112,7 +113,6 @@ Play with me...!
 | davidimadk | **qwertyou1346** | abandoned  | 29/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k2r/pp3ppp/2p1pn2/5b2/2BP4/2q5/P1PN1PPP/1R1QK2R b Kkq - 1 11">Link</a> | Blitz |
 | khani_Ali | **qwertyou1346** | resigned ❌ | 29/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6K1/4kPRP/4q3/8/8/8/8/8 b - - 0 68">Link</a> | Daily |
 | **qwertyou1346** | leandrootegui | resigned ❌ | 29/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/ppp3Qp/8/8/8/qP4pP/2PR4/1K3r2 w - - 1 28">Link</a> | Blitz |
-| **qwertyou1346** | holachessman | win 🥇 | 29/9/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R4k2/6pp/3p1r2/p2B4/b1P5/2P5/1r3PPP/4R1K1 b - - 5 29">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
