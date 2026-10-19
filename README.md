@@ -98,11 +98,13 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1286 | 1163 | 696 |
+| Current | 1286 | 1164 | 696 |
 | Best | 1295 | 1227 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **qwertyou1346** | BioBOMBA | checkmated ❌ | 18/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/7p/p4r2/8/2PQ4/3Bn1R1/PPP4P/2Kq4 w - - 3 35">Link</a> | Blitz |
+| hassandolmat | **qwertyou1346** | win 🥇 | 18/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3N2p1/8/8/P2kqP2/5KPP/1r6 w - - 0 46">Link</a> | Blitz |
 | wiongchi | **qwertyou1346** | win 🥇 | 16/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/1Pk4p/P2n1KpP/8/8/8 w - - 2 62">Link</a> | Daily |
 | **qwertyou1346** | Korkut3549 | abandoned  | 15/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k3/1p1n1p2/1pp3rp/3Pp1p1/2P1P3/P1bB1N1P/4KPP1/7R w q - 0 21">Link</a> | Blitz |
 | 11rjxs | **qwertyou1346** | resigned ❌ | 15/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/pp3p1p/2p2Pp1/8/3r4/P3QB2/2P3PP/R4RK1 b - - 0 26">Link</a> | Blitz |
@@ -111,8 +113,6 @@ Play with me...!
 | Mostafa-Mosleh | **qwertyou1346** | win 🥇 | 14/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/p1pN4/1pP1q3/1P5p/P2P4/4Pn2/2Q2PP1/2R2R1K w - - 0 31">Link</a> | Blitz |
 | **qwertyou1346** | KevinB46 | win 🥇 | 14/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kbnr/pp1p1ppp/4p3/8/1N1BP3/8/P1P2PPP/RN1QKB1R b KQkq - 0 8">Link</a> | Blitz |
 | **qwertyou1346** | BobbyBombolo | win 🥇 | 14/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/7p/6p1/3Q4/1P6/P3p1qP/6P1/2R4K b - - 4 42">Link</a> | Blitz |
-| vipul28 | **qwertyou1346** | resigned ❌ | 14/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kn4/ppp4p/3q1r2/8/4p1Q1/1P2P3/P1PP2PP/1R2KB1R b K - 0 19">Link</a> | Blitz |
-| jojomojo911 | **qwertyou1346** | win 🥇 | 14/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/5p2/7p/2P2p2/p2B1P2/3n1PPK/2r4P/8 w - - 1 44">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
