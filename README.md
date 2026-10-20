@@ -103,6 +103,9 @@ Play with me...!
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **qwertyou1346** | Shnyx10 | timeout ❌ | 19/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/6p1/2p4p/1p6/6Q1/PP3r2/K1q5/8 w - - 0 41">Link</a> | Blitz |
+| GUACHIMATUTE | **qwertyou1346** | repetition ⏸️ | 19/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7Q/pp2kppp/4p3/4P3/4p3/3qbN2/P5PP/4KR2 b - - 11 31">Link</a> | Blitz |
+| Ctrewin90 | **qwertyou1346** | win 🥇 | 19/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rbk1/p4ppp/2p2pq1/2P5/3P2P1/4B2P/P3R1B1/1r1Q2K1 w - - 0 27">Link</a> | Blitz |
 | **qwertyou1346** | BioBOMBA | checkmated ❌ | 18/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/7p/p4r2/8/2PQ4/3Bn1R1/PPP4P/2Kq4 w - - 3 35">Link</a> | Blitz |
 | hassandolmat | **qwertyou1346** | win 🥇 | 18/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3N2p1/8/8/P2kqP2/5KPP/1r6 w - - 0 46">Link</a> | Blitz |
 | wiongchi | **qwertyou1346** | win 🥇 | 16/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/1Pk4p/P2n1KpP/8/8/8 w - - 2 62">Link</a> | Daily |
@@ -110,9 +113,6 @@ Play with me...!
 | 11rjxs | **qwertyou1346** | resigned ❌ | 15/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/pp3p1p/2p2Pp1/8/3r4/P3QB2/2P3PP/R4RK1 b - - 0 26">Link</a> | Blitz |
 | **qwertyou1346** | Girsberd | resigned ❌ | 14/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6n1/7p/p3k2p/1p6/2p1b1P1/P4p1P/1PPK1P2/1B6 w - - 0 37">Link</a> | Blitz |
 | theslarv | **qwertyou1346** | win 🥇 | 14/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6k1/6p1/8/7P/6K1/8 w - - 2 58">Link</a> | Blitz |
-| Mostafa-Mosleh | **qwertyou1346** | win 🥇 | 14/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/p1pN4/1pP1q3/1P5p/P2P4/4Pn2/2Q2PP1/2R2R1K w - - 0 31">Link</a> | Blitz |
-| **qwertyou1346** | KevinB46 | win 🥇 | 14/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kbnr/pp1p1ppp/4p3/8/1N1BP3/8/P1P2PPP/RN1QKB1R b KQkq - 0 8">Link</a> | Blitz |
-| **qwertyou1346** | BobbyBombolo | win 🥇 | 14/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/7p/6p1/3Q4/1P6/P3p1qP/6P1/2R4K b - - 4 42">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
