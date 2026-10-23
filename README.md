@@ -103,6 +103,7 @@ Play with me...!
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| wiongchi | **qwertyou1346** | win 🥇 | 22/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/ppp2pp1/3bpn1p/8/5PPQ/1PP1q2P/P7/R4RK1 w - - 0 20">Link</a> | Daily |
 | **qwertyou1346** | Shnyx10 | timeout ❌ | 19/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/6p1/2p4p/1p6/6Q1/PP3r2/K1q5/8 w - - 0 41">Link</a> | Blitz |
 | GUACHIMATUTE | **qwertyou1346** | repetition ⏸️ | 19/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7Q/pp2kppp/4p3/4P3/4p3/3qbN2/P5PP/4KR2 b - - 11 31">Link</a> | Blitz |
 | Ctrewin90 | **qwertyou1346** | win 🥇 | 19/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rbk1/p4ppp/2p2pq1/2P5/3P2P1/4B2P/P3R1B1/1r1Q2K1 w - - 0 27">Link</a> | Blitz |
@@ -112,7 +113,6 @@ Play with me...!
 | **qwertyou1346** | Korkut3549 | abandoned  | 15/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k3/1p1n1p2/1pp3rp/3Pp1p1/2P1P3/P1bB1N1P/4KPP1/7R w q - 0 21">Link</a> | Blitz |
 | 11rjxs | **qwertyou1346** | resigned ❌ | 15/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/pp3p1p/2p2Pp1/8/3r4/P3QB2/2P3PP/R4RK1 b - - 0 26">Link</a> | Blitz |
 | **qwertyou1346** | Girsberd | resigned ❌ | 14/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6n1/7p/p3k2p/1p6/2p1b1P1/P4p1P/1PPK1P2/1B6 w - - 0 37">Link</a> | Blitz |
-| theslarv | **qwertyou1346** | win 🥇 | 14/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/6k1/6p1/8/7P/6K1/8 w - - 2 58">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
 
