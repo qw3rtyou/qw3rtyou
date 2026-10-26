@@ -98,11 +98,13 @@ Play with me...!
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1286 | 1198 | 696 |
+| Current | 1286 | 1207 | 696 |
 | Best | 1295 | 1227 | 1015 |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **qwertyou1346** | TheSGchessAccount | win 🥇 | 25/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/K5pP/2P2k2/1P3p1P/8/4Q3 b - - 0 49">Link</a> | Blitz |
+| wiongchi | **qwertyou1346** | win 🥇 | 25/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr4/ppp4Q/2q1p1p1/8/6P1/P3B2P/1PP2n2/2K4R w - - 0 22">Link</a> | Daily |
 | **qwertyou1346** | pietropassacantilli | win 🥇 | 24/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2q2rk1/5pQ1/4p2p/1p1p4/8/1P4R1/P5PK/8 b - - 0 38">Link</a> | Blitz |
 | 7AME0 | **qwertyou1346** | win 🥇 | 24/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r1r1k1/pp3ppp/8/3p1q2/1PnP4/P5K1/6PP/R1B5 w - - 0 25">Link</a> | Blitz |
 | **qwertyou1346** | Alaa-AlHadidi | win 🥇 | 24/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r3r/1pkN1p1p/p3p3/8/2R5/7n/PPPR2PP/2K5 b - - 3 22">Link</a> | Blitz |
@@ -111,8 +113,6 @@ Play with me...!
 | ribess69 | **qwertyou1346** | win 🥇 | 23/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/R4ppp/2pb4/5p2/1P1P1P2/Q1Pn1KPP/4q3/8 w - - 1 40">Link</a> | Blitz |
 | ansus2004 | **qwertyou1346** | win 🥇 | 23/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p5pp/4N3/2R1P2r/8/8/PP3PP1/3r2K1 w - - 1 28">Link</a> | Blitz |
 | **qwertyou1346** | Monayan93 | win 🥇 | 23/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/3r3p/p2B1p2/2q3p1/8/PQ6/5PPP/4R1K1 b - - 2 33">Link</a> | Blitz |
-| khani_Ali | **qwertyou1346** | resigned ❌ | 23/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6Rr/7P/5k1K/p1p5/1p6/1P1P4/1PP5/8 b - - 1 46">Link</a> | Daily |
-| wiongchi | **qwertyou1346** | win 🥇 | 22/10/2026 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/ppp2pp1/3bpn1p/8/5PPQ/1PP1q2P/P7/R4RK1 w - - 0 20">Link</a> | Daily |
 
 <!--END_SECTION:chessStats-->
 
